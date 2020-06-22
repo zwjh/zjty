@@ -1,0 +1,1568 @@
+{
+  "1": {
+    "id": 1,
+    "Jackpotid": 2,
+    "rewardid": 4248,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "2": {
+    "id": 2,
+    "Jackpotid": 2,
+    "rewardid": 4249,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "3": {
+    "id": 3,
+    "Jackpotid": 2,
+    "rewardid": 4250,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "4": {
+    "id": 4,
+    "Jackpotid": 2,
+    "rewardid": 4251,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "5": {
+    "id": 5,
+    "Jackpotid": 2,
+    "rewardid": 4252,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "6": {
+    "id": 6,
+    "Jackpotid": 2,
+    "rewardid": 4253,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "7": {
+    "id": 7,
+    "Jackpotid": 2,
+    "rewardid": 4254,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "8": {
+    "id": 8,
+    "Jackpotid": 2,
+    "rewardid": 4255,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "9": {
+    "id": 9,
+    "Jackpotid": 2,
+    "rewardid": 4256,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "10": {
+    "id": 10,
+    "Jackpotid": 2,
+    "rewardid": 4909,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "11": {
+    "id": 11,
+    "Jackpotid": 2,
+    "rewardid": 4257,
+    "gearposition": 1,
+    "Weightvalue": 20,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "12": {
+    "id": 12,
+    "Jackpotid": 2,
+    "rewardid": 4258,
+    "gearposition": 2,
+    "Weightvalue": 885,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "13": {
+    "id": 13,
+    "Jackpotid": 2,
+    "rewardid": 4259,
+    "gearposition": 2,
+    "Weightvalue": 974,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "14": {
+    "id": 14,
+    "Jackpotid": 2,
+    "rewardid": 4260,
+    "gearposition": 2,
+    "Weightvalue": 584,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "15": {
+    "id": 15,
+    "Jackpotid": 2,
+    "rewardid": 4261,
+    "gearposition": 2,
+    "Weightvalue": 1098,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "16": {
+    "id": 16,
+    "Jackpotid": 2,
+    "rewardid": 4262,
+    "gearposition": 2,
+    "Weightvalue": 974,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "17": {
+    "id": 17,
+    "Jackpotid": 2,
+    "rewardid": 4263,
+    "gearposition": 2,
+    "Weightvalue": 939,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "18": {
+    "id": 18,
+    "Jackpotid": 2,
+    "rewardid": 4264,
+    "gearposition": 2,
+    "Weightvalue": 442,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "19": {
+    "id": 19,
+    "Jackpotid": 2,
+    "rewardid": 4265,
+    "gearposition": 2,
+    "Weightvalue": 1098,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "20": {
+    "id": 20,
+    "Jackpotid": 2,
+    "rewardid": 4266,
+    "gearposition": 2,
+    "Weightvalue": 1098,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "21": {
+    "id": 21,
+    "Jackpotid": 2,
+    "rewardid": 4267,
+    "gearposition": 2,
+    "Weightvalue": 885,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "22": {
+    "id": 22,
+    "Jackpotid": 2,
+    "rewardid": 4268,
+    "gearposition": 2,
+    "Weightvalue": 885,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "23": {
+    "id": 23,
+    "Jackpotid": 2,
+    "rewardid": 4269,
+    "gearposition": 2,
+    "Weightvalue": 230,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "24": {
+    "id": 24,
+    "Jackpotid": 2,
+    "rewardid": 4270,
+    "gearposition": 2,
+    "Weightvalue": 230,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "25": {
+    "id": 25,
+    "Jackpotid": 2,
+    "rewardid": 4271,
+    "gearposition": 2,
+    "Weightvalue": 230,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "26": {
+    "id": 26,
+    "Jackpotid": 2,
+    "rewardid": 4272,
+    "gearposition": 2,
+    "Weightvalue": 230,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "27": {
+    "id": 27,
+    "Jackpotid": 2,
+    "rewardid": 4273,
+    "gearposition": 2,
+    "Weightvalue": 885,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "28": {
+    "id": 28,
+    "Jackpotid": 2,
+    "rewardid": 4274,
+    "gearposition": 2,
+    "Weightvalue": 832,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "29": {
+    "id": 29,
+    "Jackpotid": 2,
+    "rewardid": 4275,
+    "gearposition": 2,
+    "Weightvalue": 354,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "30": {
+    "id": 30,
+    "Jackpotid": 2,
+    "rewardid": 4276,
+    "gearposition": 2,
+    "Weightvalue": 177,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "31": {
+    "id": 31,
+    "Jackpotid": 2,
+    "rewardid": 4277,
+    "gearposition": 2,
+    "Weightvalue": 354,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "32": {
+    "id": 32,
+    "Jackpotid": 2,
+    "rewardid": 4278,
+    "gearposition": 2,
+    "Weightvalue": 779,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "33": {
+    "id": 33,
+    "Jackpotid": 2,
+    "rewardid": 4279,
+    "gearposition": 2,
+    "Weightvalue": 726,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "34": {
+    "id": 34,
+    "Jackpotid": 2,
+    "rewardid": 4280,
+    "gearposition": 3,
+    "Weightvalue": 2257,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "35": {
+    "id": 35,
+    "Jackpotid": 2,
+    "rewardid": 4281,
+    "gearposition": 3,
+    "Weightvalue": 1881,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "36": {
+    "id": 36,
+    "Jackpotid": 2,
+    "rewardid": 4282,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "37": {
+    "id": 37,
+    "Jackpotid": 2,
+    "rewardid": 4283,
+    "gearposition": 3,
+    "Weightvalue": 2120,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "38": {
+    "id": 38,
+    "Jackpotid": 2,
+    "rewardid": 4284,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "39": {
+    "id": 39,
+    "Jackpotid": 2,
+    "rewardid": 4285,
+    "gearposition": 3,
+    "Weightvalue": 2257,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "40": {
+    "id": 40,
+    "Jackpotid": 2,
+    "rewardid": 4286,
+    "gearposition": 3,
+    "Weightvalue": 2120,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "41": {
+    "id": 41,
+    "Jackpotid": 2,
+    "rewardid": 4287,
+    "gearposition": 3,
+    "Weightvalue": 2360,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "42": {
+    "id": 42,
+    "Jackpotid": 2,
+    "rewardid": 4288,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "43": {
+    "id": 43,
+    "Jackpotid": 2,
+    "rewardid": 4289,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "44": {
+    "id": 44,
+    "Jackpotid": 2,
+    "rewardid": 4290,
+    "gearposition": 3,
+    "Weightvalue": 2120,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "45": {
+    "id": 45,
+    "Jackpotid": 2,
+    "rewardid": 4291,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "46": {
+    "id": 46,
+    "Jackpotid": 2,
+    "rewardid": 4292,
+    "gearposition": 3,
+    "Weightvalue": 2120,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "47": {
+    "id": 47,
+    "Jackpotid": 2,
+    "rewardid": 4293,
+    "gearposition": 3,
+    "Weightvalue": 1402,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "48": {
+    "id": 48,
+    "Jackpotid": 2,
+    "rewardid": 4294,
+    "gearposition": 3,
+    "Weightvalue": 2257,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "49": {
+    "id": 49,
+    "Jackpotid": 2,
+    "rewardid": 4295,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "50": {
+    "id": 50,
+    "Jackpotid": 2,
+    "rewardid": 4296,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "51": {
+    "id": 51,
+    "Jackpotid": 2,
+    "rewardid": 4297,
+    "gearposition": 3,
+    "Weightvalue": 2257,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "52": {
+    "id": 52,
+    "Jackpotid": 2,
+    "rewardid": 4298,
+    "gearposition": 3,
+    "Weightvalue": 1881,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "53": {
+    "id": 53,
+    "Jackpotid": 2,
+    "rewardid": 4299,
+    "gearposition": 3,
+    "Weightvalue": 1436,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "54": {
+    "id": 54,
+    "Jackpotid": 2,
+    "rewardid": 4300,
+    "gearposition": 3,
+    "Weightvalue": 2257,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "55": {
+    "id": 55,
+    "Jackpotid": 2,
+    "rewardid": 4301,
+    "gearposition": 3,
+    "Weightvalue": 1881,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "56": {
+    "id": 56,
+    "Jackpotid": 2,
+    "rewardid": 4302,
+    "gearposition": 3,
+    "Weightvalue": 1505,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "57": {
+    "id": 57,
+    "Jackpotid": 2,
+    "rewardid": 4303,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "58": {
+    "id": 58,
+    "Jackpotid": 2,
+    "rewardid": 4304,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "59": {
+    "id": 59,
+    "Jackpotid": 2,
+    "rewardid": 4305,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "60": {
+    "id": 60,
+    "Jackpotid": 2,
+    "rewardid": 4306,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "61": {
+    "id": 61,
+    "Jackpotid": 2,
+    "rewardid": 4307,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "62": {
+    "id": 62,
+    "Jackpotid": 2,
+    "rewardid": 4308,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "63": {
+    "id": 63,
+    "Jackpotid": 2,
+    "rewardid": 4309,
+    "gearposition": 3,
+    "Weightvalue": 342,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "64": {
+    "id": 64,
+    "Jackpotid": 2,
+    "rewardid": 4310,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "65": {
+    "id": 65,
+    "Jackpotid": 2,
+    "rewardid": 4311,
+    "gearposition": 3,
+    "Weightvalue": 342,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "66": {
+    "id": 66,
+    "Jackpotid": 2,
+    "rewardid": 4312,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "67": {
+    "id": 67,
+    "Jackpotid": 2,
+    "rewardid": 4313,
+    "gearposition": 3,
+    "Weightvalue": 342,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "68": {
+    "id": 68,
+    "Jackpotid": 2,
+    "rewardid": 4314,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "69": {
+    "id": 69,
+    "Jackpotid": 2,
+    "rewardid": 4315,
+    "gearposition": 3,
+    "Weightvalue": 342,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "70": {
+    "id": 70,
+    "Jackpotid": 2,
+    "rewardid": 4316,
+    "gearposition": 3,
+    "Weightvalue": 2428,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "71": {
+    "id": 71,
+    "Jackpotid": 2,
+    "rewardid": 4317,
+    "gearposition": 3,
+    "Weightvalue": 342,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "72": {
+    "id": 72,
+    "Jackpotid": 2,
+    "rewardid": 4318,
+    "gearposition": 3,
+    "Weightvalue": 2257,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "73": {
+    "id": 73,
+    "Jackpotid": 2,
+    "rewardid": 4319,
+    "gearposition": 3,
+    "Weightvalue": 855,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "74": {
+    "id": 74,
+    "Jackpotid": 2,
+    "rewardid": 4320,
+    "gearposition": 3,
+    "Weightvalue": 2428,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "75": {
+    "id": 75,
+    "Jackpotid": 2,
+    "rewardid": 4321,
+    "gearposition": 3,
+    "Weightvalue": 2839,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "76": {
+    "id": 76,
+    "Jackpotid": 2,
+    "rewardid": 4322,
+    "gearposition": 3,
+    "Weightvalue": 1881,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "77": {
+    "id": 77,
+    "Jackpotid": 2,
+    "rewardid": 4323,
+    "gearposition": 3,
+    "Weightvalue": 1710,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "78": {
+    "id": 78,
+    "Jackpotid": 1,
+    "rewardid": 4324,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "79": {
+    "id": 79,
+    "Jackpotid": 1,
+    "rewardid": 4325,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "80": {
+    "id": 80,
+    "Jackpotid": 1,
+    "rewardid": 4326,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "81": {
+    "id": 81,
+    "Jackpotid": 1,
+    "rewardid": 4327,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "82": {
+    "id": 82,
+    "Jackpotid": 1,
+    "rewardid": 4328,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "83": {
+    "id": 83,
+    "Jackpotid": 1,
+    "rewardid": 4329,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "84": {
+    "id": 84,
+    "Jackpotid": 1,
+    "rewardid": 4330,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "85": {
+    "id": 85,
+    "Jackpotid": 1,
+    "rewardid": 4331,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "86": {
+    "id": 86,
+    "Jackpotid": 1,
+    "rewardid": 4332,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "87": {
+    "id": 87,
+    "Jackpotid": 1,
+    "rewardid": 4333,
+    "gearposition": 1,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "88": {
+    "id": 88,
+    "Jackpotid": 1,
+    "rewardid": 4334,
+    "gearposition": 2,
+    "Weightvalue": 1187,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "89": {
+    "id": 89,
+    "Jackpotid": 1,
+    "rewardid": 4335,
+    "gearposition": 2,
+    "Weightvalue": 981,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "90": {
+    "id": 90,
+    "Jackpotid": 1,
+    "rewardid": 4336,
+    "gearposition": 2,
+    "Weightvalue": 294,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "91": {
+    "id": 91,
+    "Jackpotid": 1,
+    "rewardid": 4337,
+    "gearposition": 2,
+    "Weightvalue": 736,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "92": {
+    "id": 92,
+    "Jackpotid": 1,
+    "rewardid": 4338,
+    "gearposition": 2,
+    "Weightvalue": 816,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "93": {
+    "id": 93,
+    "Jackpotid": 1,
+    "rewardid": 4339,
+    "gearposition": 2,
+    "Weightvalue": 783,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "94": {
+    "id": 94,
+    "Jackpotid": 1,
+    "rewardid": 4340,
+    "gearposition": 2,
+    "Weightvalue": 147,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "95": {
+    "id": 95,
+    "Jackpotid": 1,
+    "rewardid": 4341,
+    "gearposition": 2,
+    "Weightvalue": 368,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "96": {
+    "id": 96,
+    "Jackpotid": 1,
+    "rewardid": 4342,
+    "gearposition": 2,
+    "Weightvalue": 736,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "97": {
+    "id": 97,
+    "Jackpotid": 1,
+    "rewardid": 4343,
+    "gearposition": 2,
+    "Weightvalue": 736,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "98": {
+    "id": 98,
+    "Jackpotid": 1,
+    "rewardid": 4344,
+    "gearposition": 2,
+    "Weightvalue": 736,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "99": {
+    "id": 99,
+    "Jackpotid": 1,
+    "rewardid": 4345,
+    "gearposition": 2,
+    "Weightvalue": 736,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "100": {
+    "id": 100,
+    "Jackpotid": 1,
+    "rewardid": 4346,
+    "gearposition": 2,
+    "Weightvalue": 919,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "101": {
+    "id": 101,
+    "Jackpotid": 1,
+    "rewardid": 4347,
+    "gearposition": 2,
+    "Weightvalue": 117,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "102": {
+    "id": 102,
+    "Jackpotid": 1,
+    "rewardid": 4348,
+    "gearposition": 2,
+    "Weightvalue": 61,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "103": {
+    "id": 103,
+    "Jackpotid": 1,
+    "rewardid": 4349,
+    "gearposition": 2,
+    "Weightvalue": 58,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "104": {
+    "id": 104,
+    "Jackpotid": 1,
+    "rewardid": 4350,
+    "gearposition": 2,
+    "Weightvalue": 489,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "105": {
+    "id": 105,
+    "Jackpotid": 1,
+    "rewardid": 4351,
+    "gearposition": 3,
+    "Weightvalue": 1781,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "106": {
+    "id": 106,
+    "Jackpotid": 1,
+    "rewardid": 4352,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "107": {
+    "id": 107,
+    "Jackpotid": 1,
+    "rewardid": 4353,
+    "gearposition": 3,
+    "Weightvalue": 3344,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "108": {
+    "id": 108,
+    "Jackpotid": 1,
+    "rewardid": 4354,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "109": {
+    "id": 109,
+    "Jackpotid": 1,
+    "rewardid": 4355,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "110": {
+    "id": 110,
+    "Jackpotid": 1,
+    "rewardid": 4356,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "111": {
+    "id": 111,
+    "Jackpotid": 1,
+    "rewardid": 4357,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "112": {
+    "id": 112,
+    "Jackpotid": 1,
+    "rewardid": 4358,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "113": {
+    "id": 113,
+    "Jackpotid": 1,
+    "rewardid": 4359,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "114": {
+    "id": 114,
+    "Jackpotid": 1,
+    "rewardid": 4360,
+    "gearposition": 3,
+    "Weightvalue": 2668,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "115": {
+    "id": 115,
+    "Jackpotid": 1,
+    "rewardid": 4361,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "116": {
+    "id": 116,
+    "Jackpotid": 1,
+    "rewardid": 4362,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "117": {
+    "id": 117,
+    "Jackpotid": 1,
+    "rewardid": 4363,
+    "gearposition": 3,
+    "Weightvalue": 1607,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "118": {
+    "id": 118,
+    "Jackpotid": 1,
+    "rewardid": 4364,
+    "gearposition": 3,
+    "Weightvalue": 2668,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "119": {
+    "id": 119,
+    "Jackpotid": 1,
+    "rewardid": 4365,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "120": {
+    "id": 120,
+    "Jackpotid": 1,
+    "rewardid": 4366,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "121": {
+    "id": 121,
+    "Jackpotid": 1,
+    "rewardid": 4367,
+    "gearposition": 3,
+    "Weightvalue": 2668,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "122": {
+    "id": 122,
+    "Jackpotid": 1,
+    "rewardid": 4368,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "123": {
+    "id": 123,
+    "Jackpotid": 1,
+    "rewardid": 4369,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "124": {
+    "id": 124,
+    "Jackpotid": 1,
+    "rewardid": 4370,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "125": {
+    "id": 125,
+    "Jackpotid": 1,
+    "rewardid": 4371,
+    "gearposition": 3,
+    "Weightvalue": 3569,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "126": {
+    "id": 126,
+    "Jackpotid": 1,
+    "rewardid": 4372,
+    "gearposition": 3,
+    "Weightvalue": 3569,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "127": {
+    "id": 127,
+    "Jackpotid": 1,
+    "rewardid": 4373,
+    "gearposition": 3,
+    "Weightvalue": 3569,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "128": {
+    "id": 128,
+    "Jackpotid": 1,
+    "rewardid": 4374,
+    "gearposition": 3,
+    "Weightvalue": 2668,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "129": {
+    "id": 129,
+    "Jackpotid": 1,
+    "rewardid": 4375,
+    "gearposition": 3,
+    "Weightvalue": 4019,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "130": {
+    "id": 130,
+    "Jackpotid": 1,
+    "rewardid": 4376,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "131": {
+    "id": 131,
+    "Jackpotid": 1,
+    "rewardid": 4377,
+    "gearposition": 3,
+    "Weightvalue": 6430,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "132": {
+    "id": 132,
+    "Jackpotid": 1,
+    "rewardid": 4378,
+    "gearposition": 3,
+    "Weightvalue": 3215,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "133": {
+    "id": 133,
+    "Jackpotid": 3,
+    "rewardid": 4396,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "134": {
+    "id": 134,
+    "Jackpotid": 3,
+    "rewardid": 4397,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "135": {
+    "id": 135,
+    "Jackpotid": 3,
+    "rewardid": 4398,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "136": {
+    "id": 136,
+    "Jackpotid": 3,
+    "rewardid": 4399,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "137": {
+    "id": 137,
+    "Jackpotid": 3,
+    "rewardid": 4400,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "138": {
+    "id": 138,
+    "Jackpotid": 3,
+    "rewardid": 4401,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "139": {
+    "id": 139,
+    "Jackpotid": 3,
+    "rewardid": 4402,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "140": {
+    "id": 140,
+    "Jackpotid": 3,
+    "rewardid": 4403,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "141": {
+    "id": 141,
+    "Jackpotid": 3,
+    "rewardid": 4404,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "142": {
+    "id": 142,
+    "Jackpotid": 3,
+    "rewardid": 4405,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "143": {
+    "id": 143,
+    "Jackpotid": 3,
+    "rewardid": 4406,
+    "gearposition": 1,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "144": {
+    "id": 144,
+    "Jackpotid": 3,
+    "rewardid": 4407,
+    "gearposition": 2,
+    "Weightvalue": 5,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "145": {
+    "id": 145,
+    "Jackpotid": 3,
+    "rewardid": 4408,
+    "gearposition": 2,
+    "Weightvalue": 50,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "146": {
+    "id": 146,
+    "Jackpotid": 3,
+    "rewardid": 4409,
+    "gearposition": 2,
+    "Weightvalue": 42,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "147": {
+    "id": 147,
+    "Jackpotid": 3,
+    "rewardid": 4410,
+    "gearposition": 2,
+    "Weightvalue": 42,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "148": {
+    "id": 148,
+    "Jackpotid": 3,
+    "rewardid": 4411,
+    "gearposition": 2,
+    "Weightvalue": 25,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "149": {
+    "id": 149,
+    "Jackpotid": 3,
+    "rewardid": 4412,
+    "gearposition": 2,
+    "Weightvalue": 25,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "150": {
+    "id": 150,
+    "Jackpotid": 3,
+    "rewardid": 4413,
+    "gearposition": 2,
+    "Weightvalue": 25,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "151": {
+    "id": 151,
+    "Jackpotid": 3,
+    "rewardid": 4414,
+    "gearposition": 2,
+    "Weightvalue": 25,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "152": {
+    "id": 152,
+    "Jackpotid": 3,
+    "rewardid": 4415,
+    "gearposition": 2,
+    "Weightvalue": 3,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "153": {
+    "id": 153,
+    "Jackpotid": 3,
+    "rewardid": 4416,
+    "gearposition": 2,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "154": {
+    "id": 154,
+    "Jackpotid": 3,
+    "rewardid": 4417,
+    "gearposition": 2,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "155": {
+    "id": 155,
+    "Jackpotid": 3,
+    "rewardid": 4418,
+    "gearposition": 2,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "156": {
+    "id": 156,
+    "Jackpotid": 3,
+    "rewardid": 4419,
+    "gearposition": 2,
+    "Weightvalue": 10,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "157": {
+    "id": 157,
+    "Jackpotid": 3,
+    "rewardid": 4420,
+    "gearposition": 2,
+    "Weightvalue": 2,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "158": {
+    "id": 158,
+    "Jackpotid": 3,
+    "rewardid": 4421,
+    "gearposition": 2,
+    "Weightvalue": 1,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "159": {
+    "id": 159,
+    "Jackpotid": 3,
+    "rewardid": 4437,
+    "gearposition": 2,
+    "Weightvalue": 29,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "160": {
+    "id": 160,
+    "Jackpotid": 3,
+    "rewardid": 4422,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "161": {
+    "id": 161,
+    "Jackpotid": 3,
+    "rewardid": 4423,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "162": {
+    "id": 162,
+    "Jackpotid": 3,
+    "rewardid": 4424,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "163": {
+    "id": 163,
+    "Jackpotid": 3,
+    "rewardid": 4425,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "164": {
+    "id": 164,
+    "Jackpotid": 3,
+    "rewardid": 4426,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "165": {
+    "id": 165,
+    "Jackpotid": 3,
+    "rewardid": 4427,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "166": {
+    "id": 166,
+    "Jackpotid": 3,
+    "rewardid": 4428,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "167": {
+    "id": 167,
+    "Jackpotid": 3,
+    "rewardid": 4429,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "168": {
+    "id": 168,
+    "Jackpotid": 3,
+    "rewardid": 4430,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "169": {
+    "id": 169,
+    "Jackpotid": 3,
+    "rewardid": 4431,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "170": {
+    "id": 170,
+    "Jackpotid": 3,
+    "rewardid": 4432,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "171": {
+    "id": 171,
+    "Jackpotid": 3,
+    "rewardid": 4433,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "172": {
+    "id": 172,
+    "Jackpotid": 3,
+    "rewardid": 4434,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "173": {
+    "id": 173,
+    "Jackpotid": 3,
+    "rewardid": 4435,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  },
+  "174": {
+    "id": 174,
+    "Jackpotid": 3,
+    "rewardid": 4436,
+    "gearposition": 3,
+    "Weightvalue": 45,
+    "icon": "0",
+    "rubbish": "1"
+  }
+}

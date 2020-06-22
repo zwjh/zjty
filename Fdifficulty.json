@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "type": 1,
+    "difficulty": 1,
+    "speed": 2,
+    "successrate": 80,
+    "bonuspoints": 5,
+    "scalingratio": "0"
+  },
+  "2": {
+    "id": 2,
+    "type": 1,
+    "difficulty": 2,
+    "speed": 1,
+    "successrate": 20,
+    "bonuspoints": 10,
+    "scalingratio": "0"
+  },
+  "3": {
+    "id": 3,
+    "type": 2,
+    "difficulty": 1,
+    "speed": 2,
+    "successrate": 80,
+    "bonuspoints": 5,
+    "scalingratio": "0.5"
+  },
+  "4": {
+    "id": 4,
+    "type": 2,
+    "difficulty": 2,
+    "speed": 1,
+    "successrate": 20,
+    "bonuspoints": 10,
+    "scalingratio": "0.4"
+  }
+}

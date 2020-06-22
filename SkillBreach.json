@@ -361,6 +361,30 @@
   },
   "30": {
     "id": 30,
+    "breachgroup": 4,
+    "breachTime": 11,
+    "needItem": 10104,
+    "needItemNum": 2,
+    "SuccessRate": -0.444,
+    "needTime": 41600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "31": {
+    "id": 31,
+    "breachgroup": 4,
+    "breachTime": 12,
+    "needItem": 10104,
+    "needItemNum": 3,
+    "SuccessRate": -0.53279999999999994,
+    "needTime": 41600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "32": {
+    "id": 32,
     "breachgroup": 5,
     "breachTime": 1,
     "needItem": 10101,
@@ -371,8 +395,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "31": {
-    "id": 31,
+  "33": {
+    "id": 33,
     "breachgroup": 5,
     "breachTime": 2,
     "needItem": 10101,
@@ -383,8 +407,8 @@
     "luck": 89,
     "worldMessage": 0
   },
-  "32": {
-    "id": 32,
+  "34": {
+    "id": 34,
     "breachgroup": 5,
     "breachTime": 3,
     "needItem": 10101,
@@ -395,8 +419,8 @@
     "luck": 67,
     "worldMessage": 0
   },
-  "33": {
-    "id": 33,
+  "35": {
+    "id": 35,
     "breachgroup": 5,
     "breachTime": 4,
     "needItem": 10102,
@@ -407,8 +431,8 @@
     "luck": 56,
     "worldMessage": 0
   },
-  "34": {
-    "id": 34,
+  "36": {
+    "id": 36,
     "breachgroup": 5,
     "breachTime": 5,
     "needItem": 10102,
@@ -419,8 +443,8 @@
     "luck": 44,
     "worldMessage": 0
   },
-  "35": {
-    "id": 35,
+  "37": {
+    "id": 37,
     "breachgroup": 5,
     "breachTime": 6,
     "needItem": 10102,
@@ -431,8 +455,8 @@
     "luck": 33,
     "worldMessage": 0
   },
-  "36": {
-    "id": 36,
+  "38": {
+    "id": 38,
     "breachgroup": 5,
     "breachTime": 7,
     "needItem": 10103,
@@ -443,8 +467,8 @@
     "luck": 22,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "37": {
-    "id": 37,
+  "39": {
+    "id": 39,
     "breachgroup": 5,
     "breachTime": 8,
     "needItem": 10103,
@@ -455,8 +479,8 @@
     "luck": 11,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "38": {
-    "id": 38,
+  "40": {
+    "id": 40,
     "breachgroup": 5,
     "breachTime": 9,
     "needItem": 10105,
@@ -467,8 +491,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "39": {
-    "id": 39,
+  "41": {
+    "id": 41,
     "breachgroup": 5,
     "breachTime": 10,
     "needItem": 10105,
@@ -479,8 +503,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "40": {
-    "id": 40,
+  "42": {
+    "id": 42,
+    "breachgroup": 5,
+    "breachTime": 11,
+    "needItem": 10105,
+    "needItemNum": 2,
+    "SuccessRate": -0.372,
+    "needTime": 28900,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "43": {
+    "id": 43,
+    "breachgroup": 5,
+    "breachTime": 12,
+    "needItem": 10105,
+    "needItemNum": 3,
+    "SuccessRate": -0.44639999999999996,
+    "needTime": 28900,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "44": {
+    "id": 44,
     "breachgroup": 6,
     "breachTime": 1,
     "needItem": 10101,
@@ -491,8 +539,8 @@
     "luck": 86,
     "worldMessage": 0
   },
-  "41": {
-    "id": 41,
+  "45": {
+    "id": 45,
     "breachgroup": 6,
     "breachTime": 2,
     "needItem": 10101,
@@ -503,8 +551,8 @@
     "luck": 69,
     "worldMessage": 0
   },
-  "42": {
-    "id": 42,
+  "46": {
+    "id": 46,
     "breachgroup": 6,
     "breachTime": 3,
     "needItem": 10101,
@@ -515,8 +563,8 @@
     "luck": 52,
     "worldMessage": 0
   },
-  "43": {
-    "id": 43,
+  "47": {
+    "id": 47,
     "breachgroup": 6,
     "breachTime": 4,
     "needItem": 10102,
@@ -527,8 +575,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "44": {
-    "id": 44,
+  "48": {
+    "id": 48,
     "breachgroup": 6,
     "breachTime": 5,
     "needItem": 10102,
@@ -539,8 +587,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "45": {
-    "id": 45,
+  "49": {
+    "id": 49,
     "breachgroup": 6,
     "breachTime": 6,
     "needItem": 10102,
@@ -551,8 +599,8 @@
     "luck": 25,
     "worldMessage": 0
   },
-  "46": {
-    "id": 46,
+  "50": {
+    "id": 50,
     "breachgroup": 6,
     "breachTime": 7,
     "needItem": 10103,
@@ -563,8 +611,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "47": {
-    "id": 47,
+  "51": {
+    "id": 51,
     "breachgroup": 6,
     "breachTime": 8,
     "needItem": 10103,
@@ -575,8 +623,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "48": {
-    "id": 48,
+  "52": {
+    "id": 52,
     "breachgroup": 6,
     "breachTime": 9,
     "needItem": 10106,
@@ -587,8 +635,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "49": {
-    "id": 49,
+  "53": {
+    "id": 53,
     "breachgroup": 6,
     "breachTime": 10,
     "needItem": 10106,
@@ -599,8 +647,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "50": {
-    "id": 50,
+  "54": {
+    "id": 54,
+    "breachgroup": 6,
+    "breachTime": 11,
+    "needItem": 10106,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "55": {
+    "id": 55,
+    "breachgroup": 6,
+    "breachTime": 12,
+    "needItem": 10106,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "56": {
+    "id": 56,
     "breachgroup": 7,
     "breachTime": 1,
     "needItem": 10101,
@@ -611,8 +683,8 @@
     "luck": 91,
     "worldMessage": 0
   },
-  "51": {
-    "id": 51,
+  "57": {
+    "id": 57,
     "breachgroup": 7,
     "breachTime": 2,
     "needItem": 10101,
@@ -623,8 +695,8 @@
     "luck": 73,
     "worldMessage": 0
   },
-  "52": {
-    "id": 52,
+  "58": {
+    "id": 58,
     "breachgroup": 7,
     "breachTime": 3,
     "needItem": 10101,
@@ -635,8 +707,8 @@
     "luck": 55,
     "worldMessage": 0
   },
-  "53": {
-    "id": 53,
+  "59": {
+    "id": 59,
     "breachgroup": 7,
     "breachTime": 4,
     "needItem": 10102,
@@ -647,8 +719,8 @@
     "luck": 45,
     "worldMessage": 0
   },
-  "54": {
-    "id": 54,
+  "60": {
+    "id": 60,
     "breachgroup": 7,
     "breachTime": 5,
     "needItem": 10102,
@@ -659,8 +731,8 @@
     "luck": 36,
     "worldMessage": 0
   },
-  "55": {
-    "id": 55,
+  "61": {
+    "id": 61,
     "breachgroup": 7,
     "breachTime": 6,
     "needItem": 10102,
@@ -671,8 +743,8 @@
     "luck": 27,
     "worldMessage": 0
   },
-  "56": {
-    "id": 56,
+  "62": {
+    "id": 62,
     "breachgroup": 7,
     "breachTime": 7,
     "needItem": 10103,
@@ -683,8 +755,8 @@
     "luck": 18,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "57": {
-    "id": 57,
+  "63": {
+    "id": 63,
     "breachgroup": 7,
     "breachTime": 8,
     "needItem": 10103,
@@ -695,8 +767,8 @@
     "luck": 9,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "58": {
-    "id": 58,
+  "64": {
+    "id": 64,
     "breachgroup": 7,
     "breachTime": 9,
     "needItem": 10107,
@@ -707,8 +779,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "59": {
-    "id": 59,
+  "65": {
+    "id": 65,
     "breachgroup": 7,
     "breachTime": 10,
     "needItem": 10107,
@@ -719,8 +791,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "60": {
-    "id": 60,
+  "66": {
+    "id": 66,
+    "breachgroup": 7,
+    "breachTime": 11,
+    "needItem": 10107,
+    "needItemNum": 2,
+    "SuccessRate": -0.444,
+    "needTime": 43300,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "67": {
+    "id": 67,
+    "breachgroup": 7,
+    "breachTime": 12,
+    "needItem": 10107,
+    "needItemNum": 3,
+    "SuccessRate": -0.53279999999999994,
+    "needTime": 43300,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "68": {
+    "id": 68,
     "breachgroup": 8,
     "breachTime": 1,
     "needItem": 10101,
@@ -731,8 +827,8 @@
     "luck": 88,
     "worldMessage": 0
   },
-  "61": {
-    "id": 61,
+  "69": {
+    "id": 69,
     "breachgroup": 8,
     "breachTime": 2,
     "needItem": 10101,
@@ -743,8 +839,8 @@
     "luck": 70,
     "worldMessage": 0
   },
-  "62": {
-    "id": 62,
+  "70": {
+    "id": 70,
     "breachgroup": 8,
     "breachTime": 3,
     "needItem": 10101,
@@ -755,8 +851,8 @@
     "luck": 53,
     "worldMessage": 0
   },
-  "63": {
-    "id": 63,
+  "71": {
+    "id": 71,
     "breachgroup": 8,
     "breachTime": 4,
     "needItem": 10102,
@@ -767,8 +863,8 @@
     "luck": 43,
     "worldMessage": 0
   },
-  "64": {
-    "id": 64,
+  "72": {
+    "id": 72,
     "breachgroup": 8,
     "breachTime": 5,
     "needItem": 10102,
@@ -779,8 +875,8 @@
     "luck": 35,
     "worldMessage": 0
   },
-  "65": {
-    "id": 65,
+  "73": {
+    "id": 73,
     "breachgroup": 8,
     "breachTime": 6,
     "needItem": 10102,
@@ -791,8 +887,8 @@
     "luck": 26,
     "worldMessage": 0
   },
-  "66": {
-    "id": 66,
+  "74": {
+    "id": 74,
     "breachgroup": 8,
     "breachTime": 7,
     "needItem": 10103,
@@ -803,8 +899,8 @@
     "luck": 18,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "67": {
-    "id": 67,
+  "75": {
+    "id": 75,
     "breachgroup": 8,
     "breachTime": 8,
     "needItem": 10103,
@@ -815,8 +911,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "68": {
-    "id": 68,
+  "76": {
+    "id": 76,
     "breachgroup": 8,
     "breachTime": 9,
     "needItem": 10108,
@@ -827,8 +923,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "69": {
-    "id": 69,
+  "77": {
+    "id": 77,
     "breachgroup": 8,
     "breachTime": 10,
     "needItem": 10108,
@@ -839,8 +935,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>要诀千寻，百炼功成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "70": {
-    "id": 70,
+  "78": {
+    "id": 78,
+    "breachgroup": 8,
+    "breachTime": 11,
+    "needItem": 10108,
+    "needItemNum": 2,
+    "SuccessRate": -0.46799999999999997,
+    "needTime": 46700,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "79": {
+    "id": 79,
+    "breachgroup": 8,
+    "breachTime": 12,
+    "needItem": 10108,
+    "needItemNum": 3,
+    "SuccessRate": -0.5616,
+    "needTime": 46700,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "80": {
+    "id": 80,
     "breachgroup": 9,
     "breachTime": 1,
     "needItem": 10101,
@@ -851,8 +971,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "71": {
-    "id": 71,
+  "81": {
+    "id": 81,
     "breachgroup": 9,
     "breachTime": 2,
     "needItem": 10101,
@@ -863,8 +983,8 @@
     "luck": 84,
     "worldMessage": 0
   },
-  "72": {
-    "id": 72,
+  "82": {
+    "id": 82,
     "breachgroup": 9,
     "breachTime": 3,
     "needItem": 10101,
@@ -875,8 +995,8 @@
     "luck": 63,
     "worldMessage": 0
   },
-  "73": {
-    "id": 73,
+  "83": {
+    "id": 83,
     "breachgroup": 9,
     "breachTime": 4,
     "needItem": 10102,
@@ -887,8 +1007,8 @@
     "luck": 53,
     "worldMessage": 0
   },
-  "74": {
-    "id": 74,
+  "84": {
+    "id": 84,
     "breachgroup": 9,
     "breachTime": 5,
     "needItem": 10102,
@@ -899,8 +1019,8 @@
     "luck": 41,
     "worldMessage": 0
   },
-  "75": {
-    "id": 75,
+  "85": {
+    "id": 85,
     "breachgroup": 9,
     "breachTime": 6,
     "needItem": 10102,
@@ -911,8 +1031,8 @@
     "luck": 31,
     "worldMessage": 0
   },
-  "76": {
-    "id": 76,
+  "86": {
+    "id": 86,
     "breachgroup": 9,
     "breachTime": 7,
     "needItem": 10103,
@@ -923,8 +1043,8 @@
     "luck": 20,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "77": {
-    "id": 77,
+  "87": {
+    "id": 87,
     "breachgroup": 9,
     "breachTime": 8,
     "needItem": 10103,
@@ -935,8 +1055,8 @@
     "luck": 10,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "78": {
-    "id": 78,
+  "88": {
+    "id": 88,
     "breachgroup": 9,
     "breachTime": 9,
     "needItem": 10109,
@@ -947,8 +1067,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "79": {
-    "id": 79,
+  "89": {
+    "id": 89,
     "breachgroup": 9,
     "breachTime": 10,
     "needItem": 10109,
@@ -959,8 +1079,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>长剑龙吟，气寒西北，声满东南，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "80": {
-    "id": 80,
+  "90": {
+    "id": 90,
+    "breachgroup": 9,
+    "breachTime": 11,
+    "needItem": 10109,
+    "needItemNum": 2,
+    "SuccessRate": -0.384,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "91": {
+    "id": 91,
+    "breachgroup": 9,
+    "breachTime": 12,
+    "needItem": 10109,
+    "needItemNum": 3,
+    "SuccessRate": -0.4608,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "92": {
+    "id": 92,
     "breachgroup": 10,
     "breachTime": 1,
     "needItem": 10101,
@@ -971,8 +1115,8 @@
     "luck": 86,
     "worldMessage": 0
   },
-  "81": {
-    "id": 81,
+  "93": {
+    "id": 93,
     "breachgroup": 10,
     "breachTime": 2,
     "needItem": 10101,
@@ -983,8 +1127,8 @@
     "luck": 69,
     "worldMessage": 0
   },
-  "82": {
-    "id": 82,
+  "94": {
+    "id": 94,
     "breachgroup": 10,
     "breachTime": 3,
     "needItem": 10101,
@@ -995,8 +1139,8 @@
     "luck": 52,
     "worldMessage": 0
   },
-  "83": {
-    "id": 83,
+  "95": {
+    "id": 95,
     "breachgroup": 10,
     "breachTime": 4,
     "needItem": 10102,
@@ -1007,8 +1151,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "84": {
-    "id": 84,
+  "96": {
+    "id": 96,
     "breachgroup": 10,
     "breachTime": 5,
     "needItem": 10102,
@@ -1019,8 +1163,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "85": {
-    "id": 85,
+  "97": {
+    "id": 97,
     "breachgroup": 10,
     "breachTime": 6,
     "needItem": 10102,
@@ -1031,8 +1175,8 @@
     "luck": 25,
     "worldMessage": 0
   },
-  "86": {
-    "id": 86,
+  "98": {
+    "id": 98,
     "breachgroup": 10,
     "breachTime": 7,
     "needItem": 10103,
@@ -1043,8 +1187,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "87": {
-    "id": 87,
+  "99": {
+    "id": 99,
     "breachgroup": 10,
     "breachTime": 8,
     "needItem": 10103,
@@ -1055,8 +1199,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "88": {
-    "id": 88,
+  "100": {
+    "id": 100,
     "breachgroup": 10,
     "breachTime": 9,
     "needItem": 10110,
@@ -1067,8 +1211,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "89": {
-    "id": 89,
+  "101": {
+    "id": 101,
     "breachgroup": 10,
     "breachTime": 10,
     "needItem": 10110,
@@ -1079,8 +1223,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>要诀千寻，百炼功成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "90": {
-    "id": 90,
+  "102": {
+    "id": 102,
+    "breachgroup": 10,
+    "breachTime": 11,
+    "needItem": 10110,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "103": {
+    "id": 103,
+    "breachgroup": 10,
+    "breachTime": 12,
+    "needItem": 10110,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "104": {
+    "id": 104,
     "breachgroup": 11,
     "breachTime": 1,
     "needItem": 10101,
@@ -1091,8 +1259,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "91": {
-    "id": 91,
+  "105": {
+    "id": 105,
     "breachgroup": 11,
     "breachTime": 2,
     "needItem": 10101,
@@ -1103,8 +1271,8 @@
     "luck": 90,
     "worldMessage": 0
   },
-  "92": {
-    "id": 92,
+  "106": {
+    "id": 106,
     "breachgroup": 11,
     "breachTime": 3,
     "needItem": 10101,
@@ -1115,8 +1283,8 @@
     "luck": 67,
     "worldMessage": 0
   },
-  "93": {
-    "id": 93,
+  "107": {
+    "id": 107,
     "breachgroup": 11,
     "breachTime": 4,
     "needItem": 10102,
@@ -1127,8 +1295,8 @@
     "luck": 57,
     "worldMessage": 0
   },
-  "94": {
-    "id": 94,
+  "108": {
+    "id": 108,
     "breachgroup": 11,
     "breachTime": 5,
     "needItem": 10102,
@@ -1139,8 +1307,8 @@
     "luck": 45,
     "worldMessage": 0
   },
-  "95": {
-    "id": 95,
+  "109": {
+    "id": 109,
     "breachgroup": 11,
     "breachTime": 6,
     "needItem": 10102,
@@ -1151,8 +1319,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "96": {
-    "id": 96,
+  "110": {
+    "id": 110,
     "breachgroup": 11,
     "breachTime": 7,
     "needItem": 10103,
@@ -1163,8 +1331,8 @@
     "luck": 22,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "97": {
-    "id": 97,
+  "111": {
+    "id": 111,
     "breachgroup": 11,
     "breachTime": 8,
     "needItem": 10103,
@@ -1175,8 +1343,8 @@
     "luck": 11,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "98": {
-    "id": 98,
+  "112": {
+    "id": 112,
     "breachgroup": 11,
     "breachTime": 9,
     "needItem": 10111,
@@ -1187,8 +1355,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "99": {
-    "id": 99,
+  "113": {
+    "id": 113,
     "breachgroup": 11,
     "breachTime": 10,
     "needItem": 10111,
@@ -1199,8 +1367,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>要诀千寻，百炼功成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "100": {
-    "id": 100,
+  "114": {
+    "id": 114,
+    "breachgroup": 11,
+    "breachTime": 11,
+    "needItem": 10111,
+    "needItemNum": 2,
+    "SuccessRate": -0.36,
+    "needTime": 28200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "115": {
+    "id": 115,
+    "breachgroup": 11,
+    "breachTime": 12,
+    "needItem": 10111,
+    "needItemNum": 3,
+    "SuccessRate": -0.432,
+    "needTime": 28200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "116": {
+    "id": 116,
     "breachgroup": 12,
     "breachTime": 1,
     "needItem": 10101,
@@ -1211,8 +1403,8 @@
     "luck": 83,
     "worldMessage": 0
   },
-  "101": {
-    "id": 101,
+  "117": {
+    "id": 117,
     "breachgroup": 12,
     "breachTime": 2,
     "needItem": 10101,
@@ -1223,8 +1415,8 @@
     "luck": 66,
     "worldMessage": 0
   },
-  "102": {
-    "id": 102,
+  "118": {
+    "id": 118,
     "breachgroup": 12,
     "breachTime": 3,
     "needItem": 10101,
@@ -1235,8 +1427,8 @@
     "luck": 50,
     "worldMessage": 0
   },
-  "103": {
-    "id": 103,
+  "119": {
+    "id": 119,
     "breachgroup": 12,
     "breachTime": 4,
     "needItem": 10102,
@@ -1247,8 +1439,8 @@
     "luck": 41,
     "worldMessage": 0
   },
-  "104": {
-    "id": 104,
+  "120": {
+    "id": 120,
     "breachgroup": 12,
     "breachTime": 5,
     "needItem": 10102,
@@ -1259,8 +1451,8 @@
     "luck": 33,
     "worldMessage": 0
   },
-  "105": {
-    "id": 105,
+  "121": {
+    "id": 121,
     "breachgroup": 12,
     "breachTime": 6,
     "needItem": 10102,
@@ -1271,8 +1463,8 @@
     "luck": 24,
     "worldMessage": 0
   },
-  "106": {
-    "id": 106,
+  "122": {
+    "id": 122,
     "breachgroup": 12,
     "breachTime": 7,
     "needItem": 10103,
@@ -1283,8 +1475,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "107": {
-    "id": 107,
+  "123": {
+    "id": 123,
     "breachgroup": 12,
     "breachTime": 8,
     "needItem": 10103,
@@ -1295,8 +1487,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "108": {
-    "id": 108,
+  "124": {
+    "id": 124,
     "breachgroup": 12,
     "breachTime": 9,
     "needItem": 10112,
@@ -1307,8 +1499,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "109": {
-    "id": 109,
+  "125": {
+    "id": 125,
     "breachgroup": 12,
     "breachTime": 10,
     "needItem": 10112,
@@ -1319,8 +1511,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>要诀千寻，百炼功成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "110": {
-    "id": 110,
+  "126": {
+    "id": 126,
+    "breachgroup": 12,
+    "breachTime": 11,
+    "needItem": 10112,
+    "needItemNum": 2,
+    "SuccessRate": -0.49199999999999994,
+    "needTime": 52000,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "127": {
+    "id": 127,
+    "breachgroup": 12,
+    "breachTime": 12,
+    "needItem": 10112,
+    "needItemNum": 3,
+    "SuccessRate": -0.59039999999999992,
+    "needTime": 52000,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "128": {
+    "id": 128,
     "breachgroup": 13,
     "breachTime": 1,
     "needItem": 10101,
@@ -1331,8 +1547,8 @@
     "luck": 95,
     "worldMessage": 0
   },
-  "111": {
-    "id": 111,
+  "129": {
+    "id": 129,
     "breachgroup": 13,
     "breachTime": 2,
     "needItem": 10101,
@@ -1343,8 +1559,8 @@
     "luck": 76,
     "worldMessage": 0
   },
-  "112": {
-    "id": 112,
+  "130": {
+    "id": 130,
     "breachgroup": 13,
     "breachTime": 3,
     "needItem": 10101,
@@ -1355,8 +1571,8 @@
     "luck": 57,
     "worldMessage": 0
   },
-  "113": {
-    "id": 113,
+  "131": {
+    "id": 131,
     "breachgroup": 13,
     "breachTime": 4,
     "needItem": 10102,
@@ -1367,8 +1583,8 @@
     "luck": 48,
     "worldMessage": 0
   },
-  "114": {
-    "id": 114,
+  "132": {
+    "id": 132,
     "breachgroup": 13,
     "breachTime": 5,
     "needItem": 10102,
@@ -1379,8 +1595,8 @@
     "luck": 38,
     "worldMessage": 0
   },
-  "115": {
-    "id": 115,
+  "133": {
+    "id": 133,
     "breachgroup": 13,
     "breachTime": 6,
     "needItem": 10102,
@@ -1391,8 +1607,8 @@
     "luck": 28,
     "worldMessage": 0
   },
-  "116": {
-    "id": 116,
+  "134": {
+    "id": 134,
     "breachgroup": 13,
     "breachTime": 7,
     "needItem": 10103,
@@ -1403,8 +1619,8 @@
     "luck": 19,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "117": {
-    "id": 117,
+  "135": {
+    "id": 135,
     "breachgroup": 13,
     "breachTime": 8,
     "needItem": 10103,
@@ -1415,8 +1631,8 @@
     "luck": 9,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "118": {
-    "id": 118,
+  "136": {
+    "id": 136,
     "breachgroup": 13,
     "breachTime": 9,
     "needItem": 10113,
@@ -1427,8 +1643,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "119": {
-    "id": 119,
+  "137": {
+    "id": 137,
     "breachgroup": 13,
     "breachTime": 10,
     "needItem": 10113,
@@ -1439,8 +1655,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "120": {
-    "id": 120,
+  "138": {
+    "id": 138,
+    "breachgroup": 13,
+    "breachTime": 11,
+    "needItem": 10113,
+    "needItemNum": 2,
+    "SuccessRate": -0.432,
+    "needTime": 39200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "139": {
+    "id": 139,
+    "breachgroup": 13,
+    "breachTime": 12,
+    "needItem": 10113,
+    "needItemNum": 3,
+    "SuccessRate": -0.5184,
+    "needTime": 39200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "140": {
+    "id": 140,
     "breachgroup": 14,
     "breachTime": 1,
     "needItem": 10101,
@@ -1451,8 +1691,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "121": {
-    "id": 121,
+  "141": {
+    "id": 141,
     "breachgroup": 14,
     "breachTime": 2,
     "needItem": 10101,
@@ -1463,8 +1703,8 @@
     "luck": 84,
     "worldMessage": 0
   },
-  "122": {
-    "id": 122,
+  "142": {
+    "id": 142,
     "breachgroup": 14,
     "breachTime": 3,
     "needItem": 10101,
@@ -1475,8 +1715,8 @@
     "luck": 63,
     "worldMessage": 0
   },
-  "123": {
-    "id": 123,
+  "143": {
+    "id": 143,
     "breachgroup": 14,
     "breachTime": 4,
     "needItem": 10102,
@@ -1487,8 +1727,8 @@
     "luck": 53,
     "worldMessage": 0
   },
-  "124": {
-    "id": 124,
+  "144": {
+    "id": 144,
     "breachgroup": 14,
     "breachTime": 5,
     "needItem": 10102,
@@ -1499,8 +1739,8 @@
     "luck": 41,
     "worldMessage": 0
   },
-  "125": {
-    "id": 125,
+  "145": {
+    "id": 145,
     "breachgroup": 14,
     "breachTime": 6,
     "needItem": 10102,
@@ -1511,8 +1751,8 @@
     "luck": 31,
     "worldMessage": 0
   },
-  "126": {
-    "id": 126,
+  "146": {
+    "id": 146,
     "breachgroup": 14,
     "breachTime": 7,
     "needItem": 10103,
@@ -1523,8 +1763,8 @@
     "luck": 20,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "127": {
-    "id": 127,
+  "147": {
+    "id": 147,
     "breachgroup": 14,
     "breachTime": 8,
     "needItem": 10103,
@@ -1535,8 +1775,8 @@
     "luck": 10,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "128": {
-    "id": 128,
+  "148": {
+    "id": 148,
     "breachgroup": 14,
     "breachTime": 9,
     "needItem": 10114,
@@ -1547,8 +1787,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "129": {
-    "id": 129,
+  "149": {
+    "id": 149,
     "breachgroup": 14,
     "breachTime": 10,
     "needItem": 10114,
@@ -1559,8 +1799,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "130": {
-    "id": 130,
+  "150": {
+    "id": 150,
+    "breachgroup": 14,
+    "breachTime": 11,
+    "needItem": 10114,
+    "needItemNum": 2,
+    "SuccessRate": -0.384,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "151": {
+    "id": 151,
+    "breachgroup": 14,
+    "breachTime": 12,
+    "needItem": 10114,
+    "needItemNum": 3,
+    "SuccessRate": -0.4608,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "152": {
+    "id": 152,
     "breachgroup": 15,
     "breachTime": 1,
     "needItem": 10101,
@@ -1571,8 +1835,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "131": {
-    "id": 131,
+  "153": {
+    "id": 153,
     "breachgroup": 15,
     "breachTime": 2,
     "needItem": 10101,
@@ -1583,8 +1847,8 @@
     "luck": 95,
     "worldMessage": 0
   },
-  "132": {
-    "id": 132,
+  "154": {
+    "id": 154,
     "breachgroup": 15,
     "breachTime": 3,
     "needItem": 10101,
@@ -1595,8 +1859,8 @@
     "luck": 71,
     "worldMessage": 0
   },
-  "133": {
-    "id": 133,
+  "155": {
+    "id": 155,
     "breachgroup": 15,
     "breachTime": 4,
     "needItem": 10102,
@@ -1607,8 +1871,8 @@
     "luck": 59,
     "worldMessage": 0
   },
-  "134": {
-    "id": 134,
+  "156": {
+    "id": 156,
     "breachgroup": 15,
     "breachTime": 5,
     "needItem": 10102,
@@ -1619,8 +1883,8 @@
     "luck": 47,
     "worldMessage": 0
   },
-  "135": {
-    "id": 135,
+  "157": {
+    "id": 157,
     "breachgroup": 15,
     "breachTime": 6,
     "needItem": 10102,
@@ -1631,8 +1895,8 @@
     "luck": 36,
     "worldMessage": 0
   },
-  "136": {
-    "id": 136,
+  "158": {
+    "id": 158,
     "breachgroup": 15,
     "breachTime": 7,
     "needItem": 10103,
@@ -1643,8 +1907,8 @@
     "luck": 23,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "137": {
-    "id": 137,
+  "159": {
+    "id": 159,
     "breachgroup": 15,
     "breachTime": 8,
     "needItem": 10103,
@@ -1655,8 +1919,8 @@
     "luck": 12,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "138": {
-    "id": 138,
+  "160": {
+    "id": 160,
     "breachgroup": 15,
     "breachTime": 9,
     "needItem": 10115,
@@ -1667,8 +1931,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "139": {
-    "id": 139,
+  "161": {
+    "id": 161,
     "breachgroup": 15,
     "breachTime": 10,
     "needItem": 10115,
@@ -1679,8 +1943,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "140": {
-    "id": 140,
+  "162": {
+    "id": 162,
+    "breachgroup": 15,
+    "breachTime": 11,
+    "needItem": 10115,
+    "needItemNum": 2,
+    "SuccessRate": -0.348,
+    "needTime": 25600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "163": {
+    "id": 163,
+    "breachgroup": 15,
+    "breachTime": 12,
+    "needItem": 10115,
+    "needItemNum": 3,
+    "SuccessRate": -0.41759999999999997,
+    "needTime": 25600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "164": {
+    "id": 164,
     "breachgroup": 16,
     "breachTime": 1,
     "needItem": 10101,
@@ -1691,8 +1979,8 @@
     "luck": 86,
     "worldMessage": 0
   },
-  "141": {
-    "id": 141,
+  "165": {
+    "id": 165,
     "breachgroup": 16,
     "breachTime": 2,
     "needItem": 10101,
@@ -1703,8 +1991,8 @@
     "luck": 69,
     "worldMessage": 0
   },
-  "142": {
-    "id": 142,
+  "166": {
+    "id": 166,
     "breachgroup": 16,
     "breachTime": 3,
     "needItem": 10101,
@@ -1715,8 +2003,8 @@
     "luck": 52,
     "worldMessage": 0
   },
-  "143": {
-    "id": 143,
+  "167": {
+    "id": 167,
     "breachgroup": 16,
     "breachTime": 4,
     "needItem": 10102,
@@ -1727,8 +2015,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "144": {
-    "id": 144,
+  "168": {
+    "id": 168,
     "breachgroup": 16,
     "breachTime": 5,
     "needItem": 10102,
@@ -1739,8 +2027,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "145": {
-    "id": 145,
+  "169": {
+    "id": 169,
     "breachgroup": 16,
     "breachTime": 6,
     "needItem": 10102,
@@ -1751,8 +2039,8 @@
     "luck": 25,
     "worldMessage": 0
   },
-  "146": {
-    "id": 146,
+  "170": {
+    "id": 170,
     "breachgroup": 16,
     "breachTime": 7,
     "needItem": 10103,
@@ -1763,8 +2051,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "147": {
-    "id": 147,
+  "171": {
+    "id": 171,
     "breachgroup": 16,
     "breachTime": 8,
     "needItem": 10103,
@@ -1775,8 +2063,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "148": {
-    "id": 148,
+  "172": {
+    "id": 172,
     "breachgroup": 16,
     "breachTime": 9,
     "needItem": 10116,
@@ -1787,8 +2075,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "149": {
-    "id": 149,
+  "173": {
+    "id": 173,
     "breachgroup": 16,
     "breachTime": 10,
     "needItem": 10116,
@@ -1799,8 +2087,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "150": {
-    "id": 150,
+  "174": {
+    "id": 174,
+    "breachgroup": 16,
+    "breachTime": 11,
+    "needItem": 10116,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "175": {
+    "id": 175,
+    "breachgroup": 16,
+    "breachTime": 12,
+    "needItem": 10116,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "176": {
+    "id": 176,
     "breachgroup": 17,
     "breachTime": 1,
     "needItem": 10101,
@@ -1811,8 +2123,8 @@
     "luck": 85,
     "worldMessage": 0
   },
-  "151": {
-    "id": 151,
+  "177": {
+    "id": 177,
     "breachgroup": 17,
     "breachTime": 2,
     "needItem": 10101,
@@ -1823,8 +2135,8 @@
     "luck": 68,
     "worldMessage": 0
   },
-  "152": {
-    "id": 152,
+  "178": {
+    "id": 178,
     "breachgroup": 17,
     "breachTime": 3,
     "needItem": 10101,
@@ -1835,8 +2147,8 @@
     "luck": 51,
     "worldMessage": 0
   },
-  "153": {
-    "id": 153,
+  "179": {
+    "id": 179,
     "breachgroup": 17,
     "breachTime": 4,
     "needItem": 10102,
@@ -1847,8 +2159,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "154": {
-    "id": 154,
+  "180": {
+    "id": 180,
     "breachgroup": 17,
     "breachTime": 5,
     "needItem": 10102,
@@ -1859,8 +2171,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "155": {
-    "id": 155,
+  "181": {
+    "id": 181,
     "breachgroup": 17,
     "breachTime": 6,
     "needItem": 10102,
@@ -1871,8 +2183,8 @@
     "luck": 25,
     "worldMessage": 0
   },
-  "156": {
-    "id": 156,
+  "182": {
+    "id": 182,
     "breachgroup": 17,
     "breachTime": 7,
     "needItem": 10103,
@@ -1883,8 +2195,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "157": {
-    "id": 157,
+  "183": {
+    "id": 183,
     "breachgroup": 17,
     "breachTime": 8,
     "needItem": 10103,
@@ -1895,8 +2207,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "158": {
-    "id": 158,
+  "184": {
+    "id": 184,
     "breachgroup": 17,
     "breachTime": 9,
     "needItem": 10117,
@@ -1907,20 +2219,44 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "159": {
-    "id": 159,
+  "185": {
+    "id": 185,
     "breachgroup": 17,
     "breachTime": 10,
     "needItem": 10117,
     "needItemNum": 1,
-    "SuccessRate": -0.4,
+    "SuccessRate": -0.9,
     "needTime": 49300,
     "smallReward": 39,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "160": {
-    "id": 160,
+  "186": {
+    "id": 186,
+    "breachgroup": 17,
+    "breachTime": 11,
+    "needItem": 10117,
+    "needItemNum": 2,
+    "SuccessRate": -1.08,
+    "needTime": 49300,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "187": {
+    "id": 187,
+    "breachgroup": 17,
+    "breachTime": 12,
+    "needItem": 10117,
+    "needItemNum": 3,
+    "SuccessRate": -1.296,
+    "needTime": 49300,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "188": {
+    "id": 188,
     "breachgroup": 18,
     "breachTime": 1,
     "needItem": 10101,
@@ -1931,8 +2267,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "161": {
-    "id": 161,
+  "189": {
+    "id": 189,
     "breachgroup": 18,
     "breachTime": 2,
     "needItem": 10101,
@@ -1943,8 +2279,8 @@
     "luck": 85,
     "worldMessage": 0
   },
-  "162": {
-    "id": 162,
+  "190": {
+    "id": 190,
     "breachgroup": 18,
     "breachTime": 3,
     "needItem": 10101,
@@ -1955,8 +2291,8 @@
     "luck": 63,
     "worldMessage": 0
   },
-  "163": {
-    "id": 163,
+  "191": {
+    "id": 191,
     "breachgroup": 18,
     "breachTime": 4,
     "needItem": 10102,
@@ -1967,8 +2303,8 @@
     "luck": 53,
     "worldMessage": 0
   },
-  "164": {
-    "id": 164,
+  "192": {
+    "id": 192,
     "breachgroup": 18,
     "breachTime": 5,
     "needItem": 10102,
@@ -1979,8 +2315,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "165": {
-    "id": 165,
+  "193": {
+    "id": 193,
     "breachgroup": 18,
     "breachTime": 6,
     "needItem": 10102,
@@ -1991,8 +2327,8 @@
     "luck": 32,
     "worldMessage": 0
   },
-  "166": {
-    "id": 166,
+  "194": {
+    "id": 194,
     "breachgroup": 18,
     "breachTime": 7,
     "needItem": 10103,
@@ -2003,8 +2339,8 @@
     "luck": 20,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "167": {
-    "id": 167,
+  "195": {
+    "id": 195,
     "breachgroup": 18,
     "breachTime": 8,
     "needItem": 10103,
@@ -2015,8 +2351,8 @@
     "luck": 10,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "168": {
-    "id": 168,
+  "196": {
+    "id": 196,
     "breachgroup": 18,
     "breachTime": 9,
     "needItem": 10118,
@@ -2027,20 +2363,44 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "169": {
-    "id": 169,
+  "197": {
+    "id": 197,
     "breachgroup": 18,
     "breachTime": 10,
     "needItem": 10118,
     "needItemNum": 1,
-    "SuccessRate": -0.32,
+    "SuccessRate": -0.9,
     "needTime": 31700,
     "smallReward": 39,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "170": {
-    "id": 170,
+  "198": {
+    "id": 198,
+    "breachgroup": 18,
+    "breachTime": 11,
+    "needItem": 10118,
+    "needItemNum": 2,
+    "SuccessRate": -1.08,
+    "needTime": 31700,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "199": {
+    "id": 199,
+    "breachgroup": 18,
+    "breachTime": 12,
+    "needItem": 10118,
+    "needItemNum": 3,
+    "SuccessRate": -1.296,
+    "needTime": 31700,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "200": {
+    "id": 200,
     "breachgroup": 19,
     "breachTime": 1,
     "needItem": 10101,
@@ -2051,8 +2411,8 @@
     "luck": 84,
     "worldMessage": 0
   },
-  "171": {
-    "id": 171,
+  "201": {
+    "id": 201,
     "breachgroup": 19,
     "breachTime": 2,
     "needItem": 10101,
@@ -2063,8 +2423,8 @@
     "luck": 67,
     "worldMessage": 0
   },
-  "172": {
-    "id": 172,
+  "202": {
+    "id": 202,
     "breachgroup": 19,
     "breachTime": 3,
     "needItem": 10101,
@@ -2075,8 +2435,8 @@
     "luck": 51,
     "worldMessage": 0
   },
-  "173": {
-    "id": 173,
+  "203": {
+    "id": 203,
     "breachgroup": 19,
     "breachTime": 4,
     "needItem": 10102,
@@ -2087,8 +2447,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "174": {
-    "id": 174,
+  "204": {
+    "id": 204,
     "breachgroup": 19,
     "breachTime": 5,
     "needItem": 10102,
@@ -2099,8 +2459,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "175": {
-    "id": 175,
+  "205": {
+    "id": 205,
     "breachgroup": 19,
     "breachTime": 6,
     "needItem": 10102,
@@ -2111,8 +2471,8 @@
     "luck": 25,
     "worldMessage": 0
   },
-  "176": {
-    "id": 176,
+  "206": {
+    "id": 206,
     "breachgroup": 19,
     "breachTime": 7,
     "needItem": 10103,
@@ -2123,8 +2483,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "177": {
-    "id": 177,
+  "207": {
+    "id": 207,
     "breachgroup": 19,
     "breachTime": 8,
     "needItem": 10103,
@@ -2135,8 +2495,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "178": {
-    "id": 178,
+  "208": {
+    "id": 208,
     "breachgroup": 19,
     "breachTime": 9,
     "needItem": 10119,
@@ -2147,8 +2507,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "179": {
-    "id": 179,
+  "209": {
+    "id": 209,
     "breachgroup": 19,
     "breachTime": 10,
     "needItem": 10119,
@@ -2159,8 +2519,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "180": {
-    "id": 180,
+  "210": {
+    "id": 210,
+    "breachgroup": 19,
+    "breachTime": 11,
+    "needItem": 10119,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 50200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "211": {
+    "id": 211,
+    "breachgroup": 19,
+    "breachTime": 12,
+    "needItem": 10119,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 50200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "212": {
+    "id": 212,
     "breachgroup": 20,
     "breachTime": 1,
     "needItem": 10101,
@@ -2171,8 +2555,8 @@
     "luck": 83,
     "worldMessage": 0
   },
-  "181": {
-    "id": 181,
+  "213": {
+    "id": 213,
     "breachgroup": 20,
     "breachTime": 2,
     "needItem": 10101,
@@ -2183,8 +2567,8 @@
     "luck": 66,
     "worldMessage": 0
   },
-  "182": {
-    "id": 182,
+  "214": {
+    "id": 214,
     "breachgroup": 20,
     "breachTime": 3,
     "needItem": 10101,
@@ -2195,8 +2579,8 @@
     "luck": 50,
     "worldMessage": 0
   },
-  "183": {
-    "id": 183,
+  "215": {
+    "id": 215,
     "breachgroup": 20,
     "breachTime": 4,
     "needItem": 10102,
@@ -2207,8 +2591,8 @@
     "luck": 41,
     "worldMessage": 0
   },
-  "184": {
-    "id": 184,
+  "216": {
+    "id": 216,
     "breachgroup": 20,
     "breachTime": 5,
     "needItem": 10102,
@@ -2219,8 +2603,8 @@
     "luck": 33,
     "worldMessage": 0
   },
-  "185": {
-    "id": 185,
+  "217": {
+    "id": 217,
     "breachgroup": 20,
     "breachTime": 6,
     "needItem": 10102,
@@ -2231,8 +2615,8 @@
     "luck": 24,
     "worldMessage": 0
   },
-  "186": {
-    "id": 186,
+  "218": {
+    "id": 218,
     "breachgroup": 20,
     "breachTime": 7,
     "needItem": 10103,
@@ -2243,8 +2627,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "187": {
-    "id": 187,
+  "219": {
+    "id": 219,
     "breachgroup": 20,
     "breachTime": 8,
     "needItem": 10103,
@@ -2255,8 +2639,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "188": {
-    "id": 188,
+  "220": {
+    "id": 220,
     "breachgroup": 20,
     "breachTime": 9,
     "needItem": 10120,
@@ -2267,8 +2651,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "189": {
-    "id": 189,
+  "221": {
+    "id": 221,
     "breachgroup": 20,
     "breachTime": 10,
     "needItem": 10120,
@@ -2279,128 +2663,176 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "190": {
-    "id": 190,
+  "222": {
+    "id": 222,
+    "breachgroup": 20,
+    "breachTime": 11,
+    "needItem": 10120,
+    "needItemNum": 2,
+    "SuccessRate": -0.49199999999999994,
+    "needTime": 52000,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "223": {
+    "id": 223,
+    "breachgroup": 20,
+    "breachTime": 12,
+    "needItem": 10120,
+    "needItemNum": 3,
+    "SuccessRate": -0.59039999999999992,
+    "needTime": 52000,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "224": {
+    "id": 224,
     "breachgroup": 21,
     "breachTime": 1,
     "needItem": 10101,
-    "needItemNum": 10,
+    "needItemNum": 15,
     "SuccessRate": 1.02,
     "needTime": 4800,
     "smallReward": 30,
     "luck": 96,
     "worldMessage": 0
   },
-  "191": {
-    "id": 191,
+  "225": {
+    "id": 225,
     "breachgroup": 21,
     "breachTime": 2,
     "needItem": 10101,
-    "needItemNum": 20,
+    "needItemNum": 30,
     "SuccessRate": 0.82,
     "needTime": 5800,
     "smallReward": 31,
     "luck": 77,
     "worldMessage": 0
   },
-  "192": {
-    "id": 192,
+  "226": {
+    "id": 226,
     "breachgroup": 21,
     "breachTime": 3,
     "needItem": 10101,
-    "needItemNum": 30,
+    "needItemNum": 45,
     "SuccessRate": 0.61,
     "needTime": 6700,
     "smallReward": 32,
     "luck": 57,
     "worldMessage": 0
   },
-  "193": {
-    "id": 193,
+  "227": {
+    "id": 227,
     "breachgroup": 21,
     "breachTime": 4,
     "needItem": 10102,
-    "needItemNum": 10,
+    "needItemNum": 15,
     "SuccessRate": 0.51,
     "needTime": 7700,
     "smallReward": 33,
     "luck": 48,
     "worldMessage": 0
   },
-  "194": {
-    "id": 194,
+  "228": {
+    "id": 228,
     "breachgroup": 21,
     "breachTime": 5,
     "needItem": 10102,
-    "needItemNum": 20,
+    "needItemNum": 30,
     "SuccessRate": 0.41,
     "needTime": 9600,
     "smallReward": 34,
     "luck": 38,
     "worldMessage": 0
   },
-  "195": {
-    "id": 195,
+  "229": {
+    "id": 229,
     "breachgroup": 21,
     "breachTime": 6,
     "needItem": 10102,
-    "needItemNum": 30,
+    "needItemNum": 45,
     "SuccessRate": 0.31,
     "needTime": 11500,
     "smallReward": 35,
     "luck": 29,
     "worldMessage": 0
   },
-  "196": {
-    "id": 196,
+  "230": {
+    "id": 230,
     "breachgroup": 21,
     "breachTime": 7,
     "needItem": 10103,
-    "needItemNum": 10,
+    "needItemNum": 15,
     "SuccessRate": 0.2,
     "needTime": 13400,
     "smallReward": 36,
     "luck": 19,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "197": {
-    "id": 197,
+  "231": {
+    "id": 231,
     "breachgroup": 21,
     "breachTime": 8,
     "needItem": 10103,
-    "needItemNum": 20,
+    "needItemNum": 30,
     "SuccessRate": 0.1,
     "needTime": 15400,
     "smallReward": 37,
     "luck": 9,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "198": {
-    "id": 198,
+  "232": {
+    "id": 232,
     "breachgroup": 21,
     "breachTime": 9,
     "needItem": 10121,
     "needItemNum": 1,
-    "SuccessRate": -0.1,
+    "SuccessRate": -0.25,
     "needTime": 19200,
     "smallReward": 38,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "199": {
-    "id": 199,
+  "233": {
+    "id": 233,
     "breachgroup": 21,
     "breachTime": 10,
     "needItem": 10121,
-    "needItemNum": 1,
-    "SuccessRate": -0.35,
+    "needItemNum": 2,
+    "SuccessRate": -0.4,
     "needTime": 38400,
     "smallReward": 39,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>勘破武障，大器终成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "200": {
-    "id": 200,
+  "234": {
+    "id": 234,
+    "breachgroup": 21,
+    "breachTime": 11,
+    "needItem": 10121,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 38400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "235": {
+    "id": 235,
+    "breachgroup": 21,
+    "breachTime": 12,
+    "needItem": 10121,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 38400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "236": {
+    "id": 236,
     "breachgroup": 22,
     "breachTime": 1,
     "needItem": 10101,
@@ -2411,8 +2843,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "201": {
-    "id": 201,
+  "237": {
+    "id": 237,
     "breachgroup": 22,
     "breachTime": 2,
     "needItem": 10101,
@@ -2423,8 +2855,8 @@
     "luck": 95,
     "worldMessage": 0
   },
-  "202": {
-    "id": 202,
+  "238": {
+    "id": 238,
     "breachgroup": 22,
     "breachTime": 3,
     "needItem": 10101,
@@ -2435,8 +2867,8 @@
     "luck": 71,
     "worldMessage": 0
   },
-  "203": {
-    "id": 203,
+  "239": {
+    "id": 239,
     "breachgroup": 22,
     "breachTime": 4,
     "needItem": 10102,
@@ -2447,8 +2879,8 @@
     "luck": 59,
     "worldMessage": 0
   },
-  "204": {
-    "id": 204,
+  "240": {
+    "id": 240,
     "breachgroup": 22,
     "breachTime": 5,
     "needItem": 10102,
@@ -2459,8 +2891,8 @@
     "luck": 47,
     "worldMessage": 0
   },
-  "205": {
-    "id": 205,
+  "241": {
+    "id": 241,
     "breachgroup": 22,
     "breachTime": 6,
     "needItem": 10102,
@@ -2471,8 +2903,8 @@
     "luck": 36,
     "worldMessage": 0
   },
-  "206": {
-    "id": 206,
+  "242": {
+    "id": 242,
     "breachgroup": 22,
     "breachTime": 7,
     "needItem": 10103,
@@ -2483,8 +2915,8 @@
     "luck": 23,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "207": {
-    "id": 207,
+  "243": {
+    "id": 243,
     "breachgroup": 22,
     "breachTime": 8,
     "needItem": 10103,
@@ -2495,8 +2927,8 @@
     "luck": 12,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "208": {
-    "id": 208,
+  "244": {
+    "id": 244,
     "breachgroup": 22,
     "breachTime": 9,
     "needItem": 10122,
@@ -2507,8 +2939,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "209": {
-    "id": 209,
+  "245": {
+    "id": 245,
     "breachgroup": 22,
     "breachTime": 10,
     "needItem": 10122,
@@ -2519,8 +2951,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>勘破武障，大器终成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "210": {
-    "id": 210,
+  "246": {
+    "id": 246,
+    "breachgroup": 22,
+    "breachTime": 11,
+    "needItem": 10122,
+    "needItemNum": 2,
+    "SuccessRate": -0.348,
+    "needTime": 25600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "247": {
+    "id": 247,
+    "breachgroup": 22,
+    "breachTime": 12,
+    "needItem": 10122,
+    "needItemNum": 3,
+    "SuccessRate": -0.41759999999999997,
+    "needTime": 25600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "248": {
+    "id": 248,
     "breachgroup": 23,
     "breachTime": 1,
     "needItem": 10101,
@@ -2531,8 +2987,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "211": {
-    "id": 211,
+  "249": {
+    "id": 249,
     "breachgroup": 23,
     "breachTime": 2,
     "needItem": 10101,
@@ -2543,8 +2999,8 @@
     "luck": 84,
     "worldMessage": 0
   },
-  "212": {
-    "id": 212,
+  "250": {
+    "id": 250,
     "breachgroup": 23,
     "breachTime": 3,
     "needItem": 10101,
@@ -2555,8 +3011,8 @@
     "luck": 63,
     "worldMessage": 0
   },
-  "213": {
-    "id": 213,
+  "251": {
+    "id": 251,
     "breachgroup": 23,
     "breachTime": 4,
     "needItem": 10102,
@@ -2567,8 +3023,8 @@
     "luck": 53,
     "worldMessage": 0
   },
-  "214": {
-    "id": 214,
+  "252": {
+    "id": 252,
     "breachgroup": 23,
     "breachTime": 5,
     "needItem": 10102,
@@ -2579,8 +3035,8 @@
     "luck": 41,
     "worldMessage": 0
   },
-  "215": {
-    "id": 215,
+  "253": {
+    "id": 253,
     "breachgroup": 23,
     "breachTime": 6,
     "needItem": 10102,
@@ -2591,8 +3047,8 @@
     "luck": 31,
     "worldMessage": 0
   },
-  "216": {
-    "id": 216,
+  "254": {
+    "id": 254,
     "breachgroup": 23,
     "breachTime": 7,
     "needItem": 10103,
@@ -2603,8 +3059,8 @@
     "luck": 20,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "217": {
-    "id": 217,
+  "255": {
+    "id": 255,
     "breachgroup": 23,
     "breachTime": 8,
     "needItem": 10103,
@@ -2615,8 +3071,8 @@
     "luck": 10,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "218": {
-    "id": 218,
+  "256": {
+    "id": 256,
     "breachgroup": 23,
     "breachTime": 9,
     "needItem": 10123,
@@ -2627,8 +3083,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "219": {
-    "id": 219,
+  "257": {
+    "id": 257,
     "breachgroup": 23,
     "breachTime": 10,
     "needItem": 10123,
@@ -2639,8 +3095,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>勘破武障，大器终成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "220": {
-    "id": 220,
+  "258": {
+    "id": 258,
+    "breachgroup": 23,
+    "breachTime": 11,
+    "needItem": 10123,
+    "needItemNum": 2,
+    "SuccessRate": -0.384,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "259": {
+    "id": 259,
+    "breachgroup": 23,
+    "breachTime": 12,
+    "needItem": 10123,
+    "needItemNum": 3,
+    "SuccessRate": -0.4608,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "260": {
+    "id": 260,
     "breachgroup": 24,
     "breachTime": 1,
     "needItem": 10101,
@@ -2651,8 +3131,8 @@
     "luck": 81,
     "worldMessage": 0
   },
-  "221": {
-    "id": 221,
+  "261": {
+    "id": 261,
     "breachgroup": 24,
     "breachTime": 2,
     "needItem": 10101,
@@ -2663,8 +3143,8 @@
     "luck": 65,
     "worldMessage": 0
   },
-  "222": {
-    "id": 222,
+  "262": {
+    "id": 262,
     "breachgroup": 24,
     "breachTime": 3,
     "needItem": 10101,
@@ -2675,8 +3155,8 @@
     "luck": 49,
     "worldMessage": 0
   },
-  "223": {
-    "id": 223,
+  "263": {
+    "id": 263,
     "breachgroup": 24,
     "breachTime": 4,
     "needItem": 10102,
@@ -2687,8 +3167,8 @@
     "luck": 40,
     "worldMessage": 0
   },
-  "224": {
-    "id": 224,
+  "264": {
+    "id": 264,
     "breachgroup": 24,
     "breachTime": 5,
     "needItem": 10102,
@@ -2699,8 +3179,8 @@
     "luck": 32,
     "worldMessage": 0
   },
-  "225": {
-    "id": 225,
+  "265": {
+    "id": 265,
     "breachgroup": 24,
     "breachTime": 6,
     "needItem": 10102,
@@ -2711,8 +3191,8 @@
     "luck": 24,
     "worldMessage": 0
   },
-  "226": {
-    "id": 226,
+  "266": {
+    "id": 266,
     "breachgroup": 24,
     "breachTime": 7,
     "needItem": 10103,
@@ -2723,8 +3203,8 @@
     "luck": 16,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "227": {
-    "id": 227,
+  "267": {
+    "id": 267,
     "breachgroup": 24,
     "breachTime": 8,
     "needItem": 10103,
@@ -2735,8 +3215,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "228": {
-    "id": 228,
+  "268": {
+    "id": 268,
     "breachgroup": 24,
     "breachTime": 9,
     "needItem": 10124,
@@ -2747,8 +3227,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "229": {
-    "id": 229,
+  "269": {
+    "id": 269,
     "breachgroup": 24,
     "breachTime": 10,
     "needItem": 10124,
@@ -2759,8 +3239,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>勘破武障，大器终成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "230": {
-    "id": 230,
+  "270": {
+    "id": 270,
+    "breachgroup": 24,
+    "breachTime": 11,
+    "needItem": 10124,
+    "needItemNum": 2,
+    "SuccessRate": -0.504,
+    "needTime": 53800,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "271": {
+    "id": 271,
+    "breachgroup": 24,
+    "breachTime": 12,
+    "needItem": 10124,
+    "needItemNum": 3,
+    "SuccessRate": -0.6048,
+    "needTime": 53800,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "272": {
+    "id": 272,
     "breachgroup": 25,
     "breachTime": 1,
     "needItem": 10101,
@@ -2771,8 +3275,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "231": {
-    "id": 231,
+  "273": {
+    "id": 273,
     "breachgroup": 25,
     "breachTime": 2,
     "needItem": 10101,
@@ -2783,8 +3287,8 @@
     "luck": 87,
     "worldMessage": 0
   },
-  "232": {
-    "id": 232,
+  "274": {
+    "id": 274,
     "breachgroup": 25,
     "breachTime": 3,
     "needItem": 10101,
@@ -2795,8 +3299,8 @@
     "luck": 65,
     "worldMessage": 0
   },
-  "233": {
-    "id": 233,
+  "275": {
+    "id": 275,
     "breachgroup": 25,
     "breachTime": 4,
     "needItem": 10102,
@@ -2807,8 +3311,8 @@
     "luck": 54,
     "worldMessage": 0
   },
-  "234": {
-    "id": 234,
+  "276": {
+    "id": 276,
     "breachgroup": 25,
     "breachTime": 5,
     "needItem": 10102,
@@ -2819,8 +3323,8 @@
     "luck": 43,
     "worldMessage": 0
   },
-  "235": {
-    "id": 235,
+  "277": {
+    "id": 277,
     "breachgroup": 25,
     "breachTime": 6,
     "needItem": 10102,
@@ -2831,8 +3335,8 @@
     "luck": 32,
     "worldMessage": 0
   },
-  "236": {
-    "id": 236,
+  "278": {
+    "id": 278,
     "breachgroup": 25,
     "breachTime": 7,
     "needItem": 10103,
@@ -2843,8 +3347,8 @@
     "luck": 21,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "237": {
-    "id": 237,
+  "279": {
+    "id": 279,
     "breachgroup": 25,
     "breachTime": 8,
     "needItem": 10103,
@@ -2855,8 +3359,8 @@
     "luck": 10,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "238": {
-    "id": 238,
+  "280": {
+    "id": 280,
     "breachgroup": 25,
     "breachTime": 9,
     "needItem": 10125,
@@ -2867,8 +3371,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "239": {
-    "id": 239,
+  "281": {
+    "id": 281,
     "breachgroup": 25,
     "breachTime": 10,
     "needItem": 10125,
@@ -2879,8 +3383,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>长剑龙吟，气寒西北，声满东南，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "240": {
-    "id": 240,
+  "282": {
+    "id": 282,
+    "breachgroup": 25,
+    "breachTime": 11,
+    "needItem": 10125,
+    "needItemNum": 2,
+    "SuccessRate": -0.372,
+    "needTime": 30300,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "283": {
+    "id": 283,
+    "breachgroup": 25,
+    "breachTime": 12,
+    "needItem": 10125,
+    "needItemNum": 3,
+    "SuccessRate": -0.44639999999999996,
+    "needTime": 30300,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "284": {
+    "id": 284,
     "breachgroup": 26,
     "breachTime": 1,
     "needItem": 10101,
@@ -2891,8 +3419,8 @@
     "luck": 86,
     "worldMessage": 0
   },
-  "241": {
-    "id": 241,
+  "285": {
+    "id": 285,
     "breachgroup": 26,
     "breachTime": 2,
     "needItem": 10101,
@@ -2903,8 +3431,8 @@
     "luck": 69,
     "worldMessage": 0
   },
-  "242": {
-    "id": 242,
+  "286": {
+    "id": 286,
     "breachgroup": 26,
     "breachTime": 3,
     "needItem": 10101,
@@ -2915,8 +3443,8 @@
     "luck": 52,
     "worldMessage": 0
   },
-  "243": {
-    "id": 243,
+  "287": {
+    "id": 287,
     "breachgroup": 26,
     "breachTime": 4,
     "needItem": 10102,
@@ -2927,8 +3455,8 @@
     "luck": 42,
     "worldMessage": 0
   },
-  "244": {
-    "id": 244,
+  "288": {
+    "id": 288,
     "breachgroup": 26,
     "breachTime": 5,
     "needItem": 10102,
@@ -2939,8 +3467,8 @@
     "luck": 34,
     "worldMessage": 0
   },
-  "245": {
-    "id": 245,
+  "289": {
+    "id": 289,
     "breachgroup": 26,
     "breachTime": 6,
     "needItem": 10102,
@@ -2951,8 +3479,8 @@
     "luck": 25,
     "worldMessage": 0
   },
-  "246": {
-    "id": 246,
+  "290": {
+    "id": 290,
     "breachgroup": 26,
     "breachTime": 7,
     "needItem": 10103,
@@ -2963,8 +3491,8 @@
     "luck": 17,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "247": {
-    "id": 247,
+  "291": {
+    "id": 291,
     "breachgroup": 26,
     "breachTime": 8,
     "needItem": 10103,
@@ -2975,8 +3503,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "248": {
-    "id": 248,
+  "292": {
+    "id": 292,
     "breachgroup": 26,
     "breachTime": 9,
     "needItem": 10126,
@@ -2987,8 +3515,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "249": {
-    "id": 249,
+  "293": {
+    "id": 293,
     "breachgroup": 26,
     "breachTime": 10,
     "needItem": 10126,
@@ -2999,8 +3527,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>勘破武障，大器终成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "250": {
-    "id": 250,
+  "294": {
+    "id": 294,
+    "breachgroup": 26,
+    "breachTime": 11,
+    "needItem": 10126,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "295": {
+    "id": 295,
+    "breachgroup": 26,
+    "breachTime": 12,
+    "needItem": 10126,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 48400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "296": {
+    "id": 296,
     "breachgroup": 27,
     "breachTime": 1,
     "needItem": 10101,
@@ -3011,8 +3563,8 @@
     "luck": 100,
     "worldMessage": 0
   },
-  "251": {
-    "id": 251,
+  "297": {
+    "id": 297,
     "breachgroup": 27,
     "breachTime": 2,
     "needItem": 10101,
@@ -3023,8 +3575,8 @@
     "luck": 94,
     "worldMessage": 0
   },
-  "252": {
-    "id": 252,
+  "298": {
+    "id": 298,
     "breachgroup": 27,
     "breachTime": 3,
     "needItem": 10101,
@@ -3035,8 +3587,8 @@
     "luck": 70,
     "worldMessage": 0
   },
-  "253": {
-    "id": 253,
+  "299": {
+    "id": 299,
     "breachgroup": 27,
     "breachTime": 4,
     "needItem": 10102,
@@ -3047,8 +3599,8 @@
     "luck": 58,
     "worldMessage": 0
   },
-  "254": {
-    "id": 254,
+  "300": {
+    "id": 300,
     "breachgroup": 27,
     "breachTime": 5,
     "needItem": 10102,
@@ -3059,8 +3611,8 @@
     "luck": 46,
     "worldMessage": 0
   },
-  "255": {
-    "id": 255,
+  "301": {
+    "id": 301,
     "breachgroup": 27,
     "breachTime": 6,
     "needItem": 10102,
@@ -3071,8 +3623,8 @@
     "luck": 35,
     "worldMessage": 0
   },
-  "256": {
-    "id": 256,
+  "302": {
+    "id": 302,
     "breachgroup": 27,
     "breachTime": 7,
     "needItem": 10103,
@@ -3083,8 +3635,8 @@
     "luck": 23,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "257": {
-    "id": 257,
+  "303": {
+    "id": 303,
     "breachgroup": 27,
     "breachTime": 8,
     "needItem": 10103,
@@ -3095,8 +3647,8 @@
     "luck": 11,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "258": {
-    "id": 258,
+  "304": {
+    "id": 304,
     "breachgroup": 27,
     "breachTime": 9,
     "needItem": 10127,
@@ -3107,8 +3659,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>披肝沥胆，永志不渝，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "259": {
-    "id": 259,
+  "305": {
+    "id": 305,
     "breachgroup": 27,
     "breachTime": 10,
     "needItem": 10127,
@@ -3119,8 +3671,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>勘破武障，大器终成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "260": {
-    "id": 260,
+  "306": {
+    "id": 306,
+    "breachgroup": 27,
+    "breachTime": 11,
+    "needItem": 10127,
+    "needItemNum": 2,
+    "SuccessRate": -0.348,
+    "needTime": 26200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "307": {
+    "id": 307,
+    "breachgroup": 27,
+    "breachTime": 12,
+    "needItem": 10127,
+    "needItemNum": 3,
+    "SuccessRate": -0.41759999999999997,
+    "needTime": 26200,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "308": {
+    "id": 308,
     "breachgroup": 28,
     "breachTime": 1,
     "needItem": 10101,
@@ -3131,8 +3707,8 @@
     "luck": 80,
     "worldMessage": 0
   },
-  "261": {
-    "id": 261,
+  "309": {
+    "id": 309,
     "breachgroup": 28,
     "breachTime": 2,
     "needItem": 10101,
@@ -3143,8 +3719,8 @@
     "luck": 64,
     "worldMessage": 0
   },
-  "262": {
-    "id": 262,
+  "310": {
+    "id": 310,
     "breachgroup": 28,
     "breachTime": 3,
     "needItem": 10101,
@@ -3155,8 +3731,8 @@
     "luck": 48,
     "worldMessage": 0
   },
-  "263": {
-    "id": 263,
+  "311": {
+    "id": 311,
     "breachgroup": 28,
     "breachTime": 4,
     "needItem": 10102,
@@ -3167,8 +3743,8 @@
     "luck": 39,
     "worldMessage": 0
   },
-  "264": {
-    "id": 264,
+  "312": {
+    "id": 312,
     "breachgroup": 28,
     "breachTime": 5,
     "needItem": 10102,
@@ -3179,8 +3755,8 @@
     "luck": 32,
     "worldMessage": 0
   },
-  "265": {
-    "id": 265,
+  "313": {
+    "id": 313,
     "breachgroup": 28,
     "breachTime": 6,
     "needItem": 10102,
@@ -3191,8 +3767,8 @@
     "luck": 23,
     "worldMessage": 0
   },
-  "266": {
-    "id": 266,
+  "314": {
+    "id": 314,
     "breachgroup": 28,
     "breachTime": 7,
     "needItem": 10103,
@@ -3203,8 +3779,8 @@
     "luck": 16,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "267": {
-    "id": 267,
+  "315": {
+    "id": 315,
     "breachgroup": 28,
     "breachTime": 8,
     "needItem": 10103,
@@ -3215,8 +3791,8 @@
     "luck": 7,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "268": {
-    "id": 268,
+  "316": {
+    "id": 316,
     "breachgroup": 28,
     "breachTime": 9,
     "needItem": 10128,
@@ -3227,8 +3803,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>苦心孤诣，踌躇满志，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "269": {
-    "id": 269,
+  "317": {
+    "id": 317,
     "breachgroup": 28,
     "breachTime": 10,
     "needItem": 10128,
@@ -3239,8 +3815,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>纵声长啸，神功圆满，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "270": {
-    "id": 270,
+  "318": {
+    "id": 318,
+    "breachgroup": 28,
+    "breachTime": 11,
+    "needItem": 10128,
+    "needItemNum": 2,
+    "SuccessRate": -0.504,
+    "needTime": 55700,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "319": {
+    "id": 319,
+    "breachgroup": 28,
+    "breachTime": 12,
+    "needItem": 10128,
+    "needItemNum": 3,
+    "SuccessRate": -0.6048,
+    "needTime": 55700,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "320": {
+    "id": 320,
     "breachgroup": 29,
     "breachTime": 1,
     "needItem": 10101,
@@ -3251,8 +3851,8 @@
     "luck": 82,
     "worldMessage": 0
   },
-  "271": {
-    "id": 271,
+  "321": {
+    "id": 321,
     "breachgroup": 29,
     "breachTime": 2,
     "needItem": 10101,
@@ -3263,8 +3863,8 @@
     "luck": 66,
     "worldMessage": 0
   },
-  "272": {
-    "id": 272,
+  "322": {
+    "id": 322,
     "breachgroup": 29,
     "breachTime": 3,
     "needItem": 10101,
@@ -3275,8 +3875,8 @@
     "luck": 49,
     "worldMessage": 0
   },
-  "273": {
-    "id": 273,
+  "323": {
+    "id": 323,
     "breachgroup": 29,
     "breachTime": 4,
     "needItem": 10102,
@@ -3287,8 +3887,8 @@
     "luck": 40,
     "worldMessage": 0
   },
-  "274": {
-    "id": 274,
+  "324": {
+    "id": 324,
     "breachgroup": 29,
     "breachTime": 5,
     "needItem": 10102,
@@ -3299,8 +3899,8 @@
     "luck": 33,
     "worldMessage": 0
   },
-  "275": {
-    "id": 275,
+  "325": {
+    "id": 325,
     "breachgroup": 29,
     "breachTime": 6,
     "needItem": 10102,
@@ -3311,8 +3911,8 @@
     "luck": 24,
     "worldMessage": 0
   },
-  "276": {
-    "id": 276,
+  "326": {
+    "id": 326,
     "breachgroup": 29,
     "breachTime": 7,
     "needItem": 10103,
@@ -3323,8 +3923,8 @@
     "luck": 16,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "277": {
-    "id": 277,
+  "327": {
+    "id": 327,
     "breachgroup": 29,
     "breachTime": 8,
     "needItem": 10103,
@@ -3335,8 +3935,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "278": {
-    "id": 278,
+  "328": {
+    "id": 328,
     "breachgroup": 29,
     "breachTime": 9,
     "needItem": 10129,
@@ -3347,8 +3947,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "279": {
-    "id": 279,
+  "329": {
+    "id": 329,
     "breachgroup": 29,
     "breachTime": 10,
     "needItem": 10129,
@@ -3359,128 +3959,176 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "280": {
-    "id": 280,
+  "330": {
+    "id": 330,
+    "breachgroup": 29,
+    "breachTime": 11,
+    "needItem": 10129,
+    "needItemNum": 2,
+    "SuccessRate": -0.49199999999999994,
+    "needTime": 52900,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "331": {
+    "id": 331,
+    "breachgroup": 29,
+    "breachTime": 12,
+    "needItem": 10129,
+    "needItemNum": 3,
+    "SuccessRate": -0.59039999999999992,
+    "needTime": 52900,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "332": {
+    "id": 332,
     "breachgroup": 30,
     "breachTime": 1,
     "needItem": 10101,
     "needItemNum": 10,
     "SuccessRate": 0.22,
-    "needTime": 101300,
+    "needTime": 20260,
     "smallReward": 30,
     "luck": 20,
     "worldMessage": 0
   },
-  "281": {
-    "id": 281,
+  "333": {
+    "id": 333,
     "breachgroup": 30,
     "breachTime": 2,
     "needItem": 10101,
     "needItemNum": 20,
     "SuccessRate": 0.18,
-    "needTime": 121500,
+    "needTime": 24300,
     "smallReward": 31,
     "luck": 17,
     "worldMessage": 0
   },
-  "282": {
-    "id": 282,
+  "334": {
+    "id": 334,
     "breachgroup": 30,
     "breachTime": 3,
     "needItem": 10101,
     "needItemNum": 30,
     "SuccessRate": 0.13,
-    "needTime": 141800,
+    "needTime": 28360,
     "smallReward": 32,
     "luck": 12,
     "worldMessage": 0
   },
-  "283": {
-    "id": 283,
+  "335": {
+    "id": 335,
     "breachgroup": 30,
     "breachTime": 4,
     "needItem": 10102,
     "needItemNum": 10,
     "SuccessRate": 0.11,
-    "needTime": 162000,
+    "needTime": 32400,
     "smallReward": 33,
     "luck": 10,
     "worldMessage": 0
   },
-  "284": {
-    "id": 284,
+  "336": {
+    "id": 336,
     "breachgroup": 30,
     "breachTime": 5,
     "needItem": 10102,
     "needItemNum": 20,
     "SuccessRate": 0.09,
-    "needTime": 202500,
+    "needTime": 40500,
     "smallReward": 34,
     "luck": 8,
     "worldMessage": 0
   },
-  "285": {
-    "id": 285,
+  "337": {
+    "id": 337,
     "breachgroup": 30,
     "breachTime": 6,
     "needItem": 10102,
     "needItemNum": 30,
     "SuccessRate": 0.07,
-    "needTime": 243000,
+    "needTime": 48600,
     "smallReward": 35,
     "luck": 6,
     "worldMessage": 0
   },
-  "286": {
-    "id": 286,
+  "338": {
+    "id": 338,
     "breachgroup": 30,
     "breachTime": 7,
     "needItem": 10103,
     "needItemNum": 10,
     "SuccessRate": 0.04,
-    "needTime": 283500,
+    "needTime": 56700,
     "smallReward": 36,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "287": {
-    "id": 287,
+  "339": {
+    "id": 339,
     "breachgroup": 30,
     "breachTime": 8,
     "needItem": 10103,
     "needItemNum": 20,
     "SuccessRate": 0.02,
-    "needTime": 324000,
+    "needTime": 64800,
     "smallReward": 37,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "288": {
-    "id": 288,
+  "340": {
+    "id": 340,
     "breachgroup": 30,
     "breachTime": 9,
-    "needItem": 10130,
-    "needItemNum": 1,
+    "needItem": 10103,
+    "needItemNum": 30,
     "SuccessRate": -0.45,
-    "needTime": 405000,
+    "needTime": 81000,
     "smallReward": 38,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "289": {
-    "id": 289,
+  "341": {
+    "id": 341,
     "breachgroup": 30,
     "breachTime": 10,
-    "needItem": 10130,
-    "needItemNum": 1,
-    "SuccessRate": -1.62,
-    "needTime": 810000,
+    "needItem": 10103,
+    "needItemNum": 50,
+    "SuccessRate": -1,
+    "needTime": 162000,
     "smallReward": 39,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "290": {
-    "id": 290,
+  "342": {
+    "id": 342,
+    "breachgroup": 30,
+    "breachTime": 11,
+    "needItem": 10103,
+    "needItemNum": 50,
+    "SuccessRate": -1.2,
+    "needTime": 162000,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "343": {
+    "id": 343,
+    "breachgroup": 30,
+    "breachTime": 12,
+    "needItem": 10103,
+    "needItemNum": 100,
+    "SuccessRate": -1.44,
+    "needTime": 162000,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "344": {
+    "id": 344,
     "breachgroup": 31,
     "breachTime": 1,
     "needItem": 10101,
@@ -3491,8 +4139,8 @@
     "luck": 81,
     "worldMessage": 0
   },
-  "291": {
-    "id": 291,
+  "345": {
+    "id": 345,
     "breachgroup": 31,
     "breachTime": 2,
     "needItem": 10101,
@@ -3503,8 +4151,8 @@
     "luck": 65,
     "worldMessage": 0
   },
-  "292": {
-    "id": 292,
+  "346": {
+    "id": 346,
     "breachgroup": 31,
     "breachTime": 3,
     "needItem": 10101,
@@ -3515,8 +4163,8 @@
     "luck": 49,
     "worldMessage": 0
   },
-  "293": {
-    "id": 293,
+  "347": {
+    "id": 347,
     "breachgroup": 31,
     "breachTime": 4,
     "needItem": 10102,
@@ -3527,8 +4175,8 @@
     "luck": 40,
     "worldMessage": 0
   },
-  "294": {
-    "id": 294,
+  "348": {
+    "id": 348,
     "breachgroup": 31,
     "breachTime": 5,
     "needItem": 10102,
@@ -3539,8 +4187,8 @@
     "luck": 32,
     "worldMessage": 0
   },
-  "295": {
-    "id": 295,
+  "349": {
+    "id": 349,
     "breachgroup": 31,
     "breachTime": 6,
     "needItem": 10102,
@@ -3551,8 +4199,8 @@
     "luck": 24,
     "worldMessage": 0
   },
-  "296": {
-    "id": 296,
+  "350": {
+    "id": 350,
     "breachgroup": 31,
     "breachTime": 7,
     "needItem": 10103,
@@ -3563,8 +4211,8 @@
     "luck": 16,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "297": {
-    "id": 297,
+  "351": {
+    "id": 351,
     "breachgroup": 31,
     "breachTime": 8,
     "needItem": 10103,
@@ -3575,8 +4223,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "298": {
-    "id": 298,
+  "352": {
+    "id": 352,
     "breachgroup": 31,
     "breachTime": 9,
     "needItem": 10131,
@@ -3587,8 +4235,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "299": {
-    "id": 299,
+  "353": {
+    "id": 353,
     "breachgroup": 31,
     "breachTime": 10,
     "needItem": 10131,
@@ -3599,8 +4247,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "300": {
-    "id": 300,
+  "354": {
+    "id": 354,
+    "breachgroup": 31,
+    "breachTime": 11,
+    "needItem": 10131,
+    "needItemNum": 2,
+    "SuccessRate": -0.504,
+    "needTime": 53800,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "355": {
+    "id": 355,
+    "breachgroup": 31,
+    "breachTime": 12,
+    "needItem": 10131,
+    "needItemNum": 3,
+    "SuccessRate": -0.6048,
+    "needTime": 53800,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "356": {
+    "id": 356,
     "breachgroup": 32,
     "breachTime": 1,
     "needItem": 10101,
@@ -3611,8 +4283,8 @@
     "luck": 78,
     "worldMessage": 0
   },
-  "301": {
-    "id": 301,
+  "357": {
+    "id": 357,
     "breachgroup": 32,
     "breachTime": 2,
     "needItem": 10101,
@@ -3623,8 +4295,8 @@
     "luck": 63,
     "worldMessage": 0
   },
-  "302": {
-    "id": 302,
+  "358": {
+    "id": 358,
     "breachgroup": 32,
     "breachTime": 3,
     "needItem": 10101,
@@ -3635,8 +4307,8 @@
     "luck": 47,
     "worldMessage": 0
   },
-  "303": {
-    "id": 303,
+  "359": {
+    "id": 359,
     "breachgroup": 32,
     "breachTime": 4,
     "needItem": 10102,
@@ -3647,8 +4319,8 @@
     "luck": 39,
     "worldMessage": 0
   },
-  "304": {
-    "id": 304,
+  "360": {
+    "id": 360,
     "breachgroup": 32,
     "breachTime": 5,
     "needItem": 10102,
@@ -3659,8 +4331,8 @@
     "luck": 31,
     "worldMessage": 0
   },
-  "305": {
-    "id": 305,
+  "361": {
+    "id": 361,
     "breachgroup": 32,
     "breachTime": 6,
     "needItem": 10102,
@@ -3671,8 +4343,8 @@
     "luck": 23,
     "worldMessage": 0
   },
-  "306": {
-    "id": 306,
+  "362": {
+    "id": 362,
     "breachgroup": 32,
     "breachTime": 7,
     "needItem": 10103,
@@ -3683,8 +4355,8 @@
     "luck": 16,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "307": {
-    "id": 307,
+  "363": {
+    "id": 363,
     "breachgroup": 32,
     "breachTime": 8,
     "needItem": 10103,
@@ -3695,8 +4367,8 @@
     "luck": 7,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "308": {
-    "id": 308,
+  "364": {
+    "id": 364,
     "breachgroup": 32,
     "breachTime": 9,
     "needItem": 10103,
@@ -3707,8 +4379,8 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "309": {
-    "id": 309,
+  "365": {
+    "id": 365,
     "breachgroup": 32,
     "breachTime": 10,
     "needItem": 10103,
@@ -3719,8 +4391,32 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
   },
-  "310": {
-    "id": 310,
+  "366": {
+    "id": 366,
+    "breachgroup": 32,
+    "breachTime": 11,
+    "needItem": 10103,
+    "needItemNum": 50,
+    "SuccessRate": -0.4,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "367": {
+    "id": 367,
+    "breachgroup": 32,
+    "breachTime": 12,
+    "needItem": 10103,
+    "needItemNum": 100,
+    "SuccessRate": -0.48,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "368": {
+    "id": 368,
     "breachgroup": 33,
     "breachTime": 1,
     "needItem": 10101,
@@ -3731,8 +4427,8 @@
     "luck": 81,
     "worldMessage": 0
   },
-  "311": {
-    "id": 311,
+  "369": {
+    "id": 369,
     "breachgroup": 33,
     "breachTime": 2,
     "needItem": 10101,
@@ -3743,8 +4439,8 @@
     "luck": 65,
     "worldMessage": 0
   },
-  "312": {
-    "id": 312,
+  "370": {
+    "id": 370,
     "breachgroup": 33,
     "breachTime": 3,
     "needItem": 10101,
@@ -3755,8 +4451,8 @@
     "luck": 49,
     "worldMessage": 0
   },
-  "313": {
-    "id": 313,
+  "371": {
+    "id": 371,
     "breachgroup": 33,
     "breachTime": 4,
     "needItem": 10102,
@@ -3767,8 +4463,8 @@
     "luck": 40,
     "worldMessage": 0
   },
-  "314": {
-    "id": 314,
+  "372": {
+    "id": 372,
     "breachgroup": 33,
     "breachTime": 5,
     "needItem": 10102,
@@ -3779,8 +4475,8 @@
     "luck": 32,
     "worldMessage": 0
   },
-  "315": {
-    "id": 315,
+  "373": {
+    "id": 373,
     "breachgroup": 33,
     "breachTime": 6,
     "needItem": 10102,
@@ -3791,8 +4487,8 @@
     "luck": 24,
     "worldMessage": 0
   },
-  "316": {
-    "id": 316,
+  "374": {
+    "id": 374,
     "breachgroup": 33,
     "breachTime": 7,
     "needItem": 10103,
@@ -3803,8 +4499,8 @@
     "luck": 16,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "317": {
-    "id": 317,
+  "375": {
+    "id": 375,
     "breachgroup": 33,
     "breachTime": 8,
     "needItem": 10103,
@@ -3815,8 +4511,8 @@
     "luck": 8,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "318": {
-    "id": 318,
+  "376": {
+    "id": 376,
     "breachgroup": 33,
     "breachTime": 9,
     "needItem": 11265,
@@ -3827,14 +4523,1046 @@
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
   },
-  "319": {
-    "id": 319,
+  "377": {
+    "id": 377,
     "breachgroup": 33,
     "breachTime": 10,
     "needItem": 11265,
     "needItemNum": 1,
     "SuccessRate": -0.42,
     "needTime": 53800,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "378": {
+    "id": 378,
+    "breachgroup": 33,
+    "breachTime": 11,
+    "needItem": 11265,
+    "needItemNum": 2,
+    "SuccessRate": -0.504,
+    "needTime": 53800,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "379": {
+    "id": 379,
+    "breachgroup": 33,
+    "breachTime": 12,
+    "needItem": 11265,
+    "needItemNum": 3,
+    "SuccessRate": -0.6048,
+    "needTime": 53800,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "380": {
+    "id": 380,
+    "breachgroup": 34,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 0.98,
+    "needTime": 5200,
+    "smallReward": 30,
+    "luck": 93,
+    "worldMessage": 0
+  },
+  "381": {
+    "id": 381,
+    "breachgroup": 34,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.78,
+    "needTime": 6200,
+    "smallReward": 31,
+    "luck": 74,
+    "worldMessage": 0
+  },
+  "382": {
+    "id": 382,
+    "breachgroup": 34,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.59,
+    "needTime": 7300,
+    "smallReward": 32,
+    "luck": 56,
+    "worldMessage": 0
+  },
+  "383": {
+    "id": 383,
+    "breachgroup": 34,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.49,
+    "needTime": 8300,
+    "smallReward": 33,
+    "luck": 46,
+    "worldMessage": 0
+  },
+  "384": {
+    "id": 384,
+    "breachgroup": 34,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.39,
+    "needTime": 10400,
+    "smallReward": 34,
+    "luck": 37,
+    "worldMessage": 0
+  },
+  "385": {
+    "id": 385,
+    "breachgroup": 34,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.29,
+    "needTime": 12500,
+    "smallReward": 35,
+    "luck": 27,
+    "worldMessage": 0
+  },
+  "386": {
+    "id": 386,
+    "breachgroup": 34,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.2,
+    "needTime": 14600,
+    "smallReward": 36,
+    "luck": 19,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "387": {
+    "id": 387,
+    "breachgroup": 34,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.1,
+    "needTime": 16600,
+    "smallReward": 37,
+    "luck": 9,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "388": {
+    "id": 388,
+    "breachgroup": 34,
+    "breachTime": 9,
+    "needItem": 11267,
+    "needItemNum": 1,
+    "SuccessRate": -0.1,
+    "needTime": 20800,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "389": {
+    "id": 389,
+    "breachgroup": 34,
+    "breachTime": 10,
+    "needItem": 11267,
+    "needItemNum": 1,
+    "SuccessRate": -0.37,
+    "needTime": 41600,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>长剑龙吟，气寒西北，声满东南，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "390": {
+    "id": 390,
+    "breachgroup": 34,
+    "breachTime": 11,
+    "needItem": 11267,
+    "needItemNum": 2,
+    "SuccessRate": -0.444,
+    "needTime": 41600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "391": {
+    "id": 391,
+    "breachgroup": 34,
+    "breachTime": 12,
+    "needItem": 11267,
+    "needItemNum": 3,
+    "SuccessRate": -0.53279999999999994,
+    "needTime": 41600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "392": {
+    "id": 392,
+    "breachgroup": 35,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 0.83,
+    "needTime": 7200,
+    "smallReward": 30,
+    "luck": 78,
+    "worldMessage": 0
+  },
+  "393": {
+    "id": 393,
+    "breachgroup": 35,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.67,
+    "needTime": 8600,
+    "smallReward": 31,
+    "luck": 63,
+    "worldMessage": 0
+  },
+  "394": {
+    "id": 394,
+    "breachgroup": 35,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.5,
+    "needTime": 10100,
+    "smallReward": 32,
+    "luck": 47,
+    "worldMessage": 0
+  },
+  "395": {
+    "id": 395,
+    "breachgroup": 35,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.42,
+    "needTime": 11500,
+    "smallReward": 33,
+    "luck": 39,
+    "worldMessage": 0
+  },
+  "396": {
+    "id": 396,
+    "breachgroup": 35,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.33,
+    "needTime": 14400,
+    "smallReward": 34,
+    "luck": 31,
+    "worldMessage": 0
+  },
+  "397": {
+    "id": 397,
+    "breachgroup": 35,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.25,
+    "needTime": 17300,
+    "smallReward": 35,
+    "luck": 23,
+    "worldMessage": 0
+  },
+  "398": {
+    "id": 398,
+    "breachgroup": 35,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.17,
+    "needTime": 20200,
+    "smallReward": 36,
+    "luck": 16,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "399": {
+    "id": 399,
+    "breachgroup": 35,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.08,
+    "needTime": 23000,
+    "smallReward": 37,
+    "luck": 7,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "400": {
+    "id": 400,
+    "breachgroup": 35,
+    "breachTime": 9,
+    "needItem": 11277,
+    "needItemNum": 1,
+    "SuccessRate": -0.1,
+    "needTime": 28800,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "401": {
+    "id": 401,
+    "breachgroup": 35,
+    "breachTime": 10,
+    "needItem": 11277,
+    "needItemNum": 1,
+    "SuccessRate": -0.4,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "402": {
+    "id": 402,
+    "breachgroup": 35,
+    "breachTime": 11,
+    "needItem": 11277,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "403": {
+    "id": 403,
+    "breachgroup": 35,
+    "breachTime": 12,
+    "needItem": 11277,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "404": {
+    "id": 404,
+    "breachgroup": 36,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 0.83,
+    "needTime": 7200,
+    "smallReward": 30,
+    "luck": 78,
+    "worldMessage": 0
+  },
+  "405": {
+    "id": 405,
+    "breachgroup": 36,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.67,
+    "needTime": 8600,
+    "smallReward": 31,
+    "luck": 63,
+    "worldMessage": 0
+  },
+  "406": {
+    "id": 406,
+    "breachgroup": 36,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.5,
+    "needTime": 10100,
+    "smallReward": 32,
+    "luck": 47,
+    "worldMessage": 0
+  },
+  "407": {
+    "id": 407,
+    "breachgroup": 36,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.42,
+    "needTime": 11500,
+    "smallReward": 33,
+    "luck": 39,
+    "worldMessage": 0
+  },
+  "408": {
+    "id": 408,
+    "breachgroup": 36,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.33,
+    "needTime": 14400,
+    "smallReward": 34,
+    "luck": 31,
+    "worldMessage": 0
+  },
+  "409": {
+    "id": 409,
+    "breachgroup": 36,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.25,
+    "needTime": 17300,
+    "smallReward": 35,
+    "luck": 23,
+    "worldMessage": 0
+  },
+  "410": {
+    "id": 410,
+    "breachgroup": 36,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.17,
+    "needTime": 20200,
+    "smallReward": 36,
+    "luck": 16,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "411": {
+    "id": 411,
+    "breachgroup": 36,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.08,
+    "needTime": 23000,
+    "smallReward": 37,
+    "luck": 7,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "412": {
+    "id": 412,
+    "breachgroup": 36,
+    "breachTime": 9,
+    "needItem": 11278,
+    "needItemNum": 1,
+    "SuccessRate": -0.1,
+    "needTime": 28800,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "413": {
+    "id": 413,
+    "breachgroup": 36,
+    "breachTime": 10,
+    "needItem": 11278,
+    "needItemNum": 1,
+    "SuccessRate": -0.4,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "414": {
+    "id": 414,
+    "breachgroup": 36,
+    "breachTime": 11,
+    "needItem": 11278,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "415": {
+    "id": 415,
+    "breachgroup": 36,
+    "breachTime": 12,
+    "needItem": 11278,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "416": {
+    "id": 416,
+    "breachgroup": 37,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 0.83,
+    "needTime": 7200,
+    "smallReward": 30,
+    "luck": 78,
+    "worldMessage": 0
+  },
+  "417": {
+    "id": 417,
+    "breachgroup": 37,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.67,
+    "needTime": 8600,
+    "smallReward": 31,
+    "luck": 63,
+    "worldMessage": 0
+  },
+  "418": {
+    "id": 418,
+    "breachgroup": 37,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.5,
+    "needTime": 10100,
+    "smallReward": 32,
+    "luck": 47,
+    "worldMessage": 0
+  },
+  "419": {
+    "id": 419,
+    "breachgroup": 37,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.42,
+    "needTime": 11500,
+    "smallReward": 33,
+    "luck": 39,
+    "worldMessage": 0
+  },
+  "420": {
+    "id": 420,
+    "breachgroup": 37,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.33,
+    "needTime": 14400,
+    "smallReward": 34,
+    "luck": 31,
+    "worldMessage": 0
+  },
+  "421": {
+    "id": 421,
+    "breachgroup": 37,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.25,
+    "needTime": 17300,
+    "smallReward": 35,
+    "luck": 23,
+    "worldMessage": 0
+  },
+  "422": {
+    "id": 422,
+    "breachgroup": 37,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.17,
+    "needTime": 20200,
+    "smallReward": 36,
+    "luck": 16,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "423": {
+    "id": 423,
+    "breachgroup": 37,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.08,
+    "needTime": 23000,
+    "smallReward": 37,
+    "luck": 7,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "424": {
+    "id": 424,
+    "breachgroup": 37,
+    "breachTime": 9,
+    "needItem": 11279,
+    "needItemNum": 1,
+    "SuccessRate": -0.1,
+    "needTime": 28800,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "425": {
+    "id": 425,
+    "breachgroup": 37,
+    "breachTime": 10,
+    "needItem": 11279,
+    "needItemNum": 1,
+    "SuccessRate": -0.4,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "426": {
+    "id": 426,
+    "breachgroup": 37,
+    "breachTime": 11,
+    "needItem": 11279,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "427": {
+    "id": 427,
+    "breachgroup": 37,
+    "breachTime": 12,
+    "needItem": 11279,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "428": {
+    "id": 428,
+    "breachgroup": 38,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 0.83,
+    "needTime": 7200,
+    "smallReward": 30,
+    "luck": 78,
+    "worldMessage": 0
+  },
+  "429": {
+    "id": 429,
+    "breachgroup": 38,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.67,
+    "needTime": 8600,
+    "smallReward": 31,
+    "luck": 63,
+    "worldMessage": 0
+  },
+  "430": {
+    "id": 430,
+    "breachgroup": 38,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.5,
+    "needTime": 10100,
+    "smallReward": 32,
+    "luck": 47,
+    "worldMessage": 0
+  },
+  "431": {
+    "id": 431,
+    "breachgroup": 38,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.42,
+    "needTime": 11500,
+    "smallReward": 33,
+    "luck": 39,
+    "worldMessage": 0
+  },
+  "432": {
+    "id": 432,
+    "breachgroup": 38,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.33,
+    "needTime": 14400,
+    "smallReward": 34,
+    "luck": 31,
+    "worldMessage": 0
+  },
+  "433": {
+    "id": 433,
+    "breachgroup": 38,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.25,
+    "needTime": 17300,
+    "smallReward": 35,
+    "luck": 23,
+    "worldMessage": 0
+  },
+  "434": {
+    "id": 434,
+    "breachgroup": 38,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.17,
+    "needTime": 20200,
+    "smallReward": 36,
+    "luck": 16,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "435": {
+    "id": 435,
+    "breachgroup": 38,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.08,
+    "needTime": 23000,
+    "smallReward": 37,
+    "luck": 7,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "436": {
+    "id": 436,
+    "breachgroup": 38,
+    "breachTime": 9,
+    "needItem": 224,
+    "needItemNum": 5,
+    "SuccessRate": 0.01,
+    "needTime": 28800,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "437": {
+    "id": 437,
+    "breachgroup": 38,
+    "breachTime": 10,
+    "needItem": 224,
+    "needItemNum": 5,
+    "SuccessRate": -0.3,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "438": {
+    "id": 438,
+    "breachgroup": 38,
+    "breachTime": 11,
+    "needItem": 224,
+    "needItemNum": 5,
+    "SuccessRate": -0.4,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "439": {
+    "id": 439,
+    "breachgroup": 38,
+    "breachTime": 12,
+    "needItem": 224,
+    "needItemNum": 10,
+    "SuccessRate": -0.48,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "440": {
+    "id": 440,
+    "breachgroup": 38,
+    "breachTime": 13,
+    "needItem": 224,
+    "needItemNum": 2,
+    "SuccessRate": -0.576,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "441": {
+    "id": 441,
+    "breachgroup": 38,
+    "breachTime": 14,
+    "needItem": 224,
+    "needItemNum": 3,
+    "SuccessRate": -0.69119999999999993,
+    "needTime": 57600,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "442": {
+    "id": 442,
+    "breachgroup": 39,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 1.11,
+    "needTime": 4100,
+    "smallReward": 30,
+    "luck": 100,
+    "worldMessage": 0
+  },
+  "443": {
+    "id": 443,
+    "breachgroup": 39,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.89,
+    "needTime": 4900,
+    "smallReward": 31,
+    "luck": 84,
+    "worldMessage": 0
+  },
+  "444": {
+    "id": 444,
+    "breachgroup": 39,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.67,
+    "needTime": 5700,
+    "smallReward": 32,
+    "luck": 63,
+    "worldMessage": 0
+  },
+  "445": {
+    "id": 445,
+    "breachgroup": 39,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.56,
+    "needTime": 6500,
+    "smallReward": 33,
+    "luck": 53,
+    "worldMessage": 0
+  },
+  "446": {
+    "id": 446,
+    "breachgroup": 39,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.44,
+    "needTime": 8100,
+    "smallReward": 34,
+    "luck": 41,
+    "worldMessage": 0
+  },
+  "447": {
+    "id": 447,
+    "breachgroup": 39,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.33,
+    "needTime": 9700,
+    "smallReward": 35,
+    "luck": 31,
+    "worldMessage": 0
+  },
+  "448": {
+    "id": 448,
+    "breachgroup": 39,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.22,
+    "needTime": 11300,
+    "smallReward": 36,
+    "luck": 20,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "449": {
+    "id": 449,
+    "breachgroup": 39,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.11,
+    "needTime": 13000,
+    "smallReward": 37,
+    "luck": 10,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "450": {
+    "id": 450,
+    "breachgroup": 39,
+    "breachTime": 9,
+    "needItem": 11281,
+    "needItemNum": 1,
+    "SuccessRate": -0.1,
+    "needTime": 16200,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>击铗九问，之死靡它，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "451": {
+    "id": 451,
+    "breachgroup": 39,
+    "breachTime": 10,
+    "needItem": 11281,
+    "needItemNum": 1,
+    "SuccessRate": -0.4,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>长剑龙吟，气寒西北，声满东南，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"
+  },
+  "452": {
+    "id": 452,
+    "breachgroup": 39,
+    "breachTime": 11,
+    "needItem": 11281,
+    "needItemNum": 2,
+    "SuccessRate": -0.48,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "453": {
+    "id": 453,
+    "breachgroup": 39,
+    "breachTime": 12,
+    "needItem": 11281,
+    "needItemNum": 3,
+    "SuccessRate": -0.576,
+    "needTime": 32400,
+    "smallReward": 39,
+    "luck": 4,
+    "worldMessage": 0
+  },
+  "454": {
+    "id": 454,
+    "breachgroup": 40,
+    "breachTime": 1,
+    "needItem": 10101,
+    "needItemNum": 10,
+    "SuccessRate": 0.83,
+    "needTime": 7200,
+    "smallReward": 30,
+    "luck": 78,
+    "worldMessage": 0
+  },
+  "455": {
+    "id": 455,
+    "breachgroup": 40,
+    "breachTime": 2,
+    "needItem": 10101,
+    "needItemNum": 20,
+    "SuccessRate": 0.67,
+    "needTime": 8600,
+    "smallReward": 31,
+    "luck": 63,
+    "worldMessage": 0
+  },
+  "456": {
+    "id": 456,
+    "breachgroup": 40,
+    "breachTime": 3,
+    "needItem": 10101,
+    "needItemNum": 30,
+    "SuccessRate": 0.5,
+    "needTime": 10100,
+    "smallReward": 32,
+    "luck": 47,
+    "worldMessage": 0
+  },
+  "457": {
+    "id": 457,
+    "breachgroup": 40,
+    "breachTime": 4,
+    "needItem": 10102,
+    "needItemNum": 10,
+    "SuccessRate": 0.42,
+    "needTime": 11500,
+    "smallReward": 33,
+    "luck": 39,
+    "worldMessage": 0
+  },
+  "458": {
+    "id": 458,
+    "breachgroup": 40,
+    "breachTime": 5,
+    "needItem": 10102,
+    "needItemNum": 20,
+    "SuccessRate": 0.33,
+    "needTime": 14400,
+    "smallReward": 34,
+    "luck": 31,
+    "worldMessage": 0
+  },
+  "459": {
+    "id": 459,
+    "breachgroup": 40,
+    "breachTime": 6,
+    "needItem": 10102,
+    "needItemNum": 30,
+    "SuccessRate": 0.25,
+    "needTime": 17300,
+    "smallReward": 35,
+    "luck": 23,
+    "worldMessage": 0
+  },
+  "460": {
+    "id": 460,
+    "breachgroup": 40,
+    "breachTime": 7,
+    "needItem": 10103,
+    "needItemNum": 10,
+    "SuccessRate": 0.17,
+    "needTime": 20200,
+    "smallReward": 36,
+    "luck": 16,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "461": {
+    "id": 461,
+    "breachgroup": 40,
+    "breachTime": 8,
+    "needItem": 10103,
+    "needItemNum": 20,
+    "SuccessRate": 0.08,
+    "needTime": 23000,
+    "smallReward": 37,
+    "luck": 7,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "462": {
+    "id": 462,
+    "breachgroup": 40,
+    "breachTime": 9,
+    "needItem": 224,
+    "needItemNum": 5,
+    "SuccessRate": 0.01,
+    "needTime": 28800,
+    "smallReward": 38,
+    "luck": 5,
+    "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>呕心沥血，矢志不移，将</font><font color=0xffb54a>{1}</font><font color=0xfff390>突破至{2}层！</font>"
+  },
+  "463": {
+    "id": 463,
+    "breachgroup": 40,
+    "breachTime": 10,
+    "needItem": 224,
+    "needItemNum": 5,
+    "SuccessRate": -0.3,
+    "needTime": 57600,
     "smallReward": 39,
     "luck": 5,
     "worldMessage": "<font color=0x7ef4ff>{0}</font><font color=0xfff390>艰难困苦，玉汝于成，将</font><font color=0xffb54a>{1}</font><font color=0xfdfe0f>突破至{2}层！</font>"

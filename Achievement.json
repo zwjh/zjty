@@ -434,7 +434,7 @@
     "parameter": "70",
     "name": "探索发现·贰拾",
     "text": "探索发现·终：累计完成70个支线任务",
-    "titleId": 20,
+    "titleId": 0,
     "achievementPoint": 20,
     "priority": 4,
     "worldMessage": 0
@@ -2125,11 +2125,11 @@
   "1020": {
     "ID": 1020,
     "type": 10,
-    "parameter": "600",
+    "parameter": "500",
     "name": "成长提升·贰拾",
-    "text": "成长提升·终：玩家等级达到600",
+    "text": "成长提升·终：玩家等级达到500",
     "titleId": 0,
-    "achievementPoint": 20,
+    "achievementPoint": 0,
     "priority": 4,
     "worldMessage": 0
   },
@@ -2570,6 +2570,50 @@
     "text": "江湖历练·终：累计获得50000历练值",
     "titleId": 0,
     "achievementPoint": 20,
+    "priority": 4,
+    "worldMessage": 0
+  },
+  "221": {
+    "ID": 221,
+    "type": 2,
+    "parameter": "75",
+    "name": "探索发现·贰拾壹",
+    "text": "探索发现·贰拾壹：累计完成70个支线任务",
+    "titleId": 0,
+    "achievementPoint": 21,
+    "priority": 4,
+    "worldMessage": 0
+  },
+  "222": {
+    "ID": 222,
+    "type": 2,
+    "parameter": "80",
+    "name": "探索发现·贰拾贰",
+    "text": "探索发现·贰拾贰：累计完成80个支线任务",
+    "titleId": 0,
+    "achievementPoint": 22,
+    "priority": 4,
+    "worldMessage": 0
+  },
+  "223": {
+    "ID": 223,
+    "type": 2,
+    "parameter": "85",
+    "name": "探索发现·贰拾叁",
+    "text": "探索发现·贰拾叁：累计完成85个支线任务",
+    "titleId": 0,
+    "achievementPoint": 23,
+    "priority": 4,
+    "worldMessage": 0
+  },
+  "224": {
+    "ID": 224,
+    "type": 2,
+    "parameter": "90",
+    "name": "探索发现·贰拾肆",
+    "text": "探索发现·贰拾肆：累计完成90个支线任务",
+    "titleId": 20,
+    "achievementPoint": 24,
     "priority": 4,
     "worldMessage": 0
   }

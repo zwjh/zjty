@@ -2,60 +2,70 @@
   "1": {
     "holeNum": 1,
     "success": 1,
+    "protectNum": 2,
     "consumeGold": 0,
     "consumeitem": "0_0"
   },
   "2": {
     "holeNum": 2,
     "success": 0.8,
+    "protectNum": 3,
     "consumeGold": 10,
     "consumeitem": "0_0"
   },
   "3": {
     "holeNum": 3,
     "success": 0.4,
+    "protectNum": 4,
     "consumeGold": 50,
     "consumeitem": "0_0"
   },
   "4": {
     "holeNum": 4,
     "success": 0.1,
+    "protectNum": 12,
     "consumeGold": 100,
     "consumeitem": "0_0"
   },
   "5": {
     "holeNum": 5,
     "success": 0.05,
+    "protectNum": 24,
     "consumeGold": 150,
     "consumeitem": "0_0"
   },
   "6": {
     "holeNum": 6,
     "success": 0.05,
+    "protectNum": 24,
     "consumeGold": 200,
     "consumeitem": "0_0"
   },
   "7": {
     "holeNum": 7,
     "success": 0.05,
+    "protectNum": 24,
     "consumeGold": 250,
     "consumeitem": "0_0"
   },
   "8": {
     "holeNum": 8,
     "success": 0.05,
+    "protectNum": 24,
     "consumeGold": 300,
     "consumeitem": "0_0"
   },
   "9": {
     "holeNum": 9,
     "success": 0.05,
+    "protectNum": 24,
     "consumeGold": 350,
     "consumeitem": "0_0"
   },
   "10": {
     "holeNum": 10,
     "success": 0.05,
+    "protectNum": 24,
     "consumeGold": 400,
     "consumeitem": "0_0"
   }

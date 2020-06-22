@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": 1,
+    "ranking": "1",
+    "reward1": 4846,
+    "reward2": 4851
+  },
+  "2": {
+    "id": 2,
+    "ranking": "2_10",
+    "reward1": 4847,
+    "reward2": 4852
+  },
+  "3": {
+    "id": 3,
+    "ranking": "11_100",
+    "reward1": 4843,
+    "reward2": 4853
+  },
+  "4": {
+    "id": 4,
+    "ranking": "101_300",
+    "reward1": 4843,
+    "reward2": 4854
+  },
+  "5": {
+    "id": 5,
+    "ranking": "301",
+    "reward1": 4844,
+    "reward2": 4856
+  }
+}

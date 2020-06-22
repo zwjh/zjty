@@ -1,0 +1,130 @@
+{
+  "1": {
+    "configId": 1,
+    "configName": "需要玩家等级",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "1_条件_等级_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "2": {
+    "configId": 2,
+    "configName": "需要身世",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "2_3（这些身世之一即可）或6（这些身世之一都不可）_身世id1&身世id2_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "3": {
+    "configId": 3,
+    "configName": "前置任务1",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "3_条件符（填3）_任务id_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "4": {
+    "configId": 4,
+    "configName": "需要性别",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "4_3（这些之一即可）或6（这些之一都不可）_性别id1&性别id2_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "5": {
+    "configId": 5,
+    "configName": "需要门派",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "5_3（这些之一即可）或6（这些之一都不可）_门派id1&门派id2_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "6": {
+    "configId": 6,
+    "configName": "需要人物属性",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "6_属性id_条件_属性值_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "7": {
+    "configId": 7,
+    "configName": "武学等级限制",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "7_武学id_条件_技能等级_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "8": {
+    "configId": 8,
+    "configName": "武学突破限制",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "8_武学id_条件_突破等级_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "9": {
+    "configId": 9,
+    "configName": "武学境界限制",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "9_武学id_条件_境界等级_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "10": {
+    "configId": 10,
+    "configName": "全服达标可用",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "10_cycleId_未达成的对话id提示 可填0不写",
+    "rubbish3": "1"
+  },
+  "11": {
+    "configId": 11,
+    "configName": "前置任务2",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "3_条件符（填3）_任务id_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "12": {
+    "configId": 12,
+    "configName": "需要资源数量【声望",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "12_资源id_条件_数量_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "13": {
+    "configId": 13,
+    "configName": "需要背包里该道具的数量",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "13_道具id_条件_数量_未达成的对话id提示可填0不写",
+    "rubbish3": "1"
+  },
+  "14": {
+    "configId": 14,
+    "configName": "全服达标后不可用",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "14_cycleId_达成后不再可用的对话id提示 可填0不写",
+    "rubbish3": "1"
+  },
+  "15": {
+    "configId": 15,
+    "configName": "完成给予后可用",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "15_给予id_需求次数_对话id",
+    "rubbish3": "1"
+  },
+  "16": {
+    "configId": 16,
+    "configName": "装备某武功才能使用该行为",
+    "rubbish": "1",
+    "rubbish2": "1",
+    "configFormat": "16_武功id_对话id",
+    "rubbish3": "1"
+  }
+}

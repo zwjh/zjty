@@ -1,0 +1,275 @@
+{
+  "1": {
+    "Id": 1,
+    "Npcid": 12411,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6001
+  },
+  "2": {
+    "Id": 2,
+    "Npcid": 12412,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6002
+  },
+  "3": {
+    "Id": 3,
+    "Npcid": 12413,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6003
+  },
+  "4": {
+    "Id": 4,
+    "Npcid": 12414,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6004
+  },
+  "5": {
+    "Id": 5,
+    "Npcid": 12415,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6005
+  },
+  "6": {
+    "Id": 6,
+    "Npcid": 12416,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6006
+  },
+  "7": {
+    "Id": 7,
+    "Npcid": 12417,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6007
+  },
+  "8": {
+    "Id": 8,
+    "Npcid": 12418,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6008
+  },
+  "9": {
+    "Id": 9,
+    "Npcid": 12419,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6009
+  },
+  "10": {
+    "Id": 10,
+    "Npcid": 12420,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6010
+  },
+  "11": {
+    "Id": 11,
+    "Npcid": 12421,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6011
+  },
+  "12": {
+    "Id": 12,
+    "Npcid": 12422,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6012
+  },
+  "13": {
+    "Id": 13,
+    "Npcid": 12423,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6013
+  },
+  "14": {
+    "Id": 14,
+    "Npcid": 12424,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6014
+  },
+  "15": {
+    "Id": 15,
+    "Npcid": 12425,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6015
+  },
+  "16": {
+    "Id": 16,
+    "Npcid": 12426,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6016
+  },
+  "17": {
+    "Id": 17,
+    "Npcid": 12427,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6017
+  },
+  "18": {
+    "Id": 18,
+    "Npcid": 12428,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6018
+  },
+  "19": {
+    "Id": 19,
+    "Npcid": 12429,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6019
+  },
+  "20": {
+    "Id": 20,
+    "Npcid": 12430,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6020
+  },
+  "21": {
+    "Id": 21,
+    "Npcid": 12431,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6021
+  },
+  "22": {
+    "Id": 22,
+    "Npcid": 12432,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6022
+  },
+  "23": {
+    "Id": 23,
+    "Npcid": 12433,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6023
+  },
+  "24": {
+    "Id": 24,
+    "Npcid": 12434,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6024
+  },
+  "25": {
+    "Id": 25,
+    "Npcid": 12435,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6025
+  },
+  "26": {
+    "Id": 26,
+    "Npcid": 12436,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6026
+  },
+  "27": {
+    "Id": 27,
+    "Npcid": 12437,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6027
+  },
+  "28": {
+    "Id": 28,
+    "Npcid": 12438,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6028
+  },
+  "29": {
+    "Id": 29,
+    "Npcid": 12439,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6029
+  },
+  "30": {
+    "Id": 30,
+    "Npcid": 12440,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6030
+  },
+  "31": {
+    "Id": 31,
+    "Npcid": 12441,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6031
+  },
+  "32": {
+    "Id": 32,
+    "Npcid": 12442,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6032
+  },
+  "33": {
+    "Id": 33,
+    "Npcid": 12443,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6033
+  },
+  "34": {
+    "Id": 34,
+    "Npcid": 12444,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6034
+  },
+  "35": {
+    "Id": 35,
+    "Npcid": 12445,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6035
+  },
+  "36": {
+    "Id": 36,
+    "Npcid": 12446,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6036
+  },
+  "37": {
+    "Id": 37,
+    "Npcid": 12447,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6037
+  },
+  "38": {
+    "Id": 38,
+    "Npcid": 12448,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6038
+  },
+  "39": {
+    "Id": 39,
+    "Npcid": 12449,
+    "Upperlimit": 1,
+    "Lowerlimit": 1,
+    "Rewardid": 6039
+  }
+}

@@ -1,0 +1,1322 @@
+{
+  "1": {
+    "id": 1,
+    "npcid": 11701,
+    "minimapid": 82001,
+    "rewardid": 40000
+  },
+  "2": {
+    "id": 2,
+    "npcid": 11702,
+    "minimapid": 82002,
+    "rewardid": 40001
+  },
+  "3": {
+    "id": 3,
+    "npcid": 11703,
+    "minimapid": 82003,
+    "rewardid": 40002
+  },
+  "4": {
+    "id": 4,
+    "npcid": 11704,
+    "minimapid": 82004,
+    "rewardid": 40003
+  },
+  "5": {
+    "id": 5,
+    "npcid": 11705,
+    "minimapid": 82005,
+    "rewardid": 40004
+  },
+  "6": {
+    "id": 6,
+    "npcid": 11706,
+    "minimapid": 82006,
+    "rewardid": 40005
+  },
+  "7": {
+    "id": 7,
+    "npcid": 11707,
+    "minimapid": 82007,
+    "rewardid": 40006
+  },
+  "8": {
+    "id": 8,
+    "npcid": 11708,
+    "minimapid": 82008,
+    "rewardid": 40007
+  },
+  "9": {
+    "id": 9,
+    "npcid": 11709,
+    "minimapid": 82009,
+    "rewardid": 40008
+  },
+  "10": {
+    "id": 10,
+    "npcid": 11710,
+    "minimapid": 82010,
+    "rewardid": 40009
+  },
+  "11": {
+    "id": 11,
+    "npcid": 11711,
+    "minimapid": 82011,
+    "rewardid": 40010
+  },
+  "12": {
+    "id": 12,
+    "npcid": 11712,
+    "minimapid": 82012,
+    "rewardid": 40011
+  },
+  "13": {
+    "id": 13,
+    "npcid": 11713,
+    "minimapid": 82013,
+    "rewardid": 40012
+  },
+  "14": {
+    "id": 14,
+    "npcid": 11714,
+    "minimapid": 82014,
+    "rewardid": 40013
+  },
+  "15": {
+    "id": 15,
+    "npcid": 11715,
+    "minimapid": 82015,
+    "rewardid": 40014
+  },
+  "16": {
+    "id": 16,
+    "npcid": 11716,
+    "minimapid": 82016,
+    "rewardid": 40015
+  },
+  "17": {
+    "id": 17,
+    "npcid": 11717,
+    "minimapid": 82017,
+    "rewardid": 40016
+  },
+  "18": {
+    "id": 18,
+    "npcid": 11718,
+    "minimapid": 82018,
+    "rewardid": 40017
+  },
+  "19": {
+    "id": 19,
+    "npcid": 11719,
+    "minimapid": 82019,
+    "rewardid": 40018
+  },
+  "20": {
+    "id": 20,
+    "npcid": 11720,
+    "minimapid": 82020,
+    "rewardid": 40019
+  },
+  "21": {
+    "id": 21,
+    "npcid": 11721,
+    "minimapid": 82021,
+    "rewardid": 40020
+  },
+  "22": {
+    "id": 22,
+    "npcid": 11722,
+    "minimapid": 82022,
+    "rewardid": 40021
+  },
+  "23": {
+    "id": 23,
+    "npcid": 11723,
+    "minimapid": 82023,
+    "rewardid": 40022
+  },
+  "24": {
+    "id": 24,
+    "npcid": 11724,
+    "minimapid": 82024,
+    "rewardid": 40023
+  },
+  "25": {
+    "id": 25,
+    "npcid": 11725,
+    "minimapid": 82025,
+    "rewardid": 40024
+  },
+  "26": {
+    "id": 26,
+    "npcid": 11726,
+    "minimapid": 82026,
+    "rewardid": 40025
+  },
+  "27": {
+    "id": 27,
+    "npcid": 11727,
+    "minimapid": 82027,
+    "rewardid": 40026
+  },
+  "28": {
+    "id": 28,
+    "npcid": 11728,
+    "minimapid": 82028,
+    "rewardid": 40027
+  },
+  "29": {
+    "id": 29,
+    "npcid": 11729,
+    "minimapid": 82029,
+    "rewardid": 40028
+  },
+  "30": {
+    "id": 30,
+    "npcid": 11730,
+    "minimapid": 82030,
+    "rewardid": 40029
+  },
+  "31": {
+    "id": 31,
+    "npcid": 11731,
+    "minimapid": 82031,
+    "rewardid": 40030
+  },
+  "32": {
+    "id": 32,
+    "npcid": 11732,
+    "minimapid": 82032,
+    "rewardid": 40031
+  },
+  "33": {
+    "id": 33,
+    "npcid": 11733,
+    "minimapid": 82033,
+    "rewardid": 40032
+  },
+  "34": {
+    "id": 34,
+    "npcid": 11734,
+    "minimapid": 82034,
+    "rewardid": 40033
+  },
+  "35": {
+    "id": 35,
+    "npcid": 11735,
+    "minimapid": 82035,
+    "rewardid": 40034
+  },
+  "36": {
+    "id": 36,
+    "npcid": 11736,
+    "minimapid": 82036,
+    "rewardid": 40035
+  },
+  "37": {
+    "id": 37,
+    "npcid": 11737,
+    "minimapid": 82037,
+    "rewardid": 40036
+  },
+  "38": {
+    "id": 38,
+    "npcid": 11738,
+    "minimapid": 82038,
+    "rewardid": 40037
+  },
+  "39": {
+    "id": 39,
+    "npcid": 11739,
+    "minimapid": 82039,
+    "rewardid": 40038
+  },
+  "40": {
+    "id": 40,
+    "npcid": 11740,
+    "minimapid": 82040,
+    "rewardid": 40039
+  },
+  "41": {
+    "id": 41,
+    "npcid": 11741,
+    "minimapid": 82041,
+    "rewardid": 40040
+  },
+  "42": {
+    "id": 42,
+    "npcid": 11742,
+    "minimapid": 82042,
+    "rewardid": 40041
+  },
+  "43": {
+    "id": 43,
+    "npcid": 11743,
+    "minimapid": 82043,
+    "rewardid": 40042
+  },
+  "44": {
+    "id": 44,
+    "npcid": 11744,
+    "minimapid": 82044,
+    "rewardid": 40043
+  },
+  "45": {
+    "id": 45,
+    "npcid": 11745,
+    "minimapid": 82045,
+    "rewardid": 40044
+  },
+  "46": {
+    "id": 46,
+    "npcid": 11746,
+    "minimapid": 82046,
+    "rewardid": 40045
+  },
+  "47": {
+    "id": 47,
+    "npcid": 11747,
+    "minimapid": 82047,
+    "rewardid": 40046
+  },
+  "48": {
+    "id": 48,
+    "npcid": 11748,
+    "minimapid": 82048,
+    "rewardid": 40047
+  },
+  "49": {
+    "id": 49,
+    "npcid": 11749,
+    "minimapid": 82049,
+    "rewardid": 40048
+  },
+  "50": {
+    "id": 50,
+    "npcid": 11750,
+    "minimapid": 82050,
+    "rewardid": 40049
+  },
+  "51": {
+    "id": 51,
+    "npcid": 11751,
+    "minimapid": 82051,
+    "rewardid": 40050
+  },
+  "52": {
+    "id": 52,
+    "npcid": 11752,
+    "minimapid": 82052,
+    "rewardid": 40051
+  },
+  "53": {
+    "id": 53,
+    "npcid": 11753,
+    "minimapid": 82053,
+    "rewardid": 40052
+  },
+  "54": {
+    "id": 54,
+    "npcid": 11754,
+    "minimapid": 82054,
+    "rewardid": 40053
+  },
+  "55": {
+    "id": 55,
+    "npcid": 11755,
+    "minimapid": 82055,
+    "rewardid": 40054
+  },
+  "56": {
+    "id": 56,
+    "npcid": 11756,
+    "minimapid": 82056,
+    "rewardid": 40055
+  },
+  "57": {
+    "id": 57,
+    "npcid": 11757,
+    "minimapid": 82057,
+    "rewardid": 40056
+  },
+  "58": {
+    "id": 58,
+    "npcid": 11758,
+    "minimapid": 82058,
+    "rewardid": 40057
+  },
+  "59": {
+    "id": 59,
+    "npcid": 11759,
+    "minimapid": 82059,
+    "rewardid": 40058
+  },
+  "60": {
+    "id": 60,
+    "npcid": 11760,
+    "minimapid": 82060,
+    "rewardid": 40059
+  },
+  "61": {
+    "id": 61,
+    "npcid": 11761,
+    "minimapid": 82061,
+    "rewardid": 40060
+  },
+  "62": {
+    "id": 62,
+    "npcid": 11762,
+    "minimapid": 82062,
+    "rewardid": 40061
+  },
+  "63": {
+    "id": 63,
+    "npcid": 11763,
+    "minimapid": 82063,
+    "rewardid": 40062
+  },
+  "64": {
+    "id": 64,
+    "npcid": 11764,
+    "minimapid": 82064,
+    "rewardid": 40063
+  },
+  "65": {
+    "id": 65,
+    "npcid": 11765,
+    "minimapid": 82065,
+    "rewardid": 40064
+  },
+  "66": {
+    "id": 66,
+    "npcid": 11766,
+    "minimapid": 82066,
+    "rewardid": 40065
+  },
+  "67": {
+    "id": 67,
+    "npcid": 11767,
+    "minimapid": 82067,
+    "rewardid": 40066
+  },
+  "68": {
+    "id": 68,
+    "npcid": 11768,
+    "minimapid": 82068,
+    "rewardid": 40067
+  },
+  "69": {
+    "id": 69,
+    "npcid": 11769,
+    "minimapid": 82069,
+    "rewardid": 40068
+  },
+  "70": {
+    "id": 70,
+    "npcid": 11770,
+    "minimapid": 82070,
+    "rewardid": 40069
+  },
+  "71": {
+    "id": 71,
+    "npcid": 11771,
+    "minimapid": 82071,
+    "rewardid": 40070
+  },
+  "72": {
+    "id": 72,
+    "npcid": 11772,
+    "minimapid": 82072,
+    "rewardid": 40071
+  },
+  "73": {
+    "id": 73,
+    "npcid": 11773,
+    "minimapid": 82073,
+    "rewardid": 40072
+  },
+  "74": {
+    "id": 74,
+    "npcid": 11774,
+    "minimapid": 82074,
+    "rewardid": 40073
+  },
+  "75": {
+    "id": 75,
+    "npcid": 11775,
+    "minimapid": 82075,
+    "rewardid": 40074
+  },
+  "76": {
+    "id": 76,
+    "npcid": 11776,
+    "minimapid": 82076,
+    "rewardid": 40075
+  },
+  "77": {
+    "id": 77,
+    "npcid": 11777,
+    "minimapid": 82077,
+    "rewardid": 40076
+  },
+  "78": {
+    "id": 78,
+    "npcid": 11778,
+    "minimapid": 82078,
+    "rewardid": 40077
+  },
+  "79": {
+    "id": 79,
+    "npcid": 11779,
+    "minimapid": 82079,
+    "rewardid": 40078
+  },
+  "80": {
+    "id": 80,
+    "npcid": 11780,
+    "minimapid": 82080,
+    "rewardid": 40079
+  },
+  "81": {
+    "id": 81,
+    "npcid": 11781,
+    "minimapid": 82081,
+    "rewardid": 40080
+  },
+  "82": {
+    "id": 82,
+    "npcid": 11782,
+    "minimapid": 82082,
+    "rewardid": 40081
+  },
+  "83": {
+    "id": 83,
+    "npcid": 11783,
+    "minimapid": 82083,
+    "rewardid": 40082
+  },
+  "84": {
+    "id": 84,
+    "npcid": 11784,
+    "minimapid": 82084,
+    "rewardid": 40083
+  },
+  "85": {
+    "id": 85,
+    "npcid": 11785,
+    "minimapid": 82085,
+    "rewardid": 40084
+  },
+  "86": {
+    "id": 86,
+    "npcid": 11786,
+    "minimapid": 82086,
+    "rewardid": 40085
+  },
+  "87": {
+    "id": 87,
+    "npcid": 11787,
+    "minimapid": 82087,
+    "rewardid": 40086
+  },
+  "88": {
+    "id": 88,
+    "npcid": 11788,
+    "minimapid": 82088,
+    "rewardid": 40087
+  },
+  "89": {
+    "id": 89,
+    "npcid": 11789,
+    "minimapid": 82089,
+    "rewardid": 40088
+  },
+  "90": {
+    "id": 90,
+    "npcid": 11790,
+    "minimapid": 82090,
+    "rewardid": 40089
+  },
+  "91": {
+    "id": 91,
+    "npcid": 11791,
+    "minimapid": 82091,
+    "rewardid": 40090
+  },
+  "92": {
+    "id": 92,
+    "npcid": 11792,
+    "minimapid": 82092,
+    "rewardid": 40091
+  },
+  "93": {
+    "id": 93,
+    "npcid": 11793,
+    "minimapid": 82093,
+    "rewardid": 40092
+  },
+  "94": {
+    "id": 94,
+    "npcid": 11794,
+    "minimapid": 82094,
+    "rewardid": 40093
+  },
+  "95": {
+    "id": 95,
+    "npcid": 11795,
+    "minimapid": 82095,
+    "rewardid": 40094
+  },
+  "96": {
+    "id": 96,
+    "npcid": 11796,
+    "minimapid": 82096,
+    "rewardid": 40095
+  },
+  "97": {
+    "id": 97,
+    "npcid": 11797,
+    "minimapid": 82097,
+    "rewardid": 40096
+  },
+  "98": {
+    "id": 98,
+    "npcid": 11798,
+    "minimapid": 82098,
+    "rewardid": 40097
+  },
+  "99": {
+    "id": 99,
+    "npcid": 11799,
+    "minimapid": 82099,
+    "rewardid": 40098
+  },
+  "100": {
+    "id": 100,
+    "npcid": 11800,
+    "minimapid": 820100,
+    "rewardid": 40099
+  },
+  "101": {
+    "id": 101,
+    "npcid": 11801,
+    "minimapid": 820101,
+    "rewardid": 40100
+  },
+  "102": {
+    "id": 102,
+    "npcid": 11802,
+    "minimapid": 820102,
+    "rewardid": 40101
+  },
+  "103": {
+    "id": 103,
+    "npcid": 11803,
+    "minimapid": 820103,
+    "rewardid": 40102
+  },
+  "104": {
+    "id": 104,
+    "npcid": 11804,
+    "minimapid": 820104,
+    "rewardid": 40103
+  },
+  "105": {
+    "id": 105,
+    "npcid": 11805,
+    "minimapid": 820105,
+    "rewardid": 40104
+  },
+  "106": {
+    "id": 106,
+    "npcid": 11806,
+    "minimapid": 820106,
+    "rewardid": 40105
+  },
+  "107": {
+    "id": 107,
+    "npcid": 11807,
+    "minimapid": 820107,
+    "rewardid": 40106
+  },
+  "108": {
+    "id": 108,
+    "npcid": 11808,
+    "minimapid": 820108,
+    "rewardid": 40107
+  },
+  "109": {
+    "id": 109,
+    "npcid": 11809,
+    "minimapid": 820109,
+    "rewardid": 40108
+  },
+  "110": {
+    "id": 110,
+    "npcid": 11810,
+    "minimapid": 820110,
+    "rewardid": 40109
+  },
+  "111": {
+    "id": 111,
+    "npcid": 11811,
+    "minimapid": 820111,
+    "rewardid": 40110
+  },
+  "112": {
+    "id": 112,
+    "npcid": 11812,
+    "minimapid": 820112,
+    "rewardid": 40111
+  },
+  "113": {
+    "id": 113,
+    "npcid": 11813,
+    "minimapid": 820113,
+    "rewardid": 40112
+  },
+  "114": {
+    "id": 114,
+    "npcid": 11814,
+    "minimapid": 820114,
+    "rewardid": 40113
+  },
+  "115": {
+    "id": 115,
+    "npcid": 11815,
+    "minimapid": 820115,
+    "rewardid": 40114
+  },
+  "116": {
+    "id": 116,
+    "npcid": 11816,
+    "minimapid": 820116,
+    "rewardid": 40115
+  },
+  "117": {
+    "id": 117,
+    "npcid": 11817,
+    "minimapid": 820117,
+    "rewardid": 40116
+  },
+  "118": {
+    "id": 118,
+    "npcid": 11818,
+    "minimapid": 820118,
+    "rewardid": 40117
+  },
+  "119": {
+    "id": 119,
+    "npcid": 11819,
+    "minimapid": 820119,
+    "rewardid": 40118
+  },
+  "120": {
+    "id": 120,
+    "npcid": 11820,
+    "minimapid": 820120,
+    "rewardid": 40119
+  },
+  "121": {
+    "id": 121,
+    "npcid": 11821,
+    "minimapid": 820121,
+    "rewardid": 40120
+  },
+  "122": {
+    "id": 122,
+    "npcid": 11822,
+    "minimapid": 820122,
+    "rewardid": 40121
+  },
+  "123": {
+    "id": 123,
+    "npcid": 11823,
+    "minimapid": 820123,
+    "rewardid": 40122
+  },
+  "124": {
+    "id": 124,
+    "npcid": 11824,
+    "minimapid": 820124,
+    "rewardid": 40123
+  },
+  "125": {
+    "id": 125,
+    "npcid": 11825,
+    "minimapid": 820125,
+    "rewardid": 40124
+  },
+  "126": {
+    "id": 126,
+    "npcid": 11826,
+    "minimapid": 820126,
+    "rewardid": 40125
+  },
+  "127": {
+    "id": 127,
+    "npcid": 11827,
+    "minimapid": 820127,
+    "rewardid": 40126
+  },
+  "128": {
+    "id": 128,
+    "npcid": 11828,
+    "minimapid": 820128,
+    "rewardid": 40127
+  },
+  "129": {
+    "id": 129,
+    "npcid": 11829,
+    "minimapid": 820129,
+    "rewardid": 40128
+  },
+  "130": {
+    "id": 130,
+    "npcid": 11830,
+    "minimapid": 820130,
+    "rewardid": 40129
+  },
+  "131": {
+    "id": 131,
+    "npcid": 11831,
+    "minimapid": 820131,
+    "rewardid": 40130
+  },
+  "132": {
+    "id": 132,
+    "npcid": 11832,
+    "minimapid": 820132,
+    "rewardid": 40131
+  },
+  "133": {
+    "id": 133,
+    "npcid": 11833,
+    "minimapid": 820133,
+    "rewardid": 40132
+  },
+  "134": {
+    "id": 134,
+    "npcid": 11834,
+    "minimapid": 820134,
+    "rewardid": 40133
+  },
+  "135": {
+    "id": 135,
+    "npcid": 11835,
+    "minimapid": 820135,
+    "rewardid": 40134
+  },
+  "136": {
+    "id": 136,
+    "npcid": 11836,
+    "minimapid": 820136,
+    "rewardid": 40135
+  },
+  "137": {
+    "id": 137,
+    "npcid": 11837,
+    "minimapid": 820137,
+    "rewardid": 40136
+  },
+  "138": {
+    "id": 138,
+    "npcid": 11838,
+    "minimapid": 820138,
+    "rewardid": 40137
+  },
+  "139": {
+    "id": 139,
+    "npcid": 11839,
+    "minimapid": 820139,
+    "rewardid": 40138
+  },
+  "140": {
+    "id": 140,
+    "npcid": 11840,
+    "minimapid": 820140,
+    "rewardid": 40139
+  },
+  "141": {
+    "id": 141,
+    "npcid": 11841,
+    "minimapid": 820141,
+    "rewardid": 40140
+  },
+  "142": {
+    "id": 142,
+    "npcid": 11842,
+    "minimapid": 820142,
+    "rewardid": 40141
+  },
+  "143": {
+    "id": 143,
+    "npcid": 11843,
+    "minimapid": 820143,
+    "rewardid": 40142
+  },
+  "144": {
+    "id": 144,
+    "npcid": 11844,
+    "minimapid": 820144,
+    "rewardid": 40143
+  },
+  "145": {
+    "id": 145,
+    "npcid": 11845,
+    "minimapid": 820145,
+    "rewardid": 40144
+  },
+  "146": {
+    "id": 146,
+    "npcid": 11846,
+    "minimapid": 820146,
+    "rewardid": 40145
+  },
+  "147": {
+    "id": 147,
+    "npcid": 11847,
+    "minimapid": 820147,
+    "rewardid": 40146
+  },
+  "148": {
+    "id": 148,
+    "npcid": 11848,
+    "minimapid": 820148,
+    "rewardid": 40147
+  },
+  "149": {
+    "id": 149,
+    "npcid": 11849,
+    "minimapid": 820149,
+    "rewardid": 40148
+  },
+  "150": {
+    "id": 150,
+    "npcid": 11850,
+    "minimapid": 820150,
+    "rewardid": 40149
+  },
+  "151": {
+    "id": 151,
+    "npcid": 11851,
+    "minimapid": 820151,
+    "rewardid": 40150
+  },
+  "152": {
+    "id": 152,
+    "npcid": 11852,
+    "minimapid": 820152,
+    "rewardid": 40151
+  },
+  "153": {
+    "id": 153,
+    "npcid": 11853,
+    "minimapid": 820153,
+    "rewardid": 40152
+  },
+  "154": {
+    "id": 154,
+    "npcid": 11854,
+    "minimapid": 820154,
+    "rewardid": 40153
+  },
+  "155": {
+    "id": 155,
+    "npcid": 11855,
+    "minimapid": 820155,
+    "rewardid": 40154
+  },
+  "156": {
+    "id": 156,
+    "npcid": 11856,
+    "minimapid": 820156,
+    "rewardid": 40155
+  },
+  "157": {
+    "id": 157,
+    "npcid": 11857,
+    "minimapid": 820157,
+    "rewardid": 40156
+  },
+  "158": {
+    "id": 158,
+    "npcid": 11858,
+    "minimapid": 820158,
+    "rewardid": 40157
+  },
+  "159": {
+    "id": 159,
+    "npcid": 11859,
+    "minimapid": 820159,
+    "rewardid": 40158
+  },
+  "160": {
+    "id": 160,
+    "npcid": 11860,
+    "minimapid": 820160,
+    "rewardid": 40159
+  },
+  "161": {
+    "id": 161,
+    "npcid": 11861,
+    "minimapid": 820161,
+    "rewardid": 40160
+  },
+  "162": {
+    "id": 162,
+    "npcid": 11862,
+    "minimapid": 820162,
+    "rewardid": 40161
+  },
+  "163": {
+    "id": 163,
+    "npcid": 11863,
+    "minimapid": 820163,
+    "rewardid": 40162
+  },
+  "164": {
+    "id": 164,
+    "npcid": 11864,
+    "minimapid": 820164,
+    "rewardid": 40163
+  },
+  "165": {
+    "id": 165,
+    "npcid": 11865,
+    "minimapid": 820165,
+    "rewardid": 40164
+  },
+  "166": {
+    "id": 166,
+    "npcid": 11866,
+    "minimapid": 820166,
+    "rewardid": 40165
+  },
+  "167": {
+    "id": 167,
+    "npcid": 11867,
+    "minimapid": 820167,
+    "rewardid": 40166
+  },
+  "168": {
+    "id": 168,
+    "npcid": 11868,
+    "minimapid": 820168,
+    "rewardid": 40167
+  },
+  "169": {
+    "id": 169,
+    "npcid": 11869,
+    "minimapid": 820169,
+    "rewardid": 40168
+  },
+  "170": {
+    "id": 170,
+    "npcid": 11870,
+    "minimapid": 820170,
+    "rewardid": 40169
+  },
+  "171": {
+    "id": 171,
+    "npcid": 11871,
+    "minimapid": 820171,
+    "rewardid": 40170
+  },
+  "172": {
+    "id": 172,
+    "npcid": 11872,
+    "minimapid": 820172,
+    "rewardid": 40171
+  },
+  "173": {
+    "id": 173,
+    "npcid": 11873,
+    "minimapid": 820173,
+    "rewardid": 40172
+  },
+  "174": {
+    "id": 174,
+    "npcid": 11874,
+    "minimapid": 820174,
+    "rewardid": 40173
+  },
+  "175": {
+    "id": 175,
+    "npcid": 11875,
+    "minimapid": 820175,
+    "rewardid": 40174
+  },
+  "176": {
+    "id": 176,
+    "npcid": 11876,
+    "minimapid": 820176,
+    "rewardid": 40175
+  },
+  "177": {
+    "id": 177,
+    "npcid": 11877,
+    "minimapid": 820177,
+    "rewardid": 40176
+  },
+  "178": {
+    "id": 178,
+    "npcid": 11878,
+    "minimapid": 820178,
+    "rewardid": 40177
+  },
+  "179": {
+    "id": 179,
+    "npcid": 11879,
+    "minimapid": 820179,
+    "rewardid": 40178
+  },
+  "180": {
+    "id": 180,
+    "npcid": 11880,
+    "minimapid": 820180,
+    "rewardid": 40179
+  },
+  "181": {
+    "id": 181,
+    "npcid": 11881,
+    "minimapid": 820181,
+    "rewardid": 40180
+  },
+  "182": {
+    "id": 182,
+    "npcid": 11882,
+    "minimapid": 820182,
+    "rewardid": 40181
+  },
+  "183": {
+    "id": 183,
+    "npcid": 11883,
+    "minimapid": 820183,
+    "rewardid": 40182
+  },
+  "184": {
+    "id": 184,
+    "npcid": 11884,
+    "minimapid": 820184,
+    "rewardid": 40183
+  },
+  "185": {
+    "id": 185,
+    "npcid": 11885,
+    "minimapid": 820185,
+    "rewardid": 40184
+  },
+  "186": {
+    "id": 186,
+    "npcid": 11886,
+    "minimapid": 820186,
+    "rewardid": 40185
+  },
+  "187": {
+    "id": 187,
+    "npcid": 11887,
+    "minimapid": 820187,
+    "rewardid": 40186
+  },
+  "188": {
+    "id": 188,
+    "npcid": 11888,
+    "minimapid": 820188,
+    "rewardid": 40187
+  },
+  "189": {
+    "id": 189,
+    "npcid": 11889,
+    "minimapid": 820189,
+    "rewardid": 40188
+  },
+  "190": {
+    "id": 190,
+    "npcid": 11890,
+    "minimapid": 820190,
+    "rewardid": 40189
+  },
+  "191": {
+    "id": 191,
+    "npcid": 11891,
+    "minimapid": 820191,
+    "rewardid": 40190
+  },
+  "192": {
+    "id": 192,
+    "npcid": 11892,
+    "minimapid": 820192,
+    "rewardid": 40191
+  },
+  "193": {
+    "id": 193,
+    "npcid": 11893,
+    "minimapid": 820193,
+    "rewardid": 40192
+  },
+  "194": {
+    "id": 194,
+    "npcid": 11894,
+    "minimapid": 820194,
+    "rewardid": 40193
+  },
+  "195": {
+    "id": 195,
+    "npcid": 11895,
+    "minimapid": 820195,
+    "rewardid": 40194
+  },
+  "196": {
+    "id": 196,
+    "npcid": 11896,
+    "minimapid": 820196,
+    "rewardid": 40195
+  },
+  "197": {
+    "id": 197,
+    "npcid": 11897,
+    "minimapid": 820197,
+    "rewardid": 40196
+  },
+  "198": {
+    "id": 198,
+    "npcid": 11898,
+    "minimapid": 820198,
+    "rewardid": 40197
+  },
+  "199": {
+    "id": 199,
+    "npcid": 11899,
+    "minimapid": 820199,
+    "rewardid": 40198
+  },
+  "200": {
+    "id": 200,
+    "npcid": 11900,
+    "minimapid": 820200,
+    "rewardid": 40199
+  },
+  "201": {
+    "id": 201,
+    "npcid": 11691,
+    "minimapid": 820201,
+    "rewardid": 40200
+  },
+  "202": {
+    "id": 202,
+    "npcid": 11692,
+    "minimapid": 820202,
+    "rewardid": 40201
+  },
+  "203": {
+    "id": 203,
+    "npcid": 11693,
+    "minimapid": 820203,
+    "rewardid": 40202
+  },
+  "204": {
+    "id": 204,
+    "npcid": 11694,
+    "minimapid": 820204,
+    "rewardid": 40203
+  },
+  "205": {
+    "id": 205,
+    "npcid": 11695,
+    "minimapid": 820205,
+    "rewardid": 40204
+  },
+  "206": {
+    "id": 206,
+    "npcid": 11696,
+    "minimapid": 820206,
+    "rewardid": 40205
+  },
+  "207": {
+    "id": 207,
+    "npcid": 11697,
+    "minimapid": 820207,
+    "rewardid": 40206
+  },
+  "208": {
+    "id": 208,
+    "npcid": 11698,
+    "minimapid": 820208,
+    "rewardid": 40207
+  },
+  "209": {
+    "id": 209,
+    "npcid": 11689,
+    "minimapid": 820209,
+    "rewardid": 40208
+  },
+  "210": {
+    "id": 210,
+    "npcid": 11690,
+    "minimapid": 820210,
+    "rewardid": 40209
+  },
+  "211": {
+    "id": 211,
+    "npcid": 12391,
+    "minimapid": 820211,
+    "rewardid": 40210
+  },
+  "212": {
+    "id": 212,
+    "npcid": 12392,
+    "minimapid": 820212,
+    "rewardid": 40211
+  },
+  "213": {
+    "id": 213,
+    "npcid": 12393,
+    "minimapid": 820213,
+    "rewardid": 40212
+  },
+  "214": {
+    "id": 214,
+    "npcid": 12394,
+    "minimapid": 820214,
+    "rewardid": 40213
+  },
+  "215": {
+    "id": 215,
+    "npcid": 12395,
+    "minimapid": 820215,
+    "rewardid": 40214
+  },
+  "216": {
+    "id": 216,
+    "npcid": 12396,
+    "minimapid": 820216,
+    "rewardid": 40215
+  },
+  "217": {
+    "id": 217,
+    "npcid": 12397,
+    "minimapid": 820217,
+    "rewardid": 40216
+  },
+  "218": {
+    "id": 218,
+    "npcid": 12398,
+    "minimapid": 820218,
+    "rewardid": 40217
+  },
+  "219": {
+    "id": 219,
+    "npcid": 12399,
+    "minimapid": 820219,
+    "rewardid": 40218
+  },
+  "220": {
+    "id": 220,
+    "npcid": 12400,
+    "minimapid": 820220,
+    "rewardid": 40219
+  }
+}

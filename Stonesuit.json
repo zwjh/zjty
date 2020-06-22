@@ -1,0 +1,242 @@
+{
+  "1": {
+    "ID": 1,
+    "Type": 1,
+    "Demand": "1_1_1",
+    "Level1": 5,
+    "SuitAttr1": "1_52_200",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「会心」：暴击伤害+2%。</font>"
+  },
+  "2": {
+    "ID": 2,
+    "Type": 1,
+    "Demand": "1_1_1",
+    "Level1": 6,
+    "SuitAttr1": "1_52_400",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「会心·极」：暴击伤害+4%。</font>"
+  },
+  "3": {
+    "ID": 3,
+    "Type": 1,
+    "Demand": "1_1_1_1_1_1",
+    "Level1": 11,
+    "SuitAttr1": "1_52_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「会心」：暴击伤害+5%。</font>"
+  },
+  "4": {
+    "ID": 4,
+    "Type": 1,
+    "Demand": "1_1_1_1_1_1",
+    "Level1": 12,
+    "SuitAttr1": "1_52_800",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「会心·极」：暴击伤害+8%。</font>"
+  },
+  "5": {
+    "ID": 5,
+    "Type": 1,
+    "Demand": "1_1_1_1_1_1_1_1_1",
+    "Level1": 17,
+    "SuitAttr1": "1_52_1000",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「会心」：暴击伤害+10%。</font>"
+  },
+  "6": {
+    "ID": 6,
+    "Type": 1,
+    "Demand": "1_1_1_1_1_1_1_1_1",
+    "Level1": 18,
+    "SuitAttr1": "1_52_1500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「会心·极」：暴击伤害+15%。</font>"
+  },
+  "7": {
+    "ID": 7,
+    "Type": 2,
+    "Demand": "2_2_2",
+    "Level1": 5,
+    "SuitAttr1": "1_55_200",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「强攻」：组合增强额外+2%。</font>"
+  },
+  "8": {
+    "ID": 8,
+    "Type": 2,
+    "Demand": "2_2_2",
+    "Level1": 6,
+    "SuitAttr1": "1_55_400",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「强攻·极」：组合增强额外+4%。</font>"
+  },
+  "9": {
+    "ID": 9,
+    "Type": 2,
+    "Demand": "2_2_2_2_2_2",
+    "Level1": 11,
+    "SuitAttr1": "1_55_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「强攻」：组合增强额外+5%。</font>"
+  },
+  "10": {
+    "ID": 10,
+    "Type": 2,
+    "Demand": "2_2_2_2_2_2",
+    "Level1": 12,
+    "SuitAttr1": "1_55_800",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「强攻·极」：组合增强额外+8%。</font>"
+  },
+  "11": {
+    "ID": 11,
+    "Type": 2,
+    "Demand": "2_2_2_2_2_2_2_2_2",
+    "Level1": 17,
+    "SuitAttr1": "1_55_1000",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「强攻」：组合增强额外+10%。</font>"
+  },
+  "12": {
+    "ID": 12,
+    "Type": 2,
+    "Demand": "2_2_2_2_2_2_2_2_2",
+    "Level1": 18,
+    "SuitAttr1": "1_55_1500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「强攻·极」：组合增强额外+15%。</font>"
+  },
+  "13": {
+    "ID": 13,
+    "Type": 3,
+    "Demand": "3_3_3",
+    "Level1": 5,
+    "SuitAttr1": "1_50_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「御敌」：伤害减免率额外+5%，异常状态抗性+5%。</font>"
+  },
+  "14": {
+    "ID": 14,
+    "Type": 3,
+    "Demand": "3_3_3",
+    "Level1": 6,
+    "SuitAttr1": "1_50_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「御敌·极」：伤害减免率额外+5%，异常状态抗性+5%。</font>"
+  },
+  "15": {
+    "ID": 15,
+    "Type": 3,
+    "Demand": "3_3_3_3_3_3",
+    "Level1": 11,
+    "SuitAttr1": "1_50_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「御敌」：伤害减免率额外+5%，异常状态抗性+5%。</font>"
+  },
+  "16": {
+    "ID": 16,
+    "Type": 3,
+    "Demand": "3_3_3_3_3_3",
+    "Level1": 12,
+    "SuitAttr1": "1_50_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「御敌·极」：伤害减免率额外+5%，异常状态抗性+5%。</font>"
+  },
+  "17": {
+    "ID": 17,
+    "Type": 3,
+    "Demand": "3_3_3_3_3_3_3_3_3",
+    "Level1": 17,
+    "SuitAttr1": "1_50_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「御敌」：伤害减免率额外+5%，异常状态抗性+5%。</font>"
+  },
+  "18": {
+    "ID": 18,
+    "Type": 3,
+    "Demand": "3_3_3_3_3_3_3_3_3",
+    "Level1": 18,
+    "SuitAttr1": "1_50_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「御敌·极」：伤害减免率额外+5%，异常状态抗性+5%。</font>"
+  },
+  "19": {
+    "ID": 19,
+    "Type": 4,
+    "Demand": "1_2_3",
+    "Level1": 5,
+    "SuitAttr1": "1_53_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「制衡」：最终伤害率额外+3%，伤害减免率额外+3%。</font>"
+  },
+  "20": {
+    "ID": 20,
+    "Type": 4,
+    "Demand": "1_2_3",
+    "Level1": 6,
+    "SuitAttr1": "1_53_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0x376f9a>「制衡·极」：最终伤害率额外+3%，伤害减免率额外+3%。</font>"
+  },
+  "21": {
+    "ID": 21,
+    "Type": 4,
+    "Demand": "1_2_3_1_2_3",
+    "Level1": 11,
+    "SuitAttr1": "1_53_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「制衡」：最终伤害率额外+3%，伤害减免率额外+3%。</font>"
+  },
+  "22": {
+    "ID": 22,
+    "Type": 4,
+    "Demand": "1_2_3_1_2_3",
+    "Level1": 12,
+    "SuitAttr1": "1_53_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xd3810b>「制衡·极」：最终伤害率额外+3%，伤害减免率额外+3%。</font>"
+  },
+  "23": {
+    "ID": 23,
+    "Type": 4,
+    "Demand": "1_2_3_1_2_3_1_2_3",
+    "Level1": 17,
+    "SuitAttr1": "1_53_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「制衡」：最终伤害率额外+3%，伤害减免率额外+3%。</font>"
+  },
+  "24": {
+    "ID": 24,
+    "Type": 4,
+    "Demand": "1_2_3_1_2_3_1_2_3",
+    "Level1": 18,
+    "SuitAttr1": "1_53_500,1_54_500",
+    "SkillId1": "39_50",
+    "BuffId1": "70_1",
+    "Display1": "<font color=0xbe4539>「制衡·极」：最终伤害率额外+3%，伤害减免率额外+3%。</font>"
+  }
+}

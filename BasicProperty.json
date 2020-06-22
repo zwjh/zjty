@@ -6,7 +6,7 @@
     "basicValue2": 20,
     "basicValue3": 20,
     "basicValue4": 20,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 2,
     "title": 0
@@ -18,7 +18,7 @@
     "basicValue2": 20,
     "basicValue3": 20,
     "basicValue4": 20,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 3,
     "title": 0
@@ -30,7 +30,7 @@
     "basicValue2": 20,
     "basicValue3": 20,
     "basicValue4": 20,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 4,
     "title": 0
@@ -42,7 +42,7 @@
     "basicValue2": 20,
     "basicValue3": 20,
     "basicValue4": 30,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 5,
     "title": 0
@@ -54,7 +54,7 @@
     "basicValue2": 30,
     "basicValue3": 20,
     "basicValue4": 20,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 6,
     "title": 0
@@ -66,7 +66,7 @@
     "basicValue2": 20,
     "basicValue3": 30,
     "basicValue4": 20,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 7,
     "title": 0
@@ -78,7 +78,7 @@
     "basicValue2": 20,
     "basicValue3": 30,
     "basicValue4": 20,
-    "limit": 300,
+    "limit": 400,
     "color": "0x44261d",
     "order": 8,
     "title": 0
@@ -90,7 +90,7 @@
     "basicValue2": 14,
     "basicValue3": 14,
     "basicValue4": 14,
-    "limit": 99,
+    "limit": 100,
     "color": "0x44261d",
     "order": 9,
     "title": 0
@@ -114,7 +114,7 @@
     "basicValue2": 0,
     "basicValue3": 0,
     "basicValue4": 0,
-    "limit": 1000,
+    "limit": 100,
     "color": "0x44261d",
     "order": 11,
     "title": 0
@@ -138,10 +138,10 @@
     "basicValue2": 1000,
     "basicValue3": 1000,
     "basicValue4": 1000,
-    "limit": 840000,
+    "limit": 99999999,
     "color": "0xbe4539",
     "order": 1,
-    "title": " ---人物资质属性---"
+    "title": "--人物资质属性--"
   },
   "13": {
     "ID": 13,
@@ -162,10 +162,10 @@
     "basicValue2": 700,
     "basicValue3": 700,
     "basicValue4": 750,
-    "limit": 225000,
+    "limit": 9999999,
     "color": "0xbe4539",
     "order": 21,
-    "title": " ---重要战斗属性---"
+    "title": "--重要战斗属性--"
   },
   "15": {
     "ID": 15,
@@ -174,7 +174,7 @@
     "basicValue2": 12,
     "basicValue3": 12,
     "basicValue4": 30,
-    "limit": 1500,
+    "limit": 6000,
     "color": "0xbe4539",
     "order": 26,
     "title": 0
@@ -186,10 +186,10 @@
     "basicValue2": 600,
     "basicValue3": 600,
     "basicValue4": 600,
-    "limit": 1500,
+    "limit": 6000,
     "color": "0xbe4539",
     "order": 25,
-    "title": " ---一般战斗属性---"
+    "title": "--一般战斗属性--"
   },
   "17": {
     "ID": 17,
@@ -198,7 +198,7 @@
     "basicValue2": 12,
     "basicValue3": 12,
     "basicValue4": 30,
-    "limit": 1500,
+    "limit": 6000,
     "color": "0x3c704e",
     "order": 28,
     "title": 0
@@ -210,7 +210,7 @@
     "basicValue2": 12,
     "basicValue3": 12,
     "basicValue4": 12,
-    "limit": 1500,
+    "limit": 6000,
     "color": "0x3c704e",
     "order": 30,
     "title": 0
@@ -222,7 +222,7 @@
     "basicValue2": 16,
     "basicValue3": 12,
     "basicValue4": 12,
-    "limit": 300,
+    "limit": 6000,
     "color": "0x3c704e",
     "order": 24,
     "title": 0
@@ -234,7 +234,7 @@
     "basicValue2": 4,
     "basicValue3": 4,
     "basicValue4": 4,
-    "limit": 300,
+    "limit": 6000,
     "color": "0xbe4539",
     "order": 22,
     "title": 0
@@ -246,7 +246,7 @@
     "basicValue2": 4,
     "basicValue3": 4,
     "basicValue4": 4,
-    "limit": 300,
+    "limit": 6000,
     "color": "0x3c704e",
     "order": 23,
     "title": 0
@@ -258,18 +258,18 @@
     "basicValue2": 1000,
     "basicValue3": 1000,
     "basicValue4": 1000,
-    "limit": 200000,
+    "limit": 6000,
     "color": "0x844895",
     "order": 0,
     "title": 0
   },
   "23": {
     "ID": 23,
-    "name": "身材",
-    "basicValue1": 20,
-    "basicValue2": 20,
-    "basicValue3": 20,
-    "basicValue4": 20,
+    "name": "促织战力",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
     "limit": 0,
     "color": "0x3c704e",
     "order": 0,
@@ -282,7 +282,7 @@
     "basicValue2": 12,
     "basicValue3": 12,
     "basicValue4": 12,
-    "limit": 1500,
+    "limit": 6000,
     "color": "0xbe4539",
     "order": 27,
     "title": 0
@@ -294,7 +294,7 @@
     "basicValue2": 1200,
     "basicValue3": 1200,
     "basicValue4": 1200,
-    "limit": 200000,
+    "limit": 500000,
     "color": "0x376f9a",
     "order": 0,
     "title": 0
@@ -306,14 +306,14 @@
     "basicValue2": 12,
     "basicValue3": 12,
     "basicValue4": 12,
-    "limit": 1500,
+    "limit": 6000,
     "color": "0x3c704e",
     "order": 29,
     "title": 0
   },
   "27": {
     "ID": 27,
-    "name": "命中率",
+    "name": "最终命中率",
     "basicValue1": 0,
     "basicValue2": 0,
     "basicValue3": 0,
@@ -325,7 +325,7 @@
   },
   "28": {
     "ID": 28,
-    "name": "闪避率",
+    "name": "最终闪避率",
     "basicValue1": 0,
     "basicValue2": 0,
     "basicValue3": 0,
@@ -337,7 +337,7 @@
   },
   "29": {
     "ID": 29,
-    "name": "暴击率",
+    "name": "最终暴击率",
     "basicValue1": 0,
     "basicValue2": 0,
     "basicValue3": 0,
@@ -349,7 +349,7 @@
   },
   "30": {
     "ID": 30,
-    "name": "免暴率",
+    "name": "最终免暴率",
     "basicValue1": 0,
     "basicValue2": 0,
     "basicValue3": 0,
@@ -361,7 +361,7 @@
   },
   "31": {
     "ID": 31,
-    "name": "格挡率",
+    "name": "最终格挡率",
     "basicValue1": 0,
     "basicValue2": 0,
     "basicValue3": 0,
@@ -373,7 +373,7 @@
   },
   "32": {
     "ID": 32,
-    "name": "击破率",
+    "name": "最终击破率",
     "basicValue1": 0,
     "basicValue2": 0,
     "basicValue3": 0,
@@ -429,7 +429,7 @@
     "limit": 0,
     "color": "0x269d53",
     "order": 13,
-    "title": " ---特殊伤害减免---"
+    "title": "--特殊伤害减免--"
   },
   "37": {
     "ID": 37,
@@ -477,7 +477,7 @@
     "limit": 0,
     "color": "0x844895",
     "order": 17,
-    "title": " ---绝学境界加成---"
+    "title": "--绝学境界加成--"
   },
   "41": {
     "ID": 41,
@@ -559,6 +559,126 @@
     "basicValue3": 0,
     "basicValue4": 0,
     "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "48": {
+    "ID": 48,
+    "name": "最终伤害",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "49": {
+    "ID": 49,
+    "name": "伤害减免",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "50": {
+    "ID": 50,
+    "name": "异常状态抵抗",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "51": {
+    "ID": 51,
+    "name": "状态增益",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "52": {
+    "ID": 52,
+    "name": "暴击伤害",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "53": {
+    "ID": 53,
+    "name": "最终伤害提升率",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "54": {
+    "ID": 54,
+    "name": "最终减免提升率",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "55": {
+    "ID": 55,
+    "name": "组合增强提升率",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 0,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "56": {
+    "ID": 56,
+    "name": "封印抗性",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 10000,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
+  },
+  "57": {
+    "ID": 57,
+    "name": "陀螺战力",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 10000,
     "color": "0x269d53",
     "order": 0,
     "title": 0

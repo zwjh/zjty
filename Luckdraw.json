@@ -1,0 +1,41 @@
+{
+  "1": {
+    "id": 1,
+    "type": "白银抽奖",
+    "fixedreward": 0,
+    "consume": 13772,
+    "num": 1,
+    "gearposition1": "1_2",
+    "gearposition2": "2_3",
+    "resources": "choujiangbeijing1",
+    "starttime": "0",
+    "endtime": "0",
+    "explain": "商城中会出售「孔雀尾」，也可在日常活动中获得它噢~"
+  },
+  "2": {
+    "id": 2,
+    "type": "限时活动",
+    "fixedreward": 4379,
+    "consume": 13773,
+    "num": 1,
+    "gearposition1": "2_3",
+    "gearposition2": "3_4",
+    "resources": "choujiangbeijing2",
+    "starttime": "2020/04/24",
+    "endtime": "2020/05/22",
+    "explain": "商城限时出售「金乌赤羽」，每次额外获得「月明林下」限时兑换道具~"
+  },
+  "3": {
+    "id": 3,
+    "type": "天机抽奖",
+    "fixedreward": 4455,
+    "consume": 12072,
+    "num": 1,
+    "gearposition1": "3_3",
+    "gearposition2": "5_5",
+    "resources": "choujiangbeijing3",
+    "starttime": "2019/02/22",
+    "endtime": "2022/02/22",
+    "explain": "累计充值活动中可获得「天机令」，每次额外获得「极品七彩石」一颗~"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "30113": {
     "id": 30113,
-    "remark": "惬意堂 对话",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "10082,10083",
@@ -13,7 +13,7 @@
   },
   "30125": {
     "id": 30125,
-    "remark": "北瓦市 任务10103完成前拦截，对话才能过去",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10103,1",
     "npcId": "0",
@@ -25,7 +25,7 @@
   },
   "30107": {
     "id": 30107,
-    "remark": "回身廊 任务10103完成后拦截，对话才能过去",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10103,2",
     "npcId": "0",
@@ -37,7 +37,7 @@
   },
   "30105": {
     "id": 30105,
-    "remark": "巢云亭 容貌大于等于200，对话才能过去",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "1,1,80",
     "npcId": "0",
@@ -49,7 +49,7 @@
   },
   "30109": {
     "id": 30109,
-    "remark": "倚翠楼 杀气小于等于30，对话才能过去",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "11,2,30",
     "npcId": "0",
@@ -59,23 +59,11 @@
     "dialogue2": 606,
     "interceptRoom": "30108"
   },
-  "30119": {
-    "id": 30119,
-    "remark": "如意楼 洗澡全脱，对话才能过去",
-    "preType": 3,
-    "preTypeNum": "100,0",
-    "npcId": "0",
-    "action": 0,
-    "interceptNum": 3,
-    "dialogue1": 509,
-    "dialogue2": 606,
-    "interceptRoom": "30118"
-  },
   "30122": {
     "id": 30122,
-    "remark": "临江仙 给予",
+    "rubbish": "1",
     "preType": 2,
-    "preTypeNum": "2,1,100",
+    "preTypeNum": "2,1,110",
     "npcId": "0",
     "action": 0,
     "interceptNum": 0,
@@ -85,7 +73,7 @@
   },
   "30136": {
     "id": 30136,
-    "remark": "芳菲馆 杀死",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "10030",
@@ -97,7 +85,7 @@
   },
   "301361": {
     "id": 301361,
-    "remark": "芳菲馆 战胜",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "10045,10046",
@@ -109,9 +97,9 @@
   },
   "30128": {
     "id": 30128,
-    "remark": "秋波媚 卸主副武器后，对话才能过去",
+    "rubbish": "1",
     "preType": 3,
-    "preTypeNum": "0,0",
+    "preTypeNum": "1#0,2#0",
     "npcId": "0",
     "action": 0,
     "interceptNum": 0,
@@ -119,21 +107,57 @@
     "dialogue2": 606,
     "interceptRoom": "30129"
   },
-  "30140": {
-    "id": 30140,
-    "remark": "溪流边 穿齐装备，对话才能过去",
+  "10001": {
+    "id": 10001,
+    "rubbish": "1",
     "preType": 3,
-    "preTypeNum": "100,1",
+    "preTypeNum": "1#0,2#0,3#0,4#0,5#0,6#0,7#0,8#0,9#0",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 3,
+    "dialogue1": 509,
+    "dialogue2": 0,
+    "interceptRoom": "20281"
+  },
+  "10002": {
+    "id": 10002,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "1#1,2#1,3#1,4#1,5#1,6#1,7#1,8#1,9#1",
     "npcId": "0",
     "action": 0,
     "interceptNum": 3,
     "dialogue1": 511,
-    "dialogue2": 606,
-    "interceptRoom": "30145"
+    "dialogue2": 0,
+    "interceptRoom": "20283"
+  },
+  "10003": {
+    "id": 10003,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 3,
+    "dialogue1": 511,
+    "dialogue2": 0,
+    "interceptRoom": "20285"
+  },
+  "10004": {
+    "id": 10004,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "1#0,2#0,9#120",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 3,
+    "dialogue1": 511,
+    "dialogue2": 0,
+    "interceptRoom": "20280"
   },
   "20001": {
     "id": 20001,
-    "remark": "开场1主线",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,1",
     "npcId": "0",
@@ -145,7 +169,7 @@
   },
   "20002": {
     "id": 20002,
-    "remark": "开场2主线",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10003,1",
     "npcId": "0",
@@ -157,7 +181,7 @@
   },
   "10127": {
     "id": 10127,
-    "remark": "任务10111城南近郊查看【不起眼的陷阱】",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10111,1",
     "npcId": "0",
@@ -169,7 +193,7 @@
   },
   "10128": {
     "id": 10128,
-    "remark": "任务10113城南近郊2驱逐野狗",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10113,1",
     "npcId": "0",
@@ -181,7 +205,7 @@
   },
   "10129": {
     "id": 10129,
-    "remark": "任务10114庙前空地与六袋弟子交谈",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10114,1",
     "npcId": "0",
@@ -193,7 +217,7 @@
   },
   "10135": {
     "id": 10135,
-    "remark": "任务10410彼黍离离",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10410,1",
     "npcId": "0",
@@ -205,7 +229,7 @@
   },
   "10136": {
     "id": 10136,
-    "remark": "任务10411彼黍离离",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10411,1",
     "npcId": "0",
@@ -217,7 +241,7 @@
   },
   "10137": {
     "id": 10137,
-    "remark": "任务10412彼黍离离",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10412,1",
     "npcId": "0",
@@ -229,7 +253,7 @@
   },
   "10145": {
     "id": 10145,
-    "remark": "任务10602思无邪",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10602,1",
     "npcId": "0",
@@ -241,7 +265,7 @@
   },
   "10144": {
     "id": 10144,
-    "remark": "任务10603思无邪",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10603,1",
     "npcId": "0",
@@ -253,7 +277,7 @@
   },
   "10155": {
     "id": 10155,
-    "remark": "任务10604思无邪",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10604,1",
     "npcId": "0",
@@ -265,7 +289,7 @@
   },
   "10224": {
     "id": 10224,
-    "remark": "任务20205振威镖局与镖师比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20205,1",
     "npcId": "0",
@@ -277,7 +301,7 @@
   },
   "10225": {
     "id": 10225,
-    "remark": "任务20207镖局前院与镖师比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20207,1",
     "npcId": "0",
@@ -289,7 +313,7 @@
   },
   "10264": {
     "id": 10264,
-    "remark": "任务20211前往西南近郊2杀死恶犬",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20211,1",
     "npcId": "0",
@@ -301,7 +325,7 @@
   },
   "10262": {
     "id": 10262,
-    "remark": "任务20212采香径2杀死花斑蝮蛇",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20212,1",
     "npcId": "0",
@@ -313,7 +337,7 @@
   },
   "10325": {
     "id": 10325,
-    "remark": "任务20305与保镖比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20305,1",
     "npcId": "0",
@@ -325,7 +349,7 @@
   },
   "10317": {
     "id": 10317,
-    "remark": "任务20307与保镖比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20307,1",
     "npcId": "0",
@@ -337,7 +361,7 @@
   },
   "10345": {
     "id": 10345,
-    "remark": "任务20310与影卫少女比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20310,1",
     "npcId": "0",
@@ -349,7 +373,7 @@
   },
   "10320": {
     "id": 10320,
-    "remark": "任务13202高山流水",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "13202,1",
     "npcId": "0",
@@ -361,7 +385,7 @@
   },
   "10312": {
     "id": 10312,
-    "remark": "任务13203高山流水",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "13203,1",
     "npcId": "0",
@@ -373,7 +397,7 @@
   },
   "10373": {
     "id": 10373,
-    "remark": "任务13302蛇胆炒瓜子",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "13302,1",
     "npcId": "0",
@@ -385,7 +409,7 @@
   },
   "10374": {
     "id": 10374,
-    "remark": "任务13303蛇胆炒瓜子",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "13303,1",
     "npcId": "0",
@@ -397,7 +421,7 @@
   },
   "10563": {
     "id": 10563,
-    "remark": "任务20505洞穴深处杀死蝙蝠",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20505,1",
     "npcId": "0",
@@ -409,7 +433,7 @@
   },
   "10562": {
     "id": 10562,
-    "remark": "任务20506洞穴深处杀死剧毒水母",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20506,1",
     "npcId": "0",
@@ -421,7 +445,7 @@
   },
   "10624": {
     "id": 10624,
-    "remark": "任务20604如意楼与阿三比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20604,1",
     "npcId": "0",
@@ -433,7 +457,7 @@
   },
   "10609": {
     "id": 10609,
-    "remark": "任务20606回身廊与黑衣剑客比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20606,1",
     "npcId": "0",
@@ -445,7 +469,7 @@
   },
   "10645": {
     "id": 10645,
-    "remark": "任务20609风流绝与甄娘比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20609,1",
     "npcId": "0",
@@ -457,7 +481,7 @@
   },
   "10618": {
     "id": 10618,
-    "remark": "任务20611悲回风与兰芷比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20611,1",
     "npcId": "0",
@@ -469,7 +493,7 @@
   },
   "10619": {
     "id": 10619,
-    "remark": "任务20613思美人与潇湘比试",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20613,1",
     "npcId": "0",
@@ -481,7 +505,7 @@
   },
   "20107": {
     "id": 20107,
-    "remark": "20107【】201【】布防处5【】攻击力",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "14,1,2000",
     "npcId": "0",
@@ -493,7 +517,7 @@
   },
   "20114": {
     "id": 20114,
-    "remark": "20114【】201【】檀溪水道",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "14,1,2000",
     "npcId": "0",
@@ -505,7 +529,7 @@
   },
   "20312": {
     "id": 20312,
-    "remark": "20312【】203【】缥缈峰",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "98065",
@@ -517,7 +541,7 @@
   },
   "20608": {
     "id": 20608,
-    "remark": "20608【】206【华山】后山 独孤九剑华山 道德200",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "11,1,200",
     "npcId": "0",
@@ -529,9 +553,9 @@
   },
   "20712": {
     "id": 20712,
-    "remark": "20712【】207【】武当派前殿-卸武器",
+    "rubbish": "1",
     "preType": 3,
-    "preTypeNum": "0,0",
+    "preTypeNum": "1#0,2#0,3#1,4#1,5#1,6#1,7#1,8#1,9#1",
     "npcId": "0",
     "action": 0,
     "interceptNum": 0,
@@ -541,7 +565,7 @@
   },
   "21007": {
     "id": 21007,
-    "remark": "21007【】210【】去天尺五",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "98068",
@@ -553,7 +577,7 @@
   },
   "21327": {
     "id": 21327,
-    "remark": "21327【】213【】雪山2",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "98069",
@@ -565,7 +589,7 @@
   },
   "21332": {
     "id": 21332,
-    "remark": "21332【】213【】胡杨林2",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "98070",
@@ -577,7 +601,7 @@
   },
   "21338": {
     "id": 21338,
-    "remark": "21338【】213【】星宿海",
+    "rubbish": "1",
     "preType": 0,
     "preTypeNum": "0",
     "npcId": "98071",
@@ -589,9 +613,9 @@
   },
   "21410": {
     "id": 21410,
-    "remark": "21410【】214【】全真教后山-卸武器",
+    "rubbish": "1",
     "preType": 3,
-    "preTypeNum": "0,0",
+    "preTypeNum": "1#0,2#0,3#1,4#1,5#1,6#1,7#1,8#1,9#1",
     "npcId": "0",
     "action": 0,
     "interceptNum": 0,
@@ -601,7 +625,7 @@
   },
   "21610": {
     "id": 21610,
-    "remark": "21610【】216【】鹦鹉巷",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "11,1,300",
     "npcId": "0",
@@ -613,7 +637,7 @@
   },
   "21652": {
     "id": 21652,
-    "remark": "21652【】216【】南街",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "11,1,300",
     "npcId": "0",
@@ -625,7 +649,7 @@
   },
   "20609": {
     "id": 20609,
-    "remark": "20609【】206【华山】山道 完成独孤九剑华山线可过",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "50309,1",
     "npcId": "0",
@@ -637,7 +661,7 @@
   },
   "10210": {
     "id": 10210,
-    "remark": "任务12305人生若只如初见",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "12305,1",
     "npcId": "0",
@@ -649,7 +673,7 @@
   },
   "10242": {
     "id": 10242,
-    "remark": "任务12201人淡如菊",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "12201,1",
     "npcId": "0",
@@ -661,7 +685,7 @@
   },
   "10258": {
     "id": 10258,
-    "remark": "任务12203人淡如菊",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "12203,1",
     "npcId": "0",
@@ -673,7 +697,7 @@
   },
   "10259": {
     "id": 10259,
-    "remark": "任务12204人淡如菊",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "12204,1",
     "npcId": "0",
@@ -685,7 +709,7 @@
   },
   "10701": {
     "id": 10701,
-    "remark": "梅  冈 右",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -697,7 +721,7 @@
   },
   "10714": {
     "id": 10714,
-    "remark": "灿美堂 右",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20713,1",
     "npcId": "0",
@@ -709,7 +733,7 @@
   },
   "10715": {
     "id": 10715,
-    "remark": "琼华园 上",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -721,7 +745,7 @@
   },
   "10722": {
     "id": 10722,
-    "remark": "此君亭 右",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -733,7 +757,7 @@
   },
   "10723": {
     "id": 10723,
-    "remark": "凌寒亭 左",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -745,7 +769,7 @@
   },
   "107231": {
     "id": 107231,
-    "remark": "凌寒亭 右",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "17105,1",
     "npcId": "0",
@@ -757,7 +781,7 @@
   },
   "10728": {
     "id": 10728,
-    "remark": "富景园 左",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -769,7 +793,7 @@
   },
   "10734": {
     "id": 10734,
-    "remark": "澄碧堂 下",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -781,7 +805,7 @@
   },
   "107341": {
     "id": 107341,
-    "remark": "澄碧堂 上",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "17102,1",
     "npcId": "0",
@@ -793,7 +817,7 @@
   },
   "10724": {
     "id": 10724,
-    "remark": "钟美堂 上",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "17103,1",
     "npcId": "0",
@@ -805,7 +829,7 @@
   },
   "10704": {
     "id": 10704,
-    "remark": "聚景园 右",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "17105,1",
     "npcId": "0",
@@ -817,7 +841,7 @@
   },
   "107151": {
     "id": 107151,
-    "remark": "琼华园 下",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "17105,1",
     "npcId": "0",
@@ -829,7 +853,7 @@
   },
   "10880": {
     "id": 10880,
-    "remark": "山洞入口",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20810,1",
     "npcId": "0",
@@ -841,7 +865,7 @@
   },
   "11044": {
     "id": 11044,
-    "remark": "蔡府大门 下 永久进不去",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -853,7 +877,7 @@
   },
   "11051": {
     "id": 11051,
-    "remark": "蔡府前庭 左 永久过不去",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -865,7 +889,7 @@
   },
   "10946": {
     "id": 10946,
-    "remark": "习武场",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20913,1",
     "npcId": "0",
@@ -877,7 +901,7 @@
   },
   "11029": {
     "id": 11029,
-    "remark": "仁王寺",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "21003,1",
     "npcId": "0",
@@ -889,7 +913,7 @@
   },
   "10888": {
     "id": 10888,
-    "remark": "丽水甬道4 右 密室2【红武升级 到少林开放 任务20901",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -901,7 +925,7 @@
   },
   "20257": {
     "id": 20257,
-    "remark": "关洛群山|-青龙别径 左 无我",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20901,1",
     "npcId": "0",
@@ -913,7 +937,7 @@
   },
   "10220": {
     "id": 10220,
-    "remark": "参合庄2 去还施水阁 福缘150",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "4,1,150",
     "npcId": "0",
@@ -925,7 +949,7 @@
   },
   "10277": {
     "id": 10277,
-    "remark": "花林 去琅嬛玉洞 福缘150",
+    "rubbish": "1",
     "preType": 2,
     "preTypeNum": "4,1,150",
     "npcId": "0",
@@ -937,7 +961,7 @@
   },
   "30014": {
     "id": 30014,
-    "remark": "府邸客厅 上",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10117,1",
     "npcId": "0",
@@ -949,7 +973,7 @@
   },
   "30011": {
     "id": 30011,
-    "remark": "府邸中庭 上",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20217,1",
     "npcId": "0",
@@ -961,7 +985,7 @@
   },
   "30005": {
     "id": 30005,
-    "remark": "府邸后院 左",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20311,1",
     "npcId": "0",
@@ -973,7 +997,7 @@
   },
   "30009": {
     "id": 30009,
-    "remark": "府邸花园 右",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20618,1",
     "npcId": "0",
@@ -985,7 +1009,7 @@
   },
   "30022": {
     "id": 30022,
-    "remark": "府邸踏云廊 上",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20721,1",
     "npcId": "0",
@@ -997,7 +1021,7 @@
   },
   "300221": {
     "id": 300221,
-    "remark": "府邸踏云廊 下",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20827,1",
     "npcId": "0",
@@ -1009,7 +1033,7 @@
   },
   "30016": {
     "id": 30016,
-    "remark": "府邸 里间 下",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "20618,1",
     "npcId": "0",
@@ -1021,7 +1045,7 @@
   },
   "81130": {
     "id": 81130,
-    "remark": "黑木崖副本地道1去2",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1033,7 +1057,7 @@
   },
   "81123": {
     "id": 81123,
-    "remark": "黑木崖副本地道3去2",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1043,9 +1067,69 @@
     "dialogue2": 0,
     "interceptRoom": "81126"
   },
+  "82130": {
+    "id": 82130,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9655,
+    "dialogue2": 0,
+    "interceptRoom": "82126"
+  },
+  "82123": {
+    "id": 82123,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9655,
+    "dialogue2": 0,
+    "interceptRoom": "82126"
+  },
+  "83128": {
+    "id": 83128,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 10672,
+    "dialogue2": 0,
+    "interceptRoom": "83129"
+  },
+  "83130": {
+    "id": 83130,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9655,
+    "dialogue2": 0,
+    "interceptRoom": "83126"
+  },
+  "83123": {
+    "id": 83123,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9655,
+    "dialogue2": 0,
+    "interceptRoom": "83126"
+  },
   "81209": {
     "id": 81209,
-    "remark": "绝情谷副本石屋大厅",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1057,7 +1141,7 @@
   },
   "812091": {
     "id": 812091,
-    "remark": "绝情谷副本石屋大厅",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1069,7 +1153,7 @@
   },
   "812092": {
     "id": 812092,
-    "remark": "绝情谷副本石屋大厅",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1081,7 +1165,7 @@
   },
   "812093": {
     "id": 812093,
-    "remark": "绝情谷副本石屋大厅",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1093,7 +1177,7 @@
   },
   "81219": {
     "id": 81219,
-    "remark": "绝情谷副本情花小径1-2",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1105,7 +1189,7 @@
   },
   "81228": {
     "id": 81228,
-    "remark": "绝情谷副本情花小径3-2",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1117,7 +1201,7 @@
   },
   "81265": {
     "id": 81265,
-    "remark": "绝情谷副本石屋大厅假",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1129,7 +1213,7 @@
   },
   "812651": {
     "id": 812651,
-    "remark": "绝情谷副本石屋大厅假",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1141,7 +1225,7 @@
   },
   "812652": {
     "id": 812652,
-    "remark": "绝情谷副本石屋大厅假",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1153,7 +1237,7 @@
   },
   "81273": {
     "id": 81273,
-    "remark": "绝情谷副本情花小径1-2假",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1163,9 +1247,273 @@
     "dialogue2": 0,
     "interceptRoom": "81278"
   },
+  "82209": {
+    "id": 82209,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82208"
+  },
+  "822091": {
+    "id": 822091,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82210"
+  },
+  "822092": {
+    "id": 822092,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82201"
+  },
+  "822093": {
+    "id": 822093,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82214"
+  },
+  "82219": {
+    "id": 82219,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82223"
+  },
+  "82228": {
+    "id": 82228,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82223"
+  },
+  "82265": {
+    "id": 82265,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82262"
+  },
+  "822651": {
+    "id": 822651,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82264"
+  },
+  "822652": {
+    "id": 822652,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82266"
+  },
+  "82273": {
+    "id": 82273,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "82278"
+  },
+  "83209": {
+    "id": 83209,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83208"
+  },
+  "832091": {
+    "id": 832091,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83210"
+  },
+  "832092": {
+    "id": 832092,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83201"
+  },
+  "832093": {
+    "id": 832093,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83214"
+  },
+  "83219": {
+    "id": 83219,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83223"
+  },
+  "83228": {
+    "id": 83228,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83223"
+  },
+  "83265": {
+    "id": 83265,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83262"
+  },
+  "832651": {
+    "id": 832651,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83264"
+  },
+  "832652": {
+    "id": 832652,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83266"
+  },
+  "83273": {
+    "id": 83273,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9675,
+    "dialogue2": 0,
+    "interceptRoom": "83278"
+  },
+  "82404": {
+    "id": 82404,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 534,
+    "dialogue2": 0,
+    "interceptRoom": "82407"
+  },
+  "83404": {
+    "id": 83404,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 534,
+    "dialogue2": 0,
+    "interceptRoom": "83407"
+  },
   "81404": {
     "id": 81404,
-    "remark": "灵鹫宫副本 后庭 下 永久进不去",
+    "rubbish": "1",
     "preType": 1,
     "preTypeNum": "10001,2",
     "npcId": "0",
@@ -1174,5 +1522,341 @@
     "dialogue1": 534,
     "dialogue2": 0,
     "interceptRoom": "81407"
+  },
+  "30026": {
+    "id": 30026,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "1#0,2#0,3#0,4#0,5#0,6#0,7#0,8#0,9#0",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3938,
+    "dialogue2": 0,
+    "interceptRoom": "30027"
+  },
+  "10150": {
+    "id": 10150,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "1#0,2#0,3#0,4#0,5#0,6#0,7#0,8#0,9#0",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 509,
+    "dialogue2": 0,
+    "interceptRoom": "10190"
+  },
+  "10327": {
+    "id": 10327,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "1#0,2#0,3#0,4#0,5#0,6#0,7#0,8#0,9#0",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 509,
+    "dialogue2": 0,
+    "interceptRoom": "10383"
+  },
+  "10638": {
+    "id": 10638,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "1#0,2#0,3#0,4#0,5#0,6#0,7#0,8#0,9#0",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 509,
+    "dialogue2": 0,
+    "interceptRoom": "10688"
+  },
+  "10190": {
+    "id": 10190,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3939,
+    "dialogue2": 0,
+    "interceptRoom": "10150"
+  },
+  "10383": {
+    "id": 10383,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3939,
+    "dialogue2": 0,
+    "interceptRoom": "10327"
+  },
+  "10688": {
+    "id": 10688,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3939,
+    "dialogue2": 0,
+    "interceptRoom": "10638"
+  },
+  "10631": {
+    "id": 10631,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3940,
+    "dialogue2": 0,
+    "interceptRoom": "10632"
+  },
+  "10648": {
+    "id": 10648,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3940,
+    "dialogue2": 0,
+    "interceptRoom": "10649"
+  },
+  "10674": {
+    "id": 10674,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3940,
+    "dialogue2": 0,
+    "interceptRoom": "10675"
+  },
+  "10678": {
+    "id": 10678,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3941,
+    "dialogue2": 0,
+    "interceptRoom": "10669"
+  },
+  "106781": {
+    "id": 106781,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3941,
+    "dialogue2": 0,
+    "interceptRoom": "10677"
+  },
+  "106782": {
+    "id": 106782,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3941,
+    "dialogue2": 0,
+    "interceptRoom": "10679"
+  },
+  "106783": {
+    "id": 106783,
+    "rubbish": "1",
+    "preType": 3,
+    "preTypeNum": "3#1,6#1,7#1,8#1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3941,
+    "dialogue2": 0,
+    "interceptRoom": "10685"
+  },
+  "30351": {
+    "id": 30351,
+    "rubbish": "1",
+    "preType": 8,
+    "preTypeNum": "13,18,23",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3960,
+    "dialogue2": 0,
+    "interceptRoom": "30358"
+  },
+  "30332": {
+    "id": 30332,
+    "rubbish": "1",
+    "preType": 2,
+    "preTypeNum": "14,2,5",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3961,
+    "dialogue2": 0,
+    "interceptRoom": "30326"
+  },
+  "30326": {
+    "id": 30326,
+    "rubbish": "1",
+    "preType": 2,
+    "preTypeNum": "14,2,5",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3962,
+    "dialogue2": 0,
+    "interceptRoom": "30332"
+  },
+  "30322": {
+    "id": 30322,
+    "rubbish": "1",
+    "preType": 2,
+    "preTypeNum": "14,2,5",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 3963,
+    "dialogue2": 0,
+    "interceptRoom": "30321"
+  },
+  "11376": {
+    "id": 11376,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 7470,
+    "dialogue2": 0,
+    "interceptRoom": "11386"
+  },
+  "11377": {
+    "id": 11377,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 7470,
+    "dialogue2": 0,
+    "interceptRoom": "11369"
+  },
+  "11351": {
+    "id": 11351,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 7469,
+    "dialogue2": 0,
+    "interceptRoom": "11350"
+  },
+  "113511": {
+    "id": 113511,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "21307,1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 8631,
+    "dialogue2": 0,
+    "interceptRoom": "11361"
+  },
+  "11368": {
+    "id": 11368,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "21310,1",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 8631,
+    "dialogue2": 0,
+    "interceptRoom": "11376"
+  },
+  "81801": {
+    "id": 81801,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9650,
+    "dialogue2": 0,
+    "interceptRoom": "81811"
+  },
+  "81812": {
+    "id": 81812,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9650,
+    "dialogue2": 0,
+    "interceptRoom": "81813"
+  },
+  "81814": {
+    "id": 81814,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9650,
+    "dialogue2": 0,
+    "interceptRoom": "81815"
+  },
+  "81816": {
+    "id": 81816,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9650,
+    "dialogue2": 0,
+    "interceptRoom": "81817"
+  },
+  "81818": {
+    "id": 81818,
+    "rubbish": "1",
+    "preType": 1,
+    "preTypeNum": "10001,2",
+    "npcId": "0",
+    "action": 0,
+    "interceptNum": 0,
+    "dialogue1": 9650,
+    "dialogue2": 0,
+    "interceptRoom": "81819"
   }
 }

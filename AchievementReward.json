@@ -334,5 +334,29 @@
     "needAchievementPoint": 2500,
     "rewardId": 2323,
     "titleId": 0
+  },
+  "57": {
+    "ID": 57,
+    "needAchievementPoint": 2550,
+    "rewardId": 5043,
+    "titleId": 0
+  },
+  "58": {
+    "ID": 58,
+    "needAchievementPoint": 2600,
+    "rewardId": 5044,
+    "titleId": 0
+  },
+  "59": {
+    "ID": 59,
+    "needAchievementPoint": 2650,
+    "rewardId": 5045,
+    "titleId": 0
+  },
+  "60": {
+    "ID": 60,
+    "needAchievementPoint": 2700,
+    "rewardId": 5046,
+    "titleId": 0
   }
 }

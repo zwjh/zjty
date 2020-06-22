@@ -1,0 +1,1322 @@
+{
+  "30001": {
+    "ID": 30001,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "1_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30002": {
+    "ID": 30002,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "3_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30003": {
+    "ID": 30003,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "14_100",
+    "Attr2": "14_0.01",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30004": {
+    "ID": 30004,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "15_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30005": {
+    "ID": 30005,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "16_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30006": {
+    "ID": 30006,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "20_10",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30007": {
+    "ID": 30007,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "24_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30008": {
+    "ID": 30008,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "44_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30009": {
+    "ID": 30009,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "45_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30010": {
+    "ID": 30010,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "46_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30011": {
+    "ID": 30011,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "47_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 10
+  },
+  "30012": {
+    "ID": 30012,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "1_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30013": {
+    "ID": 30013,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "3_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30014": {
+    "ID": 30014,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "14_100",
+    "Attr2": "14_0.01",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30015": {
+    "ID": 30015,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "15_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30016": {
+    "ID": 30016,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "16_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30017": {
+    "ID": 30017,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "20_10",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30018": {
+    "ID": 30018,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "24_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30019": {
+    "ID": 30019,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "44_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30020": {
+    "ID": 30020,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "45_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30021": {
+    "ID": 30021,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "46_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30022": {
+    "ID": 30022,
+    "Type": 1,
+    "Level": 1,
+    "Attr1": "47_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30023": {
+    "ID": 30023,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "1_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30024": {
+    "ID": 30024,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "3_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30025": {
+    "ID": 30025,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "14_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30026": {
+    "ID": 30026,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "15_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30027": {
+    "ID": 30027,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "16_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30028": {
+    "ID": 30028,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "20_10",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30029": {
+    "ID": 30029,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "24_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30030": {
+    "ID": 30030,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "44_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30031": {
+    "ID": 30031,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "45_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30032": {
+    "ID": 30032,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "46_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30033": {
+    "ID": 30033,
+    "Type": 1,
+    "Level": 2,
+    "Attr1": "47_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30034": {
+    "ID": 30034,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "1_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30035": {
+    "ID": 30035,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "3_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30036": {
+    "ID": 30036,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "14_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30037": {
+    "ID": 30037,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "15_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30038": {
+    "ID": 30038,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "16_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30039": {
+    "ID": 30039,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "20_10",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30040": {
+    "ID": 30040,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "24_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30041": {
+    "ID": 30041,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "44_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30042": {
+    "ID": 30042,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "45_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30043": {
+    "ID": 30043,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "46_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30044": {
+    "ID": 30044,
+    "Type": 1,
+    "Level": 3,
+    "Attr1": "47_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30045": {
+    "ID": 30045,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "4_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30046": {
+    "ID": 30046,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "5_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30047": {
+    "ID": 30047,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "6_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30048": {
+    "ID": 30048,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "27_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30049": {
+    "ID": 30049,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "28_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30050": {
+    "ID": 30050,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "29_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30051": {
+    "ID": 30051,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "30_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30052": {
+    "ID": 30052,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "31_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30053": {
+    "ID": 30053,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "32_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30054": {
+    "ID": 30054,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "48_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30055": {
+    "ID": 30055,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "49_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30056": {
+    "ID": 30056,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "4_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30057": {
+    "ID": 30057,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "5_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30058": {
+    "ID": 30058,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "6_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30059": {
+    "ID": 30059,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "27_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30060": {
+    "ID": 30060,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "28_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30061": {
+    "ID": 30061,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "29_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30062": {
+    "ID": 30062,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "30_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30063": {
+    "ID": 30063,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "31_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30064": {
+    "ID": 30064,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "32_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30065": {
+    "ID": 30065,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "48_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30066": {
+    "ID": 30066,
+    "Type": 2,
+    "Level": 1,
+    "Attr1": "49_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30067": {
+    "ID": 30067,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "4_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30068": {
+    "ID": 30068,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "5_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30069": {
+    "ID": 30069,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "6_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30070": {
+    "ID": 30070,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "27_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30071": {
+    "ID": 30071,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "28_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30072": {
+    "ID": 30072,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "29_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30073": {
+    "ID": 30073,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "30_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30074": {
+    "ID": 30074,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "31_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30075": {
+    "ID": 30075,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "32_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30076": {
+    "ID": 30076,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "48_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30077": {
+    "ID": 30077,
+    "Type": 2,
+    "Level": 2,
+    "Attr1": "49_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30078": {
+    "ID": 30078,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "4_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30079": {
+    "ID": 30079,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "5_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30080": {
+    "ID": 30080,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "6_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30081": {
+    "ID": 30081,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "27_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30082": {
+    "ID": 30082,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "28_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30083": {
+    "ID": 30083,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "29_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30084": {
+    "ID": 30084,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "30_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30085": {
+    "ID": 30085,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "31_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30086": {
+    "ID": 30086,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "32_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30087": {
+    "ID": 30087,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "48_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30088": {
+    "ID": 30088,
+    "Type": 2,
+    "Level": 3,
+    "Attr1": "49_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30089": {
+    "ID": 30089,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "2_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30090": {
+    "ID": 30090,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "12_1000",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30091": {
+    "ID": 30091,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "17_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30092": {
+    "ID": 30092,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "18_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30093": {
+    "ID": 30093,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "19_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30094": {
+    "ID": 30094,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "21_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30095": {
+    "ID": 30095,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "26_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30096": {
+    "ID": 30096,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "36_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30097": {
+    "ID": 30097,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "37_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30098": {
+    "ID": 30098,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "38_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30099": {
+    "ID": 30099,
+    "Type": 0,
+    "Level": 0,
+    "Attr1": "39_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30100": {
+    "ID": 30100,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "2_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30101": {
+    "ID": 30101,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "12_1000",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30102": {
+    "ID": 30102,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "17_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30103": {
+    "ID": 30103,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "18_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30104": {
+    "ID": 30104,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "19_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30105": {
+    "ID": 30105,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "21_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30106": {
+    "ID": 30106,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "26_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30107": {
+    "ID": 30107,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "36_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30108": {
+    "ID": 30108,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "37_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30109": {
+    "ID": 30109,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "38_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30110": {
+    "ID": 30110,
+    "Type": 3,
+    "Level": 1,
+    "Attr1": "39_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 30
+  },
+  "30111": {
+    "ID": 30111,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "2_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30112": {
+    "ID": 30112,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "12_1000",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30113": {
+    "ID": 30113,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "17_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30114": {
+    "ID": 30114,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "18_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30115": {
+    "ID": 30115,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "19_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30116": {
+    "ID": 30116,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "21_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30117": {
+    "ID": 30117,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "26_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30118": {
+    "ID": 30118,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "36_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30119": {
+    "ID": 30119,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "37_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30120": {
+    "ID": 30120,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "38_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30121": {
+    "ID": 30121,
+    "Type": 3,
+    "Level": 2,
+    "Attr1": "39_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 50
+  },
+  "30122": {
+    "ID": 30122,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "2_5",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30123": {
+    "ID": 30123,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "12_1000",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30124": {
+    "ID": 30124,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "17_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30125": {
+    "ID": 30125,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "18_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30126": {
+    "ID": 30126,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "19_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30127": {
+    "ID": 30127,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "21_20",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30128": {
+    "ID": 30128,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "26_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30129": {
+    "ID": 30129,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "36_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30130": {
+    "ID": 30130,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "37_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30131": {
+    "ID": 30131,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "38_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  },
+  "30132": {
+    "ID": 30132,
+    "Type": 3,
+    "Level": 3,
+    "Attr1": "39_100",
+    "Attr2": "0",
+    "SkillId1": "0",
+    "BuffId1": "0",
+    "probability": 80
+  }
+}

@@ -2,6 +2,7 @@
   "1": {
     "id": 1,
     "name": "衡山派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_1",
     "zhengxie": 1,
     "roomId": 50101,
@@ -28,19 +29,20 @@
     "needSkillLv8": 0,
     "failDialogue": 30000,
     "failDialogue2": 30024,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「衡山派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“鸿雁不来，之子远行。所思不远，若为平生。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「衡山派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "2": {
     "id": 2,
     "name": "昆仑派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_2",
     "zhengxie": 1,
     "roomId": 50201,
     "teacherNum": 4,
     "needIdentity": 2,
     "giveIdentity": "0",
-    "needProperty": "4_13_5",
-    "needMission": 210,
+    "needProperty": "2_11_0",
+    "needMission": 0,
     "needSkill1": 15,
     "needSkillLv1": 500,
     "needSkill2": 17,
@@ -59,11 +61,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30001,
     "failDialogue2": 30025,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「昆仑派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“落落欲往，矫矫不群。缑山之鹤，华顶之云。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「昆仑派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "3": {
     "id": 3,
     "name": "华山派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_3",
     "zhengxie": 1,
     "roomId": 50301,
@@ -90,18 +93,19 @@
     "needSkillLv8": 400,
     "failDialogue": 30002,
     "failDialogue2": 30026,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「华山派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“是有真迹，如不可知。意象欲生，造化已奇。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「华山派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "4": {
     "id": 4,
     "name": "全真教",
+    "rubbish": "1",
     "iconId": "zjm_menpai_4",
     "zhengxie": 1,
     "roomId": 50401,
     "teacherNum": 4,
     "needIdentity": 4,
     "giveIdentity": "0_3",
-    "needProperty": "1_9_0",
+    "needProperty": "1_9_0,2_11_0",
     "needMission": 0,
     "needSkill1": 44,
     "needSkillLv1": 500,
@@ -121,19 +125,20 @@
     "needSkillLv8": 0,
     "failDialogue": 30003,
     "failDialogue2": 30027,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「全真教」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“素处以默，妙机其微。饮之太和，独鹤与飞。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「全真教」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "5": {
     "id": 5,
     "name": "峨眉派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_5",
     "zhengxie": 1,
     "roomId": 50501,
     "teacherNum": 4,
     "needIdentity": 5,
     "giveIdentity": "1_7",
-    "needProperty": "4_13_5",
-    "needMission": 210,
+    "needProperty": "2_11_0",
+    "needMission": 0,
     "needSkill1": 55,
     "needSkillLv1": 500,
     "needSkill2": 59,
@@ -152,27 +157,28 @@
     "needSkillLv8": 0,
     "failDialogue": 30004,
     "failDialogue2": 30028,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「峨眉派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“绝伫灵素，少回清真。如觅水影，如写阳春。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「峨眉派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "6": {
     "id": 6,
-    "name": "大理段氏",
+    "name": "大理宗",
+    "rubbish": "1",
     "iconId": "zjm_menpai_6",
     "zhengxie": 1,
     "roomId": 50601,
     "teacherNum": 4,
     "needIdentity": 6,
     "giveIdentity": "0",
-    "needProperty": "2_4_60",
-    "needMission": 204,
+    "needProperty": "2_4_150,2_13_100000,2_11_600",
+    "needMission": 206,
     "needSkill1": 66,
     "needSkillLv1": 500,
     "needSkill2": 73,
     "needSkillLv2": 500,
     "needSkill3": 74,
     "needSkillLv3": 500,
-    "needSkill4": 81,
-    "needSkillLv4": 400,
+    "needSkill4": 80,
+    "needSkillLv4": 500,
     "needSkill5": 82,
     "needSkillLv5": 400,
     "needSkill6": 0,
@@ -183,11 +189,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30005,
     "failDialogue2": 30029,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「大理段氏」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“海之波澜，山之嶙峋。俱似大道，妙契同尘。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「大理宗」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "7": {
     "id": 7,
     "name": "丐帮",
+    "rubbish": "1",
     "iconId": "zjm_menpai_7",
     "zhengxie": 1,
     "roomId": 50701,
@@ -214,11 +221,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30006,
     "failDialogue2": 30030,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「丐帮」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“倒酒既尽，杖藜行歌。孰不有古，南山峨峨。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「丐帮」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "8": {
     "id": 8,
     "name": "武当派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_8",
     "zhengxie": 1,
     "roomId": 50801,
@@ -245,11 +253,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30007,
     "failDialogue2": 30031,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「武当派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“载要其端，载同其符。超超神明，返返冥无。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「武当派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "9": {
     "id": 9,
     "name": "少林派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_9",
     "zhengxie": 1,
     "roomId": 50901,
@@ -276,11 +285,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30008,
     "failDialogue2": 30032,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「少林派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“行神如空，行气如虹。期之以实，御之以终。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「少林派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "10": {
     "id": 10,
-    "name": "绝情谷",
+    "name": "情花源",
+    "rubbish": "1",
     "iconId": "zjm_menpai_10",
     "zhengxie": 2,
     "roomId": 51001,
@@ -307,19 +317,20 @@
     "needSkillLv8": 0,
     "failDialogue": 30009,
     "failDialogue2": 30033,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「绝情谷」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“阅音修篁，美曰载归。遇之匪深，即之愈希。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「情花源」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "11": {
     "id": 11,
-    "name": "五毒教",
+    "name": "五仙教",
+    "rubbish": "1",
     "iconId": "zjm_menpai_11",
     "zhengxie": 2,
     "roomId": 51101,
     "teacherNum": 4,
     "needIdentity": 11,
     "giveIdentity": "0",
-    "needProperty": "4_13_5",
-    "needMission": 210,
+    "needProperty": "1_9_1",
+    "needMission": 0,
     "needSkill1": 149,
     "needSkillLv1": 500,
     "needSkill2": 151,
@@ -327,7 +338,7 @@
     "needSkill3": 153,
     "needSkillLv3": 500,
     "needSkill4": 154,
-    "needSkillLv4": 500,
+    "needSkillLv4": 100,
     "needSkill5": 158,
     "needSkillLv5": 400,
     "needSkill6": 159,
@@ -338,11 +349,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30010,
     "failDialogue2": 30034,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「五毒教」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“采采流水，蓬蓬远春。窈窕深谷，时见美人。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「五仙教」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "12": {
     "id": 12,
-    "name": "星宿派",
+    "name": "春秋门",
+    "rubbish": "1",
     "iconId": "zjm_menpai_12",
     "zhengxie": 2,
     "roomId": 51201,
@@ -369,19 +381,20 @@
     "needSkillLv8": 0,
     "failDialogue": 30011,
     "failDialogue2": 30035,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「星宿派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“具备万物，横绝太空。超以象外，得其环中。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「春秋门」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "13": {
     "id": 13,
-    "name": "白驼山",
+    "name": "通犀庄",
+    "rubbish": "1",
     "iconId": "zjm_menpai_13",
     "zhengxie": 2,
     "roomId": 51301,
     "teacherNum": 4,
     "needIdentity": 13,
     "giveIdentity": "0",
-    "needProperty": "4_13_5",
-    "needMission": 210,
+    "needProperty": "2_13_50000,4_11_-100",
+    "needMission": 208,
     "needSkill1": 172,
     "needSkillLv1": 500,
     "needSkill2": 175,
@@ -400,11 +413,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30012,
     "failDialogue2": 30036,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「白驼山」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“大用外腓，真体内充。反虚入浑，积健为雄。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「通犀庄」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "14": {
     "id": 14,
-    "name": "日月神教",
+    "name": "钧天教",
+    "rubbish": "1",
     "iconId": "zjm_menpai_14",
     "zhengxie": 2,
     "roomId": 51401,
@@ -431,18 +445,19 @@
     "needSkillLv8": 0,
     "failDialogue": 30013,
     "failDialogue2": 30037,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「日月神教」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“喻彼行健，是谓存雄。天地与立，神化攸同。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「钧天教」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "15": {
     "id": 15,
     "name": "密宗",
+    "rubbish": "1",
     "iconId": "zjm_menpai_15",
     "zhengxie": 2,
     "roomId": 51501,
     "teacherNum": 4,
     "needIdentity": 15,
     "giveIdentity": "0_8",
-    "needProperty": "4_13_5",
+    "needProperty": "4_11_0",
     "needMission": 210,
     "needSkill1": 204,
     "needSkillLv1": 500,
@@ -462,11 +477,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30014,
     "failDialogue2": 30038,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「密宗」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“胜义无生，世俗无灭。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「密宗」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "16": {
     "id": 16,
     "name": "血刀门",
+    "rubbish": "1",
     "iconId": "zjm_menpai_16",
     "zhengxie": 2,
     "roomId": 51601,
@@ -493,11 +509,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30015,
     "failDialogue2": 30039,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「血刀门」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“不生不灭，不灭不生。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「血刀门」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "17": {
     "id": 17,
     "name": "嵩山派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_17",
     "zhengxie": 3,
     "roomId": 51701,
@@ -524,11 +541,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30016,
     "failDialogue2": 30040,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「嵩山派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“惟性所宅，真取不羁。控物自富，与率为期。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「嵩山派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "18": {
     "id": 18,
     "name": "崆峒派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_18",
     "zhengxie": 3,
     "roomId": 51801,
@@ -555,11 +573,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30017,
     "failDialogue2": 30041,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「崆峒派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“一客荷樵，一客听琴。情性所至，妙不自寻。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「崆峒派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "19": {
     "id": 19,
-    "name": "关外胡家",
+    "name": "冷月居",
+    "rubbish": "1",
     "iconId": "zjm_menpai_19",
     "zhengxie": 3,
     "roomId": 51901,
@@ -586,19 +605,20 @@
     "needSkillLv8": 0,
     "failDialogue": 30018,
     "failDialogue2": 30042,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「关外胡家」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“可人如玉，步屟寻幽。神出古异，淡不可收。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「冷月居」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "20": {
     "id": 20,
-    "name": "姑苏慕容",
+    "name": "星移阁",
+    "rubbish": "1",
     "iconId": "zjm_menpai_20",
     "zhengxie": 3,
     "roomId": 52001,
     "teacherNum": 4,
     "needIdentity": 20,
     "giveIdentity": "0",
-    "needProperty": "4_13_5",
-    "needMission": 210,
+    "needProperty": "2_7_50",
+    "needMission": 202,
     "needSkill1": 250,
     "needSkillLv1": 500,
     "needSkill2": 251,
@@ -617,11 +637,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30019,
     "failDialogue2": 30043,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「姑苏慕容」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“载瞻星辰，载歌幽人。流水今日，明月前身。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「星移阁」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "21": {
     "id": 21,
-    "name": "明教",
+    "name": "圣火教",
+    "rubbish": "1",
     "iconId": "zjm_menpai_21",
     "zhengxie": 3,
     "roomId": 52101,
@@ -648,11 +669,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30020,
     "failDialogue2": 30044,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「明教」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“生者百岁，相去几何。欢乐苦短，忧愁实多。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「圣火教」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "22": {
     "id": 22,
-    "name": "古墓派",
+    "name": "素心门",
+    "rubbish": "1",
     "iconId": "zjm_menpai_22",
     "zhengxie": 3,
     "roomId": 52201,
@@ -679,19 +701,20 @@
     "needSkillLv8": 0,
     "failDialogue": 30021,
     "failDialogue2": 30045,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「古墓派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“畸人乘真，手把芙蓉。泛彼浩劫，窅然空踪。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「素心门」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "23": {
     "id": 23,
-    "name": "桃花岛",
+    "name": "碧海阁",
+    "rubbish": "1",
     "iconId": "zjm_menpai_23",
     "zhengxie": 3,
     "roomId": 52301,
     "teacherNum": 4,
     "needIdentity": 23,
     "giveIdentity": "0",
-    "needProperty": "4_13_5",
-    "needMission": 210,
+    "needProperty": "2_13_30000,2_5_100,2_6_100",
+    "needMission": 205,
     "needSkill1": 277,
     "needSkillLv1": 500,
     "needSkill2": 283,
@@ -710,11 +733,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30022,
     "failDialogue2": 30046,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「桃花岛」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“海风碧云，夜渚月明。如有佳语，大河前横。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「碧海阁」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "24": {
     "id": 24,
     "name": "逍遥派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_24",
     "zhengxie": 3,
     "roomId": 52401,
@@ -741,11 +765,12 @@
     "needSkillLv8": 0,
     "failDialogue": 30023,
     "failDialogue2": 30047,
-    "worldMessage": "<font color=0xfff390>天机老人：</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>竟完成了</font><font color=0xffb54a>「逍遥派」出师试炼</font><font color=0xfff390>，了不起了不起~</font>"
+    "worldMessage": "<font color=0xfff390>“眠琴绿阴，上有飞瀑。书之岁华，其曰可读。”\\n</font><font color=0x7ef4ff>{0}</font><font color=0xfff390>出师</font><font color=0xffb54a>「逍遥派」</font><font color=0xfff390>，纵马江湖——</font>"
   },
   "0": {
     "id": 0,
     "name": "无门派",
+    "rubbish": "1",
     "iconId": "zjm_menpai_0",
     "zhengxie": 3,
     "roomId": 0,

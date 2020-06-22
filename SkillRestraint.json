@@ -2,1018 +2,5104 @@
   "1": {
     "id": 1,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 130,
-    "remark2": "拈花指",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "2": {
     "id": 2,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 147,
-    "remark2": "五毒鞭法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "3": {
     "id": 3,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 148,
-    "remark2": "五毒钩法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "4": {
     "id": 4,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 149,
-    "remark2": "五毒神功",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "5": {
     "id": 5,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 150,
-    "remark2": "千蛛万毒手",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "6": {
     "id": 6,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 151,
-    "remark2": "五毒烟萝步",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "7": {
     "id": 7,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 152,
-    "remark2": "软红蛛索",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "8": {
     "id": 8,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 153,
-    "remark2": "含沙射影",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "9": {
     "id": 9,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 154,
-    "remark2": "五圣召唤",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "10": {
     "id": 10,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 160,
-    "remark2": "抽髓掌",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "11": {
     "id": 11,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 161,
-    "remark2": "化骨绵掌",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "12": {
     "id": 12,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 162,
-    "remark2": "三阴蜈蚣抓",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "13": {
     "id": 13,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 163,
-    "remark2": "缠魂索",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "14": {
     "id": 14,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 164,
-    "remark2": "冰蚕寒功",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "15": {
     "id": 15,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 165,
-    "remark2": "摘星功",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "16": {
     "id": 16,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 169,
-    "remark2": "化功大法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "17": {
     "id": 17,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 173,
-    "remark2": "灵蛇杖法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "18": {
     "id": 18,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 175,
-    "remark2": "蛇毒奇巧",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "19": {
     "id": 19,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 185,
-    "remark2": "辟邪剑法残章",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "20": {
     "id": 20,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 192,
-    "remark2": "吸星大法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "21": {
     "id": 21,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 198,
-    "remark2": "葵花心法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "22": {
     "id": 22,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 226,
-    "remark2": "寒冰神掌",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "23": {
     "id": 23,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 227,
-    "remark2": "寒冰真气",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "24": {
     "id": 24,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 256,
-    "remark2": "寒冰绵掌",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "25": {
     "id": 25,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 263,
-    "remark2": "青蝠身法",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "26": {
     "id": 26,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 347,
-    "remark2": "玄冥神掌",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
     "successDialogue": 136
   },
   "27": {
     "id": 27,
     "skillId": 266,
-    "remark1": "九阳神功",
+    "rubbish": "1",
     "restraintSkill": 349,
-    "remark2": "幻阴指",
+    "rubbish1": "1",
     "addDamageParameter": 1.2,
-    "successDialogue": 0
+    "successDialogue": 136
   },
   "28": {
     "id": 28,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 50,
-    "remark2": "先天功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "29": {
     "id": 29,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 81,
-    "remark2": "六脉神剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "30": {
     "id": 30,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 91,
-    "remark2": "降龙十八掌",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "31": {
     "id": 31,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 92,
-    "remark2": "打狗棒法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "32": {
     "id": 32,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 105,
-    "remark2": "太极剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "33": {
     "id": 33,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 106,
-    "remark2": "太极拳",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "34": {
     "id": 34,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 133,
-    "remark2": "易筋经",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "35": {
     "id": 35,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 134,
-    "remark2": "洗髓经",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "36": {
     "id": 36,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 179,
-    "remark2": "蛤蟆功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "37": {
     "id": 37,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 196,
-    "remark2": "辟邪剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "38": {
     "id": 38,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 197,
-    "remark2": "葵花神针",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "39": {
     "id": 39,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 198,
-    "remark2": "葵花心法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "40": {
     "id": 40,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 210,
-    "remark2": "龙象般若功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "41": {
     "id": 41,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 218,
-    "remark2": "神照经",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "42": {
     "id": 42,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 254,
-    "remark2": "斗转星移",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "43": {
     "id": 43,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 265,
-    "remark2": "乾坤大挪移",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "44": {
     "id": 44,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 266,
-    "remark2": "九阳神功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "45": {
     "id": 45,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 275,
-    "remark2": "玄铁剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "46": {
     "id": 46,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 288,
-    "remark2": "奇门五转",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "47": {
     "id": 47,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 302,
-    "remark2": "北冥神功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "48": {
     "id": 48,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 303,
-    "remark2": "八荒六合功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "49": {
     "id": 49,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 304,
-    "remark2": "凌波微步",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "50": {
     "id": 50,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 357,
-    "remark2": "太玄经",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "51": {
     "id": 51,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 358,
-    "remark2": "九阴真经",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "52": {
     "id": 52,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 10,
-    "remark2": "三花聚顶功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "53": {
     "id": 53,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 21,
-    "remark2": "上穷碧落",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "54": {
     "id": 54,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 37,
-    "remark2": "混元功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "55": {
     "id": 55,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 38,
-    "remark2": "反两仪刀法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "56": {
     "id": 56,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 49,
-    "remark2": "空明拳",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "57": {
     "id": 57,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 63,
-    "remark2": "倚天剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "58": {
     "id": 58,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 75,
-    "remark2": "商阳剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "59": {
     "id": 59,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 76,
-    "remark2": "中冲剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "60": {
     "id": 60,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 77,
-    "remark2": "关冲剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "61": {
     "id": 61,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 78,
-    "remark2": "少泽剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "62": {
     "id": 62,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 79,
-    "remark2": "少冲剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "63": {
     "id": 63,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 80,
-    "remark2": "少商剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "64": {
     "id": 64,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 104,
-    "remark2": "倚天屠龙功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "65": {
     "id": 65,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 118,
-    "remark2": "达摩剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "66": {
     "id": 66,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 119,
-    "remark2": "般若掌",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "67": {
     "id": 67,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 120,
-    "remark2": "菩提刀法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "68": {
     "id": 68,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 121,
-    "remark2": "普渡杖法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "69": {
     "id": 69,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 122,
-    "remark2": "不动明王剑",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "70": {
     "id": 70,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 123,
-    "remark2": "如来千叶手",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "71": {
     "id": 71,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 124,
-    "remark2": "龙爪功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "72": {
     "id": 72,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 125,
-    "remark2": "无相劫指",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "73": {
     "id": 73,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 126,
-    "remark2": "金刚降魔杵",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "74": {
     "id": 74,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 127,
-    "remark2": "韦陀杵",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "75": {
     "id": 75,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 128,
-    "remark2": "大金刚拳",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "76": {
     "id": 76,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 129,
-    "remark2": "燃木刀法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "77": {
     "id": 77,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 130,
-    "remark2": "拈花指",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "78": {
     "id": 78,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 131,
-    "remark2": "日月鞭法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "79": {
     "id": 79,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 132,
-    "remark2": "摩诃指",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "80": {
     "id": 80,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 145,
-    "remark2": "阴阳倒乱刀法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "81": {
     "id": 81,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 154,
-    "remark2": "五圣召唤",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "82": {
     "id": 82,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 157,
-    "remark2": "金蛇剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "83": {
     "id": 83,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 169,
-    "remark2": "化功大法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "84": {
     "id": 84,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 178,
-    "remark2": "逆经转穴功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "85": {
     "id": 85,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 185,
-    "remark2": "辟邪剑法残篇",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "86": {
     "id": 86,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 192,
-    "remark2": "吸星大法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "87": {
     "id": 87,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 193,
-    "remark2": "葵花神掌",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "88": {
     "id": 88,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 194,
-    "remark2": "葵花神刀",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "89": {
     "id": 89,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 195,
-    "remark2": "葵花魅影",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "90": {
     "id": 90,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 209,
-    "remark2": "日月轮法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "91": {
     "id": 91,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 214,
-    "remark2": "血海魔刀",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "92": {
     "id": 92,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 217,
-    "remark2": "连城剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "93": {
     "id": 93,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 227,
-    "remark2": "寒冰真气",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "94": {
     "id": 94,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 236,
-    "remark2": "上清气功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "95": {
     "id": 95,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 245,
-    "remark2": "刀剑归真",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "96": {
     "id": 96,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 253,
-    "remark2": "参合指",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "97": {
     "id": 97,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 263,
-    "remark2": "青蝠身法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "98": {
     "id": 98,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 264,
-    "remark2": "屠龙刀法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "99": {
     "id": 99,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 274,
-    "remark2": "黯然销魂掌",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "100": {
     "id": 100,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 285,
-    "remark2": "玉箫剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "101": {
     "id": 101,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 286,
-    "remark2": "落英神剑掌",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "102": {
     "id": 102,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 287,
-    "remark2": "弹指神通",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "103": {
     "id": 103,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 295,
-    "remark2": "如意刀",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "104": {
     "id": 104,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 296,
-    "remark2": "流月剑舞",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "105": {
     "id": 105,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 297,
-    "remark2": "月影舞步",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "106": {
     "id": 106,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 298,
-    "remark2": "天山六阳掌",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "107": {
     "id": 107,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 299,
-    "remark2": "小无相功",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "108": {
     "id": 108,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 300,
-    "remark2": "天山折梅手",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "109": {
     "id": 109,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 301,
-    "remark2": "白虹掌力",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "110": {
     "id": 110,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 354,
-    "remark2": "无影剑法",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "111": {
     "id": 111,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 355,
-    "remark2": "岳家神枪",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "112": {
     "id": 112,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 356,
-    "remark2": "庖丁解牛刀",
-    "addDamageParameter": 0.85,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
     "successDialogue": 0
   },
   "113": {
     "id": 113,
     "skillId": 37,
-    "remark1": "混元功",
+    "rubbish": "1",
     "restraintSkill": 39,
-    "remark2": "独孤九剑",
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "114": {
+    "id": 114,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 50,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "115": {
+    "id": 115,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 81,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "116": {
+    "id": 116,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 91,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "117": {
+    "id": 117,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 92,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "118": {
+    "id": 118,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 105,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "119": {
+    "id": 119,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 106,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "120": {
+    "id": 120,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 133,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "121": {
+    "id": 121,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 134,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "122": {
+    "id": 122,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 179,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "123": {
+    "id": 123,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 196,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "124": {
+    "id": 124,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 197,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "125": {
+    "id": 125,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 198,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "126": {
+    "id": 126,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 210,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "127": {
+    "id": 127,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 218,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "128": {
+    "id": 128,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 254,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "129": {
+    "id": 129,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 265,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "130": {
+    "id": 130,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 266,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "131": {
+    "id": 131,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 275,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "132": {
+    "id": 132,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 288,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "133": {
+    "id": 133,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 302,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "134": {
+    "id": 134,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 303,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "135": {
+    "id": 135,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 304,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "136": {
+    "id": 136,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 357,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "137": {
+    "id": 137,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 358,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "138": {
+    "id": 138,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 10,
+    "rubbish1": "1",
     "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "139": {
+    "id": 139,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 21,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "140": {
+    "id": 140,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 37,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "141": {
+    "id": 141,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 38,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "142": {
+    "id": 142,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 49,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "143": {
+    "id": 143,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 63,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "144": {
+    "id": 144,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 75,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "145": {
+    "id": 145,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 76,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "146": {
+    "id": 146,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 77,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "147": {
+    "id": 147,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 78,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "148": {
+    "id": 148,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 79,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "149": {
+    "id": 149,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 80,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "150": {
+    "id": 150,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 104,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "151": {
+    "id": 151,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 118,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "152": {
+    "id": 152,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 119,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "153": {
+    "id": 153,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 120,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "154": {
+    "id": 154,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 121,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "155": {
+    "id": 155,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 122,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "156": {
+    "id": 156,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 123,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "157": {
+    "id": 157,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 124,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "158": {
+    "id": 158,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 125,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "159": {
+    "id": 159,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 126,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "160": {
+    "id": 160,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 127,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "161": {
+    "id": 161,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 128,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "162": {
+    "id": 162,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 129,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "163": {
+    "id": 163,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 130,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "164": {
+    "id": 164,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 131,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "165": {
+    "id": 165,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 132,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "166": {
+    "id": 166,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 145,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "167": {
+    "id": 167,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 154,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "168": {
+    "id": 168,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 157,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "169": {
+    "id": 169,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 169,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "170": {
+    "id": 170,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 178,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "171": {
+    "id": 171,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 185,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "172": {
+    "id": 172,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 192,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "173": {
+    "id": 173,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 193,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "174": {
+    "id": 174,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 194,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "175": {
+    "id": 175,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 195,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "176": {
+    "id": 176,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 209,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "177": {
+    "id": 177,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 214,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "178": {
+    "id": 178,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 217,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "179": {
+    "id": 179,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 227,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "180": {
+    "id": 180,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 236,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "181": {
+    "id": 181,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 245,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "182": {
+    "id": 182,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 253,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "183": {
+    "id": 183,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 263,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "184": {
+    "id": 184,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 264,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "185": {
+    "id": 185,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 274,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "186": {
+    "id": 186,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 285,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "187": {
+    "id": 187,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 286,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "188": {
+    "id": 188,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 287,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "189": {
+    "id": 189,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 295,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "190": {
+    "id": 190,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 296,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "191": {
+    "id": 191,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 297,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "192": {
+    "id": 192,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 298,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "193": {
+    "id": 193,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 299,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "194": {
+    "id": 194,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 300,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "195": {
+    "id": 195,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 301,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "196": {
+    "id": 196,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 354,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "197": {
+    "id": 197,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 355,
+    "rubbish1": "1",
+    "addDamageParameter": 0.85,
+    "successDialogue": 0
+  },
+  "198": {
+    "id": 198,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 356,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "199": {
+    "id": 199,
+    "skillId": 91,
+    "rubbish": "1",
+    "restraintSkill": 39,
+    "rubbish1": "1",
+    "addDamageParameter": 0.7,
+    "successDialogue": 0
+  },
+  "200": {
+    "id": 200,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 50,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "201": {
+    "id": 201,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 81,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "202": {
+    "id": 202,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 91,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "203": {
+    "id": 203,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 92,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "204": {
+    "id": 204,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 105,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "205": {
+    "id": 205,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 106,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "206": {
+    "id": 206,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 133,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "207": {
+    "id": 207,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 134,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "208": {
+    "id": 208,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 179,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "209": {
+    "id": 209,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 196,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "210": {
+    "id": 210,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 197,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "211": {
+    "id": 211,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 198,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "212": {
+    "id": 212,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 210,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "213": {
+    "id": 213,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 218,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "214": {
+    "id": 214,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 254,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "215": {
+    "id": 215,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 265,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "216": {
+    "id": 216,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 266,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "217": {
+    "id": 217,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 275,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "218": {
+    "id": 218,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 288,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "219": {
+    "id": 219,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 302,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "220": {
+    "id": 220,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 303,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "221": {
+    "id": 221,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 304,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "222": {
+    "id": 222,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 357,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "223": {
+    "id": 223,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 358,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "224": {
+    "id": 224,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 10,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "225": {
+    "id": 225,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 21,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "226": {
+    "id": 226,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 37,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "227": {
+    "id": 227,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 38,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "228": {
+    "id": 228,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 49,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "229": {
+    "id": 229,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 63,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "230": {
+    "id": 230,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 75,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "231": {
+    "id": 231,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 76,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "232": {
+    "id": 232,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 77,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "233": {
+    "id": 233,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 78,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "234": {
+    "id": 234,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 79,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "235": {
+    "id": 235,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 80,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "236": {
+    "id": 236,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 104,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "237": {
+    "id": 237,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 118,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "238": {
+    "id": 238,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 119,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "239": {
+    "id": 239,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 120,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "240": {
+    "id": 240,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 121,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "241": {
+    "id": 241,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 122,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "242": {
+    "id": 242,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 123,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "243": {
+    "id": 243,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 124,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "244": {
+    "id": 244,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 125,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "245": {
+    "id": 245,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 126,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "246": {
+    "id": 246,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 127,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "247": {
+    "id": 247,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 128,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "248": {
+    "id": 248,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 129,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "249": {
+    "id": 249,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 130,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "250": {
+    "id": 250,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 131,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "251": {
+    "id": 251,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 132,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "252": {
+    "id": 252,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 145,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "253": {
+    "id": 253,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 154,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "254": {
+    "id": 254,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 157,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "255": {
+    "id": 255,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 169,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "256": {
+    "id": 256,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 178,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "257": {
+    "id": 257,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 185,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "258": {
+    "id": 258,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 192,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "259": {
+    "id": 259,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 193,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "260": {
+    "id": 260,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 194,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "261": {
+    "id": 261,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 195,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "262": {
+    "id": 262,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 209,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "263": {
+    "id": 263,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 214,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "264": {
+    "id": 264,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 217,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "265": {
+    "id": 265,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 227,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "266": {
+    "id": 266,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 236,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "267": {
+    "id": 267,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 245,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "268": {
+    "id": 268,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 253,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "269": {
+    "id": 269,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 263,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "270": {
+    "id": 270,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 264,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "271": {
+    "id": 271,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 274,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "272": {
+    "id": 272,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 285,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "273": {
+    "id": 273,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 286,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "274": {
+    "id": 274,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 287,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "275": {
+    "id": 275,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 295,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "276": {
+    "id": 276,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 296,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "277": {
+    "id": 277,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 297,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "278": {
+    "id": 278,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 298,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "279": {
+    "id": 279,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 299,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "280": {
+    "id": 280,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 300,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "281": {
+    "id": 281,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 301,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "282": {
+    "id": 282,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 354,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "283": {
+    "id": 283,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 355,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "284": {
+    "id": 284,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 356,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "285": {
+    "id": 285,
+    "skillId": 106,
+    "rubbish": "1",
+    "restraintSkill": 39,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "286": {
+    "id": 286,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 50,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "287": {
+    "id": 287,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 81,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "288": {
+    "id": 288,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 91,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "289": {
+    "id": 289,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 92,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "290": {
+    "id": 290,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 105,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "291": {
+    "id": 291,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 106,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "292": {
+    "id": 292,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 133,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "293": {
+    "id": 293,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 134,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "294": {
+    "id": 294,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 179,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "295": {
+    "id": 295,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 196,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "296": {
+    "id": 296,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 197,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "297": {
+    "id": 297,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 198,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "298": {
+    "id": 298,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 210,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "299": {
+    "id": 299,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 218,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "300": {
+    "id": 300,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 254,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "301": {
+    "id": 301,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 265,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "302": {
+    "id": 302,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 266,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "303": {
+    "id": 303,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 275,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "304": {
+    "id": 304,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 288,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "305": {
+    "id": 305,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 302,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "306": {
+    "id": 306,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 303,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "307": {
+    "id": 307,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 304,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "308": {
+    "id": 308,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 357,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "309": {
+    "id": 309,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 358,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "310": {
+    "id": 310,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 10,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "311": {
+    "id": 311,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 21,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "312": {
+    "id": 312,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 37,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "313": {
+    "id": 313,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 38,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "314": {
+    "id": 314,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 49,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "315": {
+    "id": 315,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 63,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "316": {
+    "id": 316,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 75,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "317": {
+    "id": 317,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 76,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "318": {
+    "id": 318,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 77,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "319": {
+    "id": 319,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 78,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "320": {
+    "id": 320,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 79,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "321": {
+    "id": 321,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 80,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "322": {
+    "id": 322,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 104,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "323": {
+    "id": 323,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 118,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "324": {
+    "id": 324,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 119,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "325": {
+    "id": 325,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 120,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "326": {
+    "id": 326,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 121,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "327": {
+    "id": 327,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 122,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "328": {
+    "id": 328,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 123,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "329": {
+    "id": 329,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 124,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "330": {
+    "id": 330,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 125,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "331": {
+    "id": 331,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 126,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "332": {
+    "id": 332,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 127,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "333": {
+    "id": 333,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 128,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "334": {
+    "id": 334,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 129,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "335": {
+    "id": 335,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 130,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "336": {
+    "id": 336,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 131,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "337": {
+    "id": 337,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 132,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "338": {
+    "id": 338,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 145,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "339": {
+    "id": 339,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 154,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "340": {
+    "id": 340,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 157,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "341": {
+    "id": 341,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 169,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "342": {
+    "id": 342,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 178,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "343": {
+    "id": 343,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 185,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "344": {
+    "id": 344,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 192,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "345": {
+    "id": 345,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 193,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "346": {
+    "id": 346,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 194,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "347": {
+    "id": 347,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 195,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "348": {
+    "id": 348,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 209,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "349": {
+    "id": 349,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 214,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "350": {
+    "id": 350,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 217,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "351": {
+    "id": 351,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 227,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "352": {
+    "id": 352,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 236,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "353": {
+    "id": 353,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 245,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "354": {
+    "id": 354,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 253,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "355": {
+    "id": 355,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 263,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "356": {
+    "id": 356,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 264,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "357": {
+    "id": 357,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 274,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "358": {
+    "id": 358,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 285,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "359": {
+    "id": 359,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 286,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "360": {
+    "id": 360,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 287,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "361": {
+    "id": 361,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 295,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "362": {
+    "id": 362,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 296,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "363": {
+    "id": 363,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 297,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "364": {
+    "id": 364,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 298,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "365": {
+    "id": 365,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 299,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "366": {
+    "id": 366,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 300,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "367": {
+    "id": 367,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 301,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "368": {
+    "id": 368,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 354,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "369": {
+    "id": 369,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 355,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "370": {
+    "id": 370,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 356,
+    "rubbish1": "1",
+    "addDamageParameter": 1.01,
+    "successDialogue": 103
+  },
+  "371": {
+    "id": 371,
+    "skillId": 288,
+    "rubbish": "1",
+    "restraintSkill": 39,
+    "rubbish1": "1",
+    "addDamageParameter": 1.01,
+    "successDialogue": 103
+  },
+  "372": {
+    "id": 372,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 50,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "373": {
+    "id": 373,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 81,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "374": {
+    "id": 374,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 91,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "375": {
+    "id": 375,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 92,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "376": {
+    "id": 376,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 105,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "377": {
+    "id": 377,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 106,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "378": {
+    "id": 378,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 133,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "379": {
+    "id": 379,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 134,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "380": {
+    "id": 380,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 179,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "381": {
+    "id": 381,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 196,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "382": {
+    "id": 382,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 197,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "383": {
+    "id": 383,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 198,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "384": {
+    "id": 384,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 210,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "385": {
+    "id": 385,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 218,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "386": {
+    "id": 386,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 254,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "387": {
+    "id": 387,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 265,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "388": {
+    "id": 388,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 266,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "389": {
+    "id": 389,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 275,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "390": {
+    "id": 390,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 288,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "391": {
+    "id": 391,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 302,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "392": {
+    "id": 392,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 303,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "393": {
+    "id": 393,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 304,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "394": {
+    "id": 394,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 357,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "395": {
+    "id": 395,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 358,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "396": {
+    "id": 396,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 10,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "397": {
+    "id": 397,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 21,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "398": {
+    "id": 398,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 37,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "399": {
+    "id": 399,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 38,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "400": {
+    "id": 400,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 49,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "401": {
+    "id": 401,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 63,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "402": {
+    "id": 402,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 75,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "403": {
+    "id": 403,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 76,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "404": {
+    "id": 404,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 77,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "405": {
+    "id": 405,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 78,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "406": {
+    "id": 406,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 79,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "407": {
+    "id": 407,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 80,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "408": {
+    "id": 408,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 104,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "409": {
+    "id": 409,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 118,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "410": {
+    "id": 410,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 119,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "411": {
+    "id": 411,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 120,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "412": {
+    "id": 412,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 121,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "413": {
+    "id": 413,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 122,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "414": {
+    "id": 414,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 123,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "415": {
+    "id": 415,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 124,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "416": {
+    "id": 416,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 125,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "417": {
+    "id": 417,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 126,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "418": {
+    "id": 418,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 127,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "419": {
+    "id": 419,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 128,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "420": {
+    "id": 420,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 129,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "421": {
+    "id": 421,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 130,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "422": {
+    "id": 422,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 131,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "423": {
+    "id": 423,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 132,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "424": {
+    "id": 424,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 145,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "425": {
+    "id": 425,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 154,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "426": {
+    "id": 426,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 157,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "427": {
+    "id": 427,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 169,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "428": {
+    "id": 428,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 178,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "429": {
+    "id": 429,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 185,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "430": {
+    "id": 430,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 192,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "431": {
+    "id": 431,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 193,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "432": {
+    "id": 432,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 194,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "433": {
+    "id": 433,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 195,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "434": {
+    "id": 434,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 209,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "435": {
+    "id": 435,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 214,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "436": {
+    "id": 436,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 217,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "437": {
+    "id": 437,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 227,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "438": {
+    "id": 438,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 236,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "439": {
+    "id": 439,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 245,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "440": {
+    "id": 440,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 253,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "441": {
+    "id": 441,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 263,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "442": {
+    "id": 442,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 264,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "443": {
+    "id": 443,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 274,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "444": {
+    "id": 444,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 285,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "445": {
+    "id": 445,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 286,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "446": {
+    "id": 446,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 287,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "447": {
+    "id": 447,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 295,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "448": {
+    "id": 448,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 296,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "449": {
+    "id": 449,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 297,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "450": {
+    "id": 450,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 298,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "451": {
+    "id": 451,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 299,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "452": {
+    "id": 452,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 300,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "453": {
+    "id": 453,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 301,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "454": {
+    "id": 454,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 354,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "455": {
+    "id": 455,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 355,
+    "rubbish1": "1",
+    "addDamageParameter": 1.05,
+    "successDialogue": 103
+  },
+  "456": {
+    "id": 456,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 356,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "457": {
+    "id": 457,
+    "skillId": 274,
+    "rubbish": "1",
+    "restraintSkill": 39,
+    "rubbish1": "1",
+    "addDamageParameter": 0.9,
+    "successDialogue": 0
+  },
+  "458": {
+    "id": 458,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 50,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "459": {
+    "id": 459,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 81,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "460": {
+    "id": 460,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 91,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "461": {
+    "id": 461,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 92,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "462": {
+    "id": 462,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 105,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "463": {
+    "id": 463,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 106,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "464": {
+    "id": 464,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 133,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "465": {
+    "id": 465,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 134,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "466": {
+    "id": 466,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 179,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "467": {
+    "id": 467,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 196,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "468": {
+    "id": 468,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 197,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "469": {
+    "id": 469,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 198,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "470": {
+    "id": 470,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 210,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "471": {
+    "id": 471,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 218,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "472": {
+    "id": 472,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 254,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "473": {
+    "id": 473,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 265,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "474": {
+    "id": 474,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 266,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "475": {
+    "id": 475,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 275,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "476": {
+    "id": 476,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 288,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "477": {
+    "id": 477,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 302,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "478": {
+    "id": 478,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 303,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "479": {
+    "id": 479,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 304,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "480": {
+    "id": 480,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 357,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "481": {
+    "id": 481,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 358,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "482": {
+    "id": 482,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 10,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "483": {
+    "id": 483,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 21,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "484": {
+    "id": 484,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 37,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "485": {
+    "id": 485,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 38,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "486": {
+    "id": 486,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 49,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "487": {
+    "id": 487,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 63,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "488": {
+    "id": 488,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 75,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "489": {
+    "id": 489,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 76,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "490": {
+    "id": 490,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 77,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "491": {
+    "id": 491,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 78,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "492": {
+    "id": 492,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 79,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "493": {
+    "id": 493,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 80,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "494": {
+    "id": 494,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 104,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "495": {
+    "id": 495,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 118,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "496": {
+    "id": 496,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 119,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "497": {
+    "id": 497,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 120,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "498": {
+    "id": 498,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 121,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "499": {
+    "id": 499,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 122,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "500": {
+    "id": 500,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 123,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "501": {
+    "id": 501,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 124,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "502": {
+    "id": 502,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 125,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "503": {
+    "id": 503,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 126,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "504": {
+    "id": 504,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 127,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "505": {
+    "id": 505,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 128,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "506": {
+    "id": 506,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 129,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "507": {
+    "id": 507,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 130,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "508": {
+    "id": 508,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 131,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "509": {
+    "id": 509,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 132,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "510": {
+    "id": 510,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 145,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "511": {
+    "id": 511,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 154,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "512": {
+    "id": 512,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 157,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "513": {
+    "id": 513,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 169,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "514": {
+    "id": 514,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 178,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "515": {
+    "id": 515,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 185,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "516": {
+    "id": 516,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 192,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "517": {
+    "id": 517,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 193,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "518": {
+    "id": 518,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 194,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "519": {
+    "id": 519,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 195,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "520": {
+    "id": 520,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 209,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "521": {
+    "id": 521,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 214,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "522": {
+    "id": 522,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 217,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "523": {
+    "id": 523,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 227,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "524": {
+    "id": 524,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 236,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "525": {
+    "id": 525,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 245,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "526": {
+    "id": 526,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 253,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "527": {
+    "id": 527,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 263,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "528": {
+    "id": 528,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 264,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "529": {
+    "id": 529,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 274,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "530": {
+    "id": 530,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 285,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "531": {
+    "id": 531,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 286,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "532": {
+    "id": 532,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 287,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "533": {
+    "id": 533,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 295,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "534": {
+    "id": 534,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 296,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "535": {
+    "id": 535,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 297,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "536": {
+    "id": 536,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 298,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "537": {
+    "id": 537,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 299,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "538": {
+    "id": 538,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 300,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "539": {
+    "id": 539,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 301,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "540": {
+    "id": 540,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 354,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "541": {
+    "id": 541,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 355,
+    "rubbish1": "1",
+    "addDamageParameter": 1.15,
+    "successDialogue": 0
+  },
+  "542": {
+    "id": 542,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 356,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "543": {
+    "id": 543,
+    "skillId": 254,
+    "rubbish": "1",
+    "restraintSkill": 39,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 103
+  },
+  "544": {
+    "id": 544,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 50,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "545": {
+    "id": 545,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 81,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "546": {
+    "id": 546,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 91,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "547": {
+    "id": 547,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 92,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "548": {
+    "id": 548,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 105,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "549": {
+    "id": 549,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 106,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "550": {
+    "id": 550,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 133,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "551": {
+    "id": 551,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 134,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "552": {
+    "id": 552,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 179,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "553": {
+    "id": 553,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 196,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "554": {
+    "id": 554,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 197,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "555": {
+    "id": 555,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 198,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "556": {
+    "id": 556,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 210,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "557": {
+    "id": 557,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 218,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "558": {
+    "id": 558,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 254,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "559": {
+    "id": 559,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 265,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "560": {
+    "id": 560,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 266,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "561": {
+    "id": 561,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 275,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "562": {
+    "id": 562,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 288,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "563": {
+    "id": 563,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 302,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "564": {
+    "id": 564,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 303,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "565": {
+    "id": 565,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 304,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "566": {
+    "id": 566,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 357,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
+    "successDialogue": 0
+  },
+  "567": {
+    "id": 567,
+    "skillId": 458,
+    "rubbish": "1",
+    "restraintSkill": 358,
+    "rubbish1": "1",
+    "addDamageParameter": 1.1,
     "successDialogue": 0
   }
 }
