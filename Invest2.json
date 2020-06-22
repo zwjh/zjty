@@ -1,0 +1,51 @@
+{
+  "1": {
+    "id": 1,
+    "goldMin": 1,
+    "goldMax": 100,
+    "interest": 0,
+    "fixed": 5
+  },
+  "2": {
+    "id": 2,
+    "goldMin": 101,
+    "goldMax": 300,
+    "interest": 0.05,
+    "fixed": 10
+  },
+  "3": {
+    "id": 3,
+    "goldMin": 301,
+    "goldMax": 1000,
+    "interest": 0.02,
+    "fixed": 20
+  },
+  "4": {
+    "id": 4,
+    "goldMin": 1001,
+    "goldMax": 10000,
+    "interest": 0.01,
+    "fixed": 40
+  },
+  "5": {
+    "id": 5,
+    "goldMin": 10001,
+    "goldMax": 30000,
+    "interest": 0.007,
+    "fixed": 80
+  },
+  "6": {
+    "id": 6,
+    "goldMin": 30001,
+    "goldMax": 312100,
+    "interest": 0.003,
+    "fixed": 100
+  },
+  "7": {
+    "id": 7,
+    "goldMin": 312101,
+    "goldMax": 99999999,
+    "interest": 0,
+    "fixed": 100
+  }
+}

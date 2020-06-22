@@ -1,0 +1,892 @@
+{
+  "1": {
+    "ID": 1,
+    "name": "承浆",
+    "Meridiannum": "jms_1",
+    "Meridianlines": "jmx_2_1",
+    "Meridianball1": "jmq_2",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_1"
+  },
+  "2": {
+    "ID": 2,
+    "name": "廉泉",
+    "Meridiannum": "jms_2",
+    "Meridianlines": "jmx_2_2",
+    "Meridianball1": "jmq_3",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_2"
+  },
+  "3": {
+    "ID": 3,
+    "name": "天突",
+    "Meridiannum": "jms_3",
+    "Meridianlines": "jmx_2_3,jmx_2_9",
+    "Meridianball1": "jmq_4",
+    "Meridianball2": "jmq_9",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_3"
+  },
+  "4": {
+    "ID": 4,
+    "name": "璇玑",
+    "Meridiannum": "jms_4",
+    "Meridianlines": "jmx_2_4",
+    "Meridianball1": "jmq_5",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_4"
+  },
+  "5": {
+    "ID": 5,
+    "name": "华盖",
+    "Meridiannum": "jms_5",
+    "Meridianlines": "jmx_2_5,jmx_2_16",
+    "Meridianball1": "jmq_6",
+    "Meridianball2": "jmq_16",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_5"
+  },
+  "6": {
+    "ID": 6,
+    "name": "紫宫",
+    "Meridiannum": "jms_6",
+    "Meridianlines": "jmx_2_6",
+    "Meridianball1": "jmq_7",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_6"
+  },
+  "7": {
+    "ID": 7,
+    "name": "玉堂",
+    "Meridiannum": "jms_7",
+    "Meridianlines": "jmx_2_7",
+    "Meridianball1": "jmq_8",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_7"
+  },
+  "8": {
+    "ID": 8,
+    "name": "膻中",
+    "Meridiannum": "jms_8",
+    "Meridianlines": "jmx_2_8,jmx_2_20",
+    "Meridianball1": "jmq_15",
+    "Meridianball2": "jmq_19",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_8"
+  },
+  "9": {
+    "ID": 9,
+    "name": "上脘",
+    "Meridiannum": "jms_9",
+    "Meridianlines": "jmx_2_10",
+    "Meridianball1": "jmq_10",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_9"
+  },
+  "10": {
+    "ID": 10,
+    "name": "建里",
+    "Meridiannum": "jms_10",
+    "Meridianlines": "jmx_2_11",
+    "Meridianball1": "jmq_11",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_10"
+  },
+  "11": {
+    "ID": 11,
+    "name": "水分",
+    "Meridiannum": "jms_11",
+    "Meridianlines": "jmx_2_12",
+    "Meridianball1": "jmq_12",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_11"
+  },
+  "12": {
+    "ID": 12,
+    "name": "阴交",
+    "Meridiannum": "jms_12",
+    "Meridianlines": "jmx_2_13,jmx_2_14",
+    "Meridianball1": "jmq_13",
+    "Meridianball2": "jmq_6",
+    "Meridianball3": "jmq_13",
+    "Vibrationbutton": "jmn_12"
+  },
+  "13": {
+    "ID": 13,
+    "name": "石门",
+    "Meridiannum": "jms_13",
+    "Meridianlines": "jmx_2_15",
+    "Meridianball1": "jmq_14",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_13"
+  },
+  "14": {
+    "ID": 14,
+    "name": "中极",
+    "Meridiannum": "jms_14",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_82",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_14"
+  },
+  "15": {
+    "ID": 15,
+    "name": "会阴",
+    "Meridiannum": "jms_15",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_22",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_15"
+  },
+  "16": {
+    "ID": 16,
+    "name": "巨阙",
+    "Meridiannum": "jms_16",
+    "Meridianlines": "jmx_2_17",
+    "Meridianball1": "jmq_17",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_16"
+  },
+  "17": {
+    "ID": 17,
+    "name": "中脘",
+    "Meridiannum": "jms_17",
+    "Meridianlines": "jmx_2_18",
+    "Meridianball1": "jmq_18",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_17"
+  },
+  "18": {
+    "ID": 18,
+    "name": "下脘",
+    "Meridiannum": "jms_18",
+    "Meridianlines": "jmx_2_19",
+    "Meridianball1": "jmq_19",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_18"
+  },
+  "19": {
+    "ID": 19,
+    "name": "神阙",
+    "Meridiannum": "jms_19",
+    "Meridianlines": "jmx_2_21",
+    "Meridianball1": "jmq_20",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_19"
+  },
+  "20": {
+    "ID": 20,
+    "name": "气海",
+    "Meridiannum": "jms_20",
+    "Meridianlines": "jmx_2_22",
+    "Meridianball1": "jmq_21",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_20"
+  },
+  "21": {
+    "ID": 21,
+    "name": "曲骨",
+    "Meridiannum": "jms_21",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_83",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_21"
+  },
+  "22": {
+    "ID": 22,
+    "name": "任脉",
+    "Meridiannum": "jms_22",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_23",
+    "Meridianball2": "jmq_47",
+    "Meridianball3": "jmq_77",
+    "Vibrationbutton": "jmn_22"
+  },
+  "23": {
+    "ID": 23,
+    "name": "逆转任脉",
+    "Meridiannum": "jms_23",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_84",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_23"
+  },
+  "24": {
+    "ID": 24,
+    "name": "百会",
+    "Meridiannum": "jms_24",
+    "Meridianlines": "jmx_1,jmx_2",
+    "Meridianball1": "jmq_25",
+    "Meridianball2": "jmq_30",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_24"
+  },
+  "25": {
+    "ID": 25,
+    "name": "前顶",
+    "Meridiannum": "jms_25",
+    "Meridianlines": "jmx_3",
+    "Meridianball1": "jmq_26",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_25"
+  },
+  "26": {
+    "ID": 26,
+    "name": "神庭",
+    "Meridiannum": "jms_26",
+    "Meridianlines": "jmx_4",
+    "Meridianball1": "jmq_27",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_26"
+  },
+  "27": {
+    "ID": 27,
+    "name": "兑端",
+    "Meridiannum": "jms_27",
+    "Meridianlines": "jmx_11,jmx_12",
+    "Meridianball1": "jmq_28",
+    "Meridianball2": "jmq_32",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_27"
+  },
+  "28": {
+    "ID": 28,
+    "name": "水沟",
+    "Meridiannum": "jms_28",
+    "Meridianlines": "jmx_13",
+    "Meridianball1": "jmq_29",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_28"
+  },
+  "29": {
+    "ID": 29,
+    "name": "龈交",
+    "Meridiannum": "jms_29",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_82",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_29"
+  },
+  "30": {
+    "ID": 30,
+    "name": "后顶",
+    "Meridiannum": "jms_30",
+    "Meridianlines": "jmx_6,jmx_7",
+    "Meridianball1": "jmq_31",
+    "Meridianball2": "jmq_36",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_30"
+  },
+  "31": {
+    "ID": 31,
+    "name": "脑户",
+    "Meridiannum": "jms_31",
+    "Meridianlines": "jmx_5",
+    "Meridianball1": "jmq_27",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_31"
+  },
+  "32": {
+    "ID": 32,
+    "name": "神道",
+    "Meridiannum": "jms_32",
+    "Meridianlines": "jmx_14",
+    "Meridianball1": "jmq_33",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_32"
+  },
+  "33": {
+    "ID": 33,
+    "name": "中枢",
+    "Meridiannum": "jms_33",
+    "Meridianlines": "jmx_15,jmx_20",
+    "Meridianball1": "jmq_34",
+    "Meridianball2": "jmq_39",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_33"
+  },
+  "34": {
+    "ID": 34,
+    "name": "悬枢",
+    "Meridiannum": "jms_34",
+    "Meridianlines": "jmx_19",
+    "Meridianball1": "jmq_35",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_34"
+  },
+  "35": {
+    "ID": 35,
+    "name": "腰俞",
+    "Meridiannum": "jms_35",
+    "Meridianlines": "jmx_18",
+    "Meridianball1": "jmq_41",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_35"
+  },
+  "36": {
+    "ID": 36,
+    "name": "风府",
+    "Meridiannum": "jms_36",
+    "Meridianlines": "jmx_8",
+    "Meridianball1": "jmq_37",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_36"
+  },
+  "37": {
+    "ID": 37,
+    "name": "大椎",
+    "Meridiannum": "jms_37",
+    "Meridianlines": "jmx_9",
+    "Meridianball1": "jmq_38",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_37"
+  },
+  "38": {
+    "ID": 38,
+    "name": "身柱",
+    "Meridiannum": "jms_38",
+    "Meridianlines": "jmx_10",
+    "Meridianball1": "jmq_32",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_38"
+  },
+  "39": {
+    "ID": 39,
+    "name": "灵台",
+    "Meridiannum": "jms_39",
+    "Meridianlines": "jmx_16",
+    "Meridianball1": "jmq_40",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_39"
+  },
+  "40": {
+    "ID": 40,
+    "name": "命门",
+    "Meridiannum": "jms_40",
+    "Meridianlines": "jmx_17",
+    "Meridianball1": "jmq_41",
+    "Meridianball2": "jmq_83",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_40"
+  },
+  "41": {
+    "ID": 41,
+    "name": "长强",
+    "Meridiannum": "jms_41",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_42",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_41"
+  },
+  "42": {
+    "ID": 42,
+    "name": "督脉",
+    "Meridiannum": "jms_42",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_43",
+    "Meridianball2": "jmq_78",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_42"
+  },
+  "43": {
+    "ID": 43,
+    "name": "逆转督脉",
+    "Meridiannum": "jms_43",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_57",
+    "Meridianball2": "jmq_89",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_43"
+  },
+  "44": {
+    "ID": 44,
+    "name": "石关",
+    "Meridiannum": "jms_44",
+    "Meridianlines": "jmx_4_2,jmx_4_5",
+    "Meridianball1": "jmq_45",
+    "Meridianball2": "jmq_48",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_44"
+  },
+  "45": {
+    "ID": 45,
+    "name": "商曲",
+    "Meridiannum": "jms_45",
+    "Meridianlines": "jmx_4_6",
+    "Meridianball1": "jmq_46",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_45"
+  },
+  "46": {
+    "ID": 46,
+    "name": "四满",
+    "Meridiannum": "jms_46",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_86",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_46"
+  },
+  "47": {
+    "ID": 47,
+    "name": "幽门",
+    "Meridiannum": "jms_47",
+    "Meridianlines": "jmx_4_1,jmx_4_4",
+    "Meridianball1": "jmq_44",
+    "Meridianball2": "jmq_52",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_47"
+  },
+  "48": {
+    "ID": 48,
+    "name": "肓俞",
+    "Meridiannum": "jms_48",
+    "Meridianlines": "jmx_4_7",
+    "Meridianball1": "jmq_49",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_48"
+  },
+  "49": {
+    "ID": 49,
+    "name": "气穴",
+    "Meridiannum": "jms_49",
+    "Meridianlines": "jmx_4_8",
+    "Meridianball1": "jmq_50",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_49"
+  },
+  "50": {
+    "ID": 50,
+    "name": "大赫",
+    "Meridiannum": "jms_50",
+    "Meridianlines": "jmx_4_9",
+    "Meridianball1": "jmq_51",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_50"
+  },
+  "51": {
+    "ID": 51,
+    "name": "横骨",
+    "Meridiannum": "jms_51",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_55",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_51"
+  },
+  "52": {
+    "ID": 52,
+    "name": "腹通",
+    "Meridiannum": "jms_52",
+    "Meridianlines": "jmx_4_3,jmx_4_10",
+    "Meridianball1": "jmq_48",
+    "Meridianball2": "jmq_53",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_52"
+  },
+  "53": {
+    "ID": 53,
+    "name": "阴都",
+    "Meridiannum": "jms_53",
+    "Meridianlines": "jmx_4_11",
+    "Meridianball1": "jmq_54",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_53"
+  },
+  "54": {
+    "ID": 54,
+    "name": "中注",
+    "Meridiannum": "jms_54",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_87",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_54"
+  },
+  "55": {
+    "ID": 55,
+    "name": "冲脉",
+    "Meridiannum": "jms_55",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_56",
+    "Meridianball2": "jmq_88",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_55"
+  },
+  "56": {
+    "ID": 56,
+    "name": "逆转冲脉",
+    "Meridiannum": "jms_56",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_79",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_56"
+  },
+  "57": {
+    "ID": 57,
+    "name": "五枢",
+    "Meridiannum": "jms_57",
+    "Meridianlines": "jmx_3_1,jmx_3_12",
+    "Meridianball1": "jmq_59",
+    "Meridianball2": "jmq_67",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_57"
+  },
+  "58": {
+    "ID": 58,
+    "name": "维道",
+    "Meridiannum": "jms_58",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_75",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_58"
+  },
+  "59": {
+    "ID": 59,
+    "name": "京门",
+    "Meridiannum": "jms_59",
+    "Meridianlines": "jmx_3_2",
+    "Meridianball1": "jmq_60",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_59"
+  },
+  "60": {
+    "ID": 60,
+    "name": "日月",
+    "Meridiannum": "jms_60",
+    "Meridianlines": "jmx_3_3",
+    "Meridianball1": "jmq_61",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_60"
+  },
+  "61": {
+    "ID": 61,
+    "name": "肩井",
+    "Meridiannum": "jms_61",
+    "Meridianlines": "jmx_3_4",
+    "Meridianball1": "jmq_62",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_61"
+  },
+  "62": {
+    "ID": 62,
+    "name": "完骨",
+    "Meridiannum": "jms_62",
+    "Meridianlines": "jmx_3_5",
+    "Meridianball1": "jmq_63",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_62"
+  },
+  "63": {
+    "ID": 63,
+    "name": "风池",
+    "Meridiannum": "jms_63",
+    "Meridianlines": "jmx_3_6,jmx_3_13",
+    "Meridianball1": "jmq_64",
+    "Meridianball2": "jmq_58",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_63"
+  },
+  "64": {
+    "ID": 64,
+    "name": "天冲",
+    "Meridiannum": "jms_64",
+    "Meridianlines": "jmx_3_14",
+    "Meridianball1": "jmq_65",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_64"
+  },
+  "65": {
+    "ID": 65,
+    "name": "承灵",
+    "Meridiannum": "jms_65",
+    "Meridianlines": "jmx_3_15",
+    "Meridianball1": "jmq_66",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_65"
+  },
+  "66": {
+    "ID": 66,
+    "name": "本神",
+    "Meridiannum": "jms_66",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_86",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_66"
+  },
+  "67": {
+    "ID": 67,
+    "name": "环跳",
+    "Meridiannum": "jms_67",
+    "Meridianlines": "jmx_3_11",
+    "Meridianball1": "jmq_68",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_67"
+  },
+  "68": {
+    "ID": 68,
+    "name": "风市",
+    "Meridiannum": "jms_68",
+    "Meridianlines": "jmx_3_10",
+    "Meridianball1": "jmq_69",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_68"
+  },
+  "69": {
+    "ID": 69,
+    "name": "阳陵",
+    "Meridiannum": "jms_69",
+    "Meridianlines": "jmx_3_9",
+    "Meridianball1": "jmq_70",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_69"
+  },
+  "70": {
+    "ID": 70,
+    "name": "外丘",
+    "Meridiannum": "jms_70",
+    "Meridianlines": "jmx_3_8",
+    "Meridianball1": "jmq_71",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_70"
+  },
+  "71": {
+    "ID": 71,
+    "name": "光明",
+    "Meridiannum": "jms_71",
+    "Meridianlines": "jmx_3_7,jmx_3_16",
+    "Meridianball1": "jmq_72",
+    "Meridianball2": "jmq_58",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_71"
+  },
+  "72": {
+    "ID": 72,
+    "name": "悬钟",
+    "Meridiannum": "jms_72",
+    "Meridianlines": "jmx_3_17",
+    "Meridianball1": "jmq_73",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_72"
+  },
+  "73": {
+    "ID": 73,
+    "name": "足临",
+    "Meridiannum": "jms_73",
+    "Meridianlines": "jmx_3_18",
+    "Meridianball1": "jmq_74",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_73"
+  },
+  "74": {
+    "ID": 74,
+    "name": "侠溪",
+    "Meridiannum": "jms_74",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_87",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_74"
+  },
+  "75": {
+    "ID": 75,
+    "name": "带脉",
+    "Meridiannum": "jms_75",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_76",
+    "Meridianball2": "jmq_85",
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_75"
+  },
+  "76": {
+    "ID": 76,
+    "name": "逆转带脉",
+    "Meridiannum": "jms_76",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_80",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_76"
+  },
+  "77": {
+    "ID": 77,
+    "name": "印堂",
+    "Meridiannum": "jms_77",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_77"
+  },
+  "78": {
+    "ID": 78,
+    "name": "百劳",
+    "Meridiannum": "jms_78",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_78"
+  },
+  "79": {
+    "ID": 79,
+    "name": "抬肩",
+    "Meridiannum": "jms_79",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_81",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_79"
+  },
+  "80": {
+    "ID": 80,
+    "name": "崇骨",
+    "Meridiannum": "jms_80",
+    "Meridianlines": 0,
+    "Meridianball1": "jmq_81",
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_80"
+  },
+  "81": {
+    "ID": 81,
+    "name": "极泉",
+    "Meridiannum": "jms_81",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_81"
+  },
+  "82": {
+    "ID": 82,
+    "name": "龙玄",
+    "Meridiannum": "jms_82",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_82"
+  },
+  "83": {
+    "ID": 83,
+    "name": "二白",
+    "Meridiannum": "jms_83",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_83"
+  },
+  "84": {
+    "ID": 84,
+    "name": "腰眼",
+    "Meridiannum": "jms_84",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_84"
+  },
+  "85": {
+    "ID": 85,
+    "name": "腰奇",
+    "Meridiannum": "jms_85",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_85"
+  },
+  "86": {
+    "ID": 86,
+    "name": "曲泉",
+    "Meridiannum": "jms_86",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_86"
+  },
+  "87": {
+    "ID": 87,
+    "name": "合阳",
+    "Meridiannum": "jms_87",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_87"
+  },
+  "88": {
+    "ID": 88,
+    "name": "气端",
+    "Meridiannum": "jms_88",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_88"
+  },
+  "89": {
+    "ID": 89,
+    "name": "涌泉",
+    "Meridiannum": "jms_89",
+    "Meridianlines": 0,
+    "Meridianball1": 0,
+    "Meridianball2": 0,
+    "Meridianball3": 0,
+    "Vibrationbutton": "jmn_89"
+  }
+}

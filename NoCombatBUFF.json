@@ -1,0 +1,15 @@
+{
+  "10001": {
+    "ID": 10001,
+    "remark": "测试 加攻效果",
+    "propertyId": 14,
+    "valueType": 2,
+    "value": 0.5,
+    "timeType": 1,
+    "time": 0,
+    "totalTime": 30,
+    "addRemove": 3,
+    "effectDialogue": 0,
+    "removeDialogue": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "3": {
+    "difficultyParameter": 3,
+    "speed": 10,
+    "firstSize": 20,
+    "secondSize": 10,
+    "firsExp": 4,
+    "secondExp": 2,
+    "thirdExp": 1,
+    "rareProbabilityAdd": 2,
+    "difficultyProbability": 0.6
+  },
+  "2": {
+    "difficultyParameter": 2,
+    "speed": 20,
+    "firstSize": 15,
+    "secondSize": 8,
+    "firsExp": 8,
+    "secondExp": 4,
+    "thirdExp": 2,
+    "rareProbabilityAdd": 5,
+    "difficultyProbability": 0.3
+  },
+  "1": {
+    "difficultyParameter": 1,
+    "speed": 30,
+    "firstSize": 10,
+    "secondSize": 5,
+    "firsExp": 16,
+    "secondExp": 8,
+    "thirdExp": 4,
+    "rareProbabilityAdd": 10,
+    "difficultyProbability": 0.1
+  }
+}

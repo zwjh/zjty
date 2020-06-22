@@ -1,0 +1,2922 @@
+{
+  "5000": {
+    "id": 5000,
+    "name": "重返人间",
+    "transmitRoomId": 10161,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9246,
+    "remark": "死亡地图返回无锡-土地庙"
+  },
+  "501": {
+    "id": 501,
+    "name": "【地窖】",
+    "transmitRoomId": 10101,
+    "preType": 1,
+    "preTypeNum": "10701",
+    "dialogue1": 9650,
+    "dialogue2": 601,
+    "remark": "封锁线 即将开放敬请期待"
+  },
+  "502": {
+    "id": 502,
+    "name": "【地窖2】",
+    "transmitRoomId": 10102,
+    "preType": 1,
+    "preTypeNum": "10103",
+    "dialogue1": 501,
+    "dialogue2": 601,
+    "remark": "完成10103后传"
+  },
+  "503": {
+    "id": 503,
+    "name": "【地窖3】",
+    "transmitRoomId": 10101,
+    "preType": 2,
+    "preTypeNum": "10103",
+    "dialogue1": 501,
+    "dialogue2": 601,
+    "remark": "完成10103后前"
+  },
+  "504": {
+    "id": 504,
+    "name": "【悬崖】",
+    "transmitRoomId": 10101,
+    "preType": 3,
+    "preTypeNum": "3,1,500",
+    "dialogue1": 502,
+    "dialogue2": 602,
+    "remark": "身法大于等于500"
+  },
+  "505": {
+    "id": 505,
+    "name": "【悬崖2】",
+    "transmitRoomId": 10101,
+    "preType": 4,
+    "preTypeNum": "2,1,60",
+    "dialogue1": 503,
+    "dialogue2": 603,
+    "remark": "衡山剑法大于等于60"
+  },
+  "506": {
+    "id": 506,
+    "name": "【出海】",
+    "transmitRoomId": 10102,
+    "preType": 5,
+    "preTypeNum": "3001,1,1",
+    "dialogue1": 504,
+    "dialogue2": 604,
+    "remark": "黑铁拳套"
+  },
+  "507": {
+    "id": 507,
+    "name": "【爬藤】",
+    "transmitRoomId": 10101,
+    "preType": 6,
+    "preTypeNum": "0,0",
+    "dialogue1": 505,
+    "dialogue2": 605,
+    "remark": "卸主副"
+  },
+  "508": {
+    "id": 508,
+    "name": "【爬藤2】",
+    "transmitRoomId": 10101,
+    "preType": 6,
+    "preTypeNum": "1,1",
+    "dialogue1": 505,
+    "dialogue2": 605,
+    "remark": "装主"
+  },
+  "509": {
+    "id": 509,
+    "name": "【爬藤3】",
+    "transmitRoomId": 10101,
+    "preType": 6,
+    "preTypeNum": "2,0",
+    "dialogue1": 505,
+    "dialogue2": 605,
+    "remark": "卸副"
+  },
+  "510": {
+    "id": 510,
+    "name": "【爬藤】",
+    "transmitRoomId": 10101,
+    "preType": 6,
+    "preTypeNum": "100,0",
+    "dialogue1": 505,
+    "dialogue2": 605,
+    "remark": 0
+  },
+  "511": {
+    "id": 511,
+    "name": "【进入暗道】",
+    "transmitRoomId": 10258,
+    "preType": 1,
+    "preTypeNum": "12202",
+    "dialogue1": 512,
+    "dialogue2": 635,
+    "remark": "10251【】102【】僻静小巷"
+  },
+  "512": {
+    "id": 512,
+    "name": "【离开暗道】",
+    "transmitRoomId": 10251,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10258【】102【】暗道入口"
+  },
+  "513": {
+    "id": 513,
+    "name": "【往西跳】",
+    "transmitRoomId": 10448,
+    "preType": 3,
+    "preTypeNum": "3,1,50",
+    "dialogue1": 614,
+    "dialogue2": 615,
+    "remark": "10449【】104【】桅杆绳梯 身法大于等于50"
+  },
+  "514": {
+    "id": 514,
+    "name": "【往东跳】",
+    "transmitRoomId": 10449,
+    "preType": 3,
+    "preTypeNum": "3,1,50",
+    "dialogue1": 614,
+    "dialogue2": 615,
+    "remark": "10448【】104【】桅杆绳梯西 身法大于等于50"
+  },
+  "515": {
+    "id": 515,
+    "name": "【往东跳】",
+    "transmitRoomId": 10450,
+    "preType": 3,
+    "preTypeNum": "3,1,50",
+    "dialogue1": 614,
+    "dialogue2": 615,
+    "remark": "10449【】104【】桅杆绳梯 身法大于等于50"
+  },
+  "516": {
+    "id": 516,
+    "name": "【往西跳】",
+    "transmitRoomId": 10449,
+    "preType": 3,
+    "preTypeNum": "3,1,50",
+    "dialogue1": 614,
+    "dialogue2": 615,
+    "remark": "10450【】104【】桅杆绳梯东 身法大于等于50"
+  },
+  "517": {
+    "id": 517,
+    "name": "【登萍渡水】",
+    "transmitRoomId": 10505,
+    "preType": 3,
+    "preTypeNum": "3,1,60",
+    "dialogue1": 616,
+    "dialogue2": 613,
+    "remark": "10501【】105【】兰泽 身法大于等于60"
+  },
+  "518": {
+    "id": 518,
+    "name": "【登萍渡沼】",
+    "transmitRoomId": 10501,
+    "preType": 3,
+    "preTypeNum": "3,1,60",
+    "dialogue1": 616,
+    "dialogue2": 613,
+    "remark": "10505【】105【】黑沼 身法大于等于60"
+  },
+  "519": {
+    "id": 519,
+    "name": "【浮出水面】",
+    "transmitRoomId": 10532,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 612,
+    "remark": "10531【】105【】瑶光潭底"
+  },
+  "520": {
+    "id": 520,
+    "name": "【潜水】",
+    "transmitRoomId": 10531,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 611,
+    "remark": "10532【】105【】瑶光潭"
+  },
+  "521": {
+    "id": 521,
+    "name": "【渡船】",
+    "transmitRoomId": 20123,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 617,
+    "remark": "20122【】201【】荆襄水道4"
+  },
+  "522": {
+    "id": 522,
+    "name": "【渡船】",
+    "transmitRoomId": 20122,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 617,
+    "remark": "20123【】201【】檀溪水道3"
+  },
+  "523": {
+    "id": 523,
+    "name": "【进入瀑布】",
+    "transmitRoomId": 20204,
+    "preType": 3,
+    "preTypeNum": "4,1,120",
+    "dialogue1": 619,
+    "dialogue2": 618,
+    "remark": "20203【】202【】一线瀑"
+  },
+  "524": {
+    "id": 524,
+    "name": "【出谷】",
+    "transmitRoomId": 20203,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "20204【】202【】绝情谷口"
+  },
+  "525": {
+    "id": 525,
+    "name": "【泅水】",
+    "transmitRoomId": 20213,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 632,
+    "remark": "20212【】202【】串珠潭"
+  },
+  "526": {
+    "id": 526,
+    "name": "【泅水】",
+    "transmitRoomId": 20212,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 632,
+    "remark": "20213【】202【】阴阳潭"
+  },
+  "527": {
+    "id": 527,
+    "name": "【跃下断崖】",
+    "transmitRoomId": 20244,
+    "preType": 3,
+    "preTypeNum": "3,1,120",
+    "dialogue1": 614,
+    "dialogue2": 620,
+    "remark": "20240【】202【】断肠崖"
+  },
+  "528": {
+    "id": 528,
+    "name": "【回到崖上】",
+    "transmitRoomId": 20240,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "20244【】202【】谷底寒潭"
+  },
+  "529": {
+    "id": 529,
+    "name": "【潜水】",
+    "transmitRoomId": 20316,
+    "preType": 3,
+    "preTypeNum": "3,13,10000",
+    "dialogue1": 639,
+    "dialogue2": 632,
+    "remark": "20306【】203【】冷泉 内力10000"
+  },
+  "530": {
+    "id": 530,
+    "name": "【潜水】",
+    "transmitRoomId": 20306,
+    "preType": 3,
+    "preTypeNum": "3,13,10000",
+    "dialogue1": 639,
+    "dialogue2": 632,
+    "remark": "20316【】203【】雪泉 内力10000"
+  },
+  "531": {
+    "id": 531,
+    "name": "【深入林间】",
+    "transmitRoomId": 20417,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 633,
+    "remark": "20412【】204【】沙果林"
+  },
+  "532": {
+    "id": 532,
+    "name": "【深入林间】",
+    "transmitRoomId": 20412,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 633,
+    "remark": "20417【】204【】槲林"
+  },
+  "533": {
+    "id": 533,
+    "name": "【离开地道】",
+    "transmitRoomId": 20522,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "20517【】205【】地道"
+  },
+  "534": {
+    "id": 534,
+    "name": "【探索机关】",
+    "transmitRoomId": 20517,
+    "preType": 3,
+    "preTypeNum": "4,1,120",
+    "dialogue1": 619,
+    "dialogue2": 622,
+    "remark": "20522【】205【】藏音馆"
+  },
+  "535": {
+    "id": 535,
+    "name": "【离开此地】",
+    "transmitRoomId": 20621,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "20615【】206【】洞穴深处"
+  },
+  "536": {
+    "id": 536,
+    "name": "【四下探查】",
+    "transmitRoomId": 20615,
+    "preType": 3,
+    "preTypeNum": "4,1,120",
+    "dialogue1": 619,
+    "dialogue2": 623,
+    "remark": "20621【】206【】无名洞穴"
+  },
+  "537": {
+    "id": 537,
+    "name": "【另辟蹊径】",
+    "transmitRoomId": 20645,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "20639【】206【】小路"
+  },
+  "538": {
+    "id": 538,
+    "name": "【另辟蹊径】",
+    "transmitRoomId": 20639,
+    "preType": 3,
+    "preTypeNum": "3,1,120",
+    "dialogue1": 614,
+    "dialogue2": 624,
+    "remark": "20645【】206【】回心岩 独孤九剑华山 身法120"
+  },
+  "539": {
+    "id": 539,
+    "name": "【矮柏丛】",
+    "transmitRoomId": 20714,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 634,
+    "remark": "20711【】207【】凌虚岩"
+  },
+  "540": {
+    "id": 540,
+    "name": "【矮柏丛】",
+    "transmitRoomId": 20711,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 634,
+    "remark": "20714【】207【】灵应岩"
+  },
+  "541": {
+    "id": 541,
+    "name": "【攀援长藤】",
+    "transmitRoomId": 20806,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 633,
+    "remark": "20805【】208【】冠剑峰"
+  },
+  "542": {
+    "id": 542,
+    "name": "【攀援长藤】",
+    "transmitRoomId": 20805,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 633,
+    "remark": "20806【】208【】桫椤林"
+  },
+  "543": {
+    "id": 543,
+    "name": "【飞流直下】",
+    "transmitRoomId": 20807,
+    "preType": 3,
+    "preTypeNum": "3,1,120",
+    "dialogue1": 614,
+    "dialogue2": 620,
+    "remark": "20812【】208【】无量玉璧"
+  },
+  "544": {
+    "id": 544,
+    "name": "【溯流而上】",
+    "transmitRoomId": 20812,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "20807【】208【】无量洞天"
+  },
+  "545": {
+    "id": 545,
+    "name": "【铁舟】",
+    "transmitRoomId": 20813,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 633,
+    "remark": "20809【】208【】玉笋峰"
+  },
+  "546": {
+    "id": 546,
+    "name": "【铁舟】",
+    "transmitRoomId": 20809,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 633,
+    "remark": "20813【】208【】抚仙湖"
+  },
+  "547": {
+    "id": 547,
+    "name": "【古藤】",
+    "transmitRoomId": 21110,
+    "preType": 3,
+    "preTypeNum": "3,1,120",
+    "dialogue1": 614,
+    "dialogue2": 620,
+    "remark": "21109【】211【】断崖 独孤九剑江湖 身法"
+  },
+  "548": {
+    "id": 548,
+    "name": "【回到崖上】",
+    "transmitRoomId": 21109,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "21110【】211【】崖底空地"
+  },
+  "549": {
+    "id": 549,
+    "name": "【四下探查】",
+    "transmitRoomId": 21119,
+    "preType": 3,
+    "preTypeNum": "4,1,100",
+    "dialogue1": 619,
+    "dialogue2": 623,
+    "remark": "21118【】211【】崖底空地4 独孤九剑江湖 福缘"
+  },
+  "550": {
+    "id": 550,
+    "name": "【离开山洞】",
+    "transmitRoomId": 21118,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "21119【】211【】山洞"
+  },
+  "551": {
+    "id": 551,
+    "name": "【四下探查】",
+    "transmitRoomId": 21320,
+    "preType": 3,
+    "preTypeNum": "4,1,100",
+    "dialogue1": 619,
+    "dialogue2": 623,
+    "remark": "21319【】213【】楼兰遗址"
+  },
+  "552": {
+    "id": 552,
+    "name": "【离开此地】",
+    "transmitRoomId": 21319,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "21320【】213【】楼兰宝藏"
+  },
+  "553": {
+    "id": 553,
+    "name": "【四下探查】",
+    "transmitRoomId": 21532,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 622,
+    "remark": "21525【】215【】杨不悔居"
+  },
+  "554": {
+    "id": 554,
+    "name": "【离开密道】",
+    "transmitRoomId": 21525,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "21532【】215【】明教密道"
+  },
+  "555": {
+    "id": 555,
+    "name": "【观察地势】",
+    "transmitRoomId": 21536,
+    "preType": 3,
+    "preTypeNum": "3,1,120",
+    "dialogue1": 614,
+    "dialogue2": 624,
+    "remark": "21535【】215【】高山菊坡2"
+  },
+  "556": {
+    "id": 556,
+    "name": "【回到菊坡】",
+    "transmitRoomId": 21535,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "21536【】215【】峭壁空地"
+  },
+  "557": {
+    "id": 557,
+    "name": "【离开山洞】",
+    "transmitRoomId": 21536,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "21528【】215【】山洞密径"
+  },
+  "558": {
+    "id": 558,
+    "name": "【搜索崖壁】",
+    "transmitRoomId": 21528,
+    "preType": 3,
+    "preTypeNum": "8,2,16",
+    "dialogue1": 626,
+    "dialogue2": 625,
+    "remark": "21536【】215【】峭壁空地 年龄"
+  },
+  "559": {
+    "id": 559,
+    "name": "香玉亭A1",
+    "transmitRoomId": 10712,
+    "preType": 2,
+    "preTypeNum": "20713",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10712【】107【】香玉亭A1"
+  },
+  "560": {
+    "id": 560,
+    "name": "照妆亭A2",
+    "transmitRoomId": 10713,
+    "preType": 2,
+    "preTypeNum": "20721",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10713【】107【】照妆亭A2/F1"
+  },
+  "561": {
+    "id": 561,
+    "name": "灿美堂B1",
+    "transmitRoomId": 10714,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10714【】107【】灿美堂B1"
+  },
+  "562": {
+    "id": 562,
+    "name": "舒啸台E2",
+    "transmitRoomId": 10718,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10718【】107【】舒啸台E2"
+  },
+  "563": {
+    "id": 563,
+    "name": "此君亭F2",
+    "transmitRoomId": 10722,
+    "preType": 1,
+    "preTypeNum": "20713",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10722【】107【】此君亭F2/G1"
+  },
+  "595": {
+    "id": 595,
+    "name": "照妆亭A2/F1",
+    "transmitRoomId": 10713,
+    "preType": 1,
+    "preTypeNum": "20713",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10713【】107【】照妆亭A2/F1"
+  },
+  "596": {
+    "id": 596,
+    "name": "此君亭F2/G1",
+    "transmitRoomId": 10722,
+    "preType": 1,
+    "preTypeNum": "20713",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10722【】107【】此君亭F2/G1"
+  },
+  "564": {
+    "id": 564,
+    "name": "凌寒亭B2",
+    "transmitRoomId": 10723,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10723【】107【】凌寒亭B2/C1"
+  },
+  "597": {
+    "id": 597,
+    "name": "凌寒亭B2/C1",
+    "transmitRoomId": 10723,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10723【】107【】凌寒亭B2/C1"
+  },
+  "565": {
+    "id": 565,
+    "name": "鱼乐亭G2",
+    "transmitRoomId": 10725,
+    "preType": 1,
+    "preTypeNum": "20713",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10725【】107【】鱼乐亭G2"
+  },
+  "566": {
+    "id": 566,
+    "name": "垂纶亭C2",
+    "transmitRoomId": 10726,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10726【】107【】垂纶亭C2"
+  },
+  "567": {
+    "id": 567,
+    "name": "会景堂D2",
+    "transmitRoomId": 10729,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10729【】107【】会景堂D2"
+  },
+  "568": {
+    "id": 568,
+    "name": "凌穹亭E1",
+    "transmitRoomId": 10730,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10730【】107【】凌穹亭E1"
+  },
+  "569": {
+    "id": 569,
+    "name": "泛羽亭H1",
+    "transmitRoomId": 10732,
+    "preType": 1,
+    "preTypeNum": "17504",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10732【】107【】泛羽亭H1"
+  },
+  "570": {
+    "id": 570,
+    "name": "博雅书楼D1",
+    "transmitRoomId": 10736,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10736【】107【】博雅书楼D1"
+  },
+  "571": {
+    "id": 571,
+    "name": "白龙沂H2",
+    "transmitRoomId": 10739,
+    "preType": 1,
+    "preTypeNum": "17504",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10739【】107【】白龙沂H2"
+  },
+  "572": {
+    "id": 572,
+    "name": "圜山亭J2",
+    "transmitRoomId": 10743,
+    "preType": 1,
+    "preTypeNum": "17508",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10743【】107【】圜山亭J2"
+  },
+  "573": {
+    "id": 573,
+    "name": "蟠秀亭I1",
+    "transmitRoomId": 10745,
+    "preType": 1,
+    "preTypeNum": "17506",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10745【】107【】蟠秀亭I1"
+  },
+  "574": {
+    "id": 574,
+    "name": "雪浪亭I2",
+    "transmitRoomId": 10749,
+    "preType": 1,
+    "preTypeNum": "17506",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10749【】107【】雪浪亭I2"
+  },
+  "575": {
+    "id": 575,
+    "name": "浮阳亭J1",
+    "transmitRoomId": 10753,
+    "preType": 1,
+    "preTypeNum": "17508",
+    "dialogue1": 638,
+    "dialogue2": 0,
+    "remark": "10753【】107【】浮阳亭J1"
+  },
+  "576": {
+    "id": 576,
+    "name": "晶珠潭",
+    "transmitRoomId": 10812,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10812【】108【】晶珠潭"
+  },
+  "577": {
+    "id": 577,
+    "name": "水帘洞",
+    "transmitRoomId": 10818,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10818【】108【】水帘洞"
+  },
+  "578": {
+    "id": 578,
+    "name": "泻玉峡",
+    "transmitRoomId": 10826,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10826【】108【】泻玉峡"
+  },
+  "579": {
+    "id": 579,
+    "name": "折梅瀑",
+    "transmitRoomId": 10829,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10829【】108【】折梅瀑"
+  },
+  "580": {
+    "id": 580,
+    "name": "东偏院A2",
+    "transmitRoomId": 10846,
+    "preType": 1,
+    "preTypeNum": "20822",
+    "dialogue1": 619,
+    "dialogue2": 0,
+    "remark": "10846【】108【】东偏院A2"
+  },
+  "581": {
+    "id": 581,
+    "name": "暗道A1",
+    "transmitRoomId": 10847,
+    "preType": 1,
+    "preTypeNum": "20822",
+    "dialogue1": 619,
+    "dialogue2": 0,
+    "remark": "10847【】108【】暗道A1"
+  },
+  "582": {
+    "id": 582,
+    "name": "别鹤汀",
+    "transmitRoomId": 10865,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10865【】108【】别鹤汀"
+  },
+  "583": {
+    "id": 583,
+    "name": "蓝桥",
+    "transmitRoomId": 10872,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10872【】108【】蓝桥"
+  },
+  "584": {
+    "id": 584,
+    "name": "石室2 a1",
+    "transmitRoomId": 10892,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10892【】108【】石室2 a1"
+  },
+  "585": {
+    "id": 585,
+    "name": "甬道3 a2",
+    "transmitRoomId": 10893,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10893【】108【】甬道3 a2"
+  },
+  "586": {
+    "id": 586,
+    "name": "碧波潭",
+    "transmitRoomId": 10913,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10913【】109【】碧波潭"
+  },
+  "587": {
+    "id": 587,
+    "name": "潭深处",
+    "transmitRoomId": 10920,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10920【】109【】潭深处"
+  },
+  "588": {
+    "id": 588,
+    "name": "潭底岩洞A1",
+    "transmitRoomId": 10926,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10926【】109【】潭底岩洞A1"
+  },
+  "589": {
+    "id": 589,
+    "name": "清溪岩洞A2",
+    "transmitRoomId": 10937,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "10937【】109【】清溪岩洞A2"
+  },
+  "590": {
+    "id": 590,
+    "name": "菜园B2",
+    "transmitRoomId": 11035,
+    "preType": 1,
+    "preTypeNum": "21017",
+    "dialogue1": 619,
+    "dialogue2": 633,
+    "remark": "11035【】110【】菜园B2"
+  },
+  "591": {
+    "id": 591,
+    "name": "艮岳遗址B1",
+    "transmitRoomId": 11042,
+    "preType": 1,
+    "preTypeNum": "21017",
+    "dialogue1": 619,
+    "dialogue2": 633,
+    "remark": "11042【】110【】艮岳遗址B1"
+  },
+  "592": {
+    "id": 592,
+    "name": "太清观A1",
+    "transmitRoomId": 11043,
+    "preType": 1,
+    "preTypeNum": "21009",
+    "dialogue1": 619,
+    "dialogue2": 633,
+    "remark": "11043【】110【】太清观A1"
+  },
+  "593": {
+    "id": 593,
+    "name": "花亭A2",
+    "transmitRoomId": 11050,
+    "preType": 1,
+    "preTypeNum": "21009",
+    "dialogue1": 619,
+    "dialogue2": 633,
+    "remark": "11050【】110【】花亭A2"
+  },
+  "594": {
+    "id": 594,
+    "name": "【渡河泅水】",
+    "transmitRoomId": 20004,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 3170,
+    "remark": "20003 200 浅滩"
+  },
+  "5001": {
+    "id": 5001,
+    "name": "【翻墙】",
+    "transmitRoomId": 10101,
+    "preType": 5,
+    "preTypeNum": "4041,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3433,
+    "remark": "西大街【翻墙】平安巷|无锡"
+  },
+  "5002": {
+    "id": 5002,
+    "name": "【敲打墙壁】",
+    "transmitRoomId": 10118,
+    "preType": 5,
+    "preTypeNum": "4042,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3434,
+    "remark": "书斋【敲打墙壁】暗室|无锡"
+  },
+  "5003": {
+    "id": 5003,
+    "name": "【深入草径】",
+    "transmitRoomId": 10270,
+    "preType": 5,
+    "preTypeNum": "4043,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3435,
+    "remark": "西南近郊【深入草径】鬼枫林|姑苏"
+  },
+  "5004": {
+    "id": 5004,
+    "name": "【穿林】",
+    "transmitRoomId": 10275,
+    "preType": 5,
+    "preTypeNum": "4044,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3436,
+    "remark": "幽谷【穿林】茅屋|姑苏"
+  },
+  "5005": {
+    "id": 5005,
+    "name": "【盗墓】",
+    "transmitRoomId": 10302,
+    "preType": 5,
+    "preTypeNum": "4045,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3437,
+    "remark": "乱葬岗2【盗墓】将军冢|扬州"
+  },
+  "5006": {
+    "id": 5006,
+    "name": "【深入草径】",
+    "transmitRoomId": 10350,
+    "preType": 5,
+    "preTypeNum": "4046,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3438,
+    "remark": "泉台径2【深入草径】迷踪林|扬州"
+  },
+  "5007": {
+    "id": 5007,
+    "name": "【敲打船板】",
+    "transmitRoomId": 10433,
+    "preType": 5,
+    "preTypeNum": "4047,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3439,
+    "remark": "甲板僻静处【敲打船板】小仓|夜航船"
+  },
+  "5008": {
+    "id": 5008,
+    "name": "【扒开藤蔓】",
+    "transmitRoomId": 10550,
+    "preType": 5,
+    "preTypeNum": "4048,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3440,
+    "remark": "白沙海岸【扒开藤蔓】白沙洞|桃花岛"
+  },
+  "5009": {
+    "id": 5009,
+    "name": "【扒开藤蔓】",
+    "transmitRoomId": 10601,
+    "preType": 5,
+    "preTypeNum": "4049,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3441,
+    "remark": "飞来峰【扒开藤蔓】佛光洞|临安"
+  },
+  "5010": {
+    "id": 5010,
+    "name": "【跳上阁楼】",
+    "transmitRoomId": 10720,
+    "preType": 5,
+    "preTypeNum": "4050,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3442,
+    "remark": "云涛观【跳上阁楼】小阁|大内"
+  },
+  "5011": {
+    "id": 5011,
+    "name": "【泅水探索】",
+    "transmitRoomId": 10848,
+    "preType": 5,
+    "preTypeNum": "4051,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3443,
+    "remark": "沉金峡【泅水探索】枕石洞|丽水龙泉"
+  },
+  "5012": {
+    "id": 5012,
+    "name": "【泅水探索】",
+    "transmitRoomId": 10884,
+    "preType": 5,
+    "preTypeNum": "4052,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3444,
+    "remark": "降仙渚【泅水探索】琳洲|丽水龙泉"
+  },
+  "5013": {
+    "id": 5013,
+    "name": "【深入草径】",
+    "transmitRoomId": 10976,
+    "preType": 5,
+    "preTypeNum": "4053,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3445,
+    "remark": "西南径【深入草径】小西天|少林寺"
+  },
+  "5014": {
+    "id": 5014,
+    "name": "【深入竹林】",
+    "transmitRoomId": 10979,
+    "preType": 5,
+    "preTypeNum": "4054,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3446,
+    "remark": "竹林2【深入竹林】竹林深处|少林寺"
+  },
+  "5015": {
+    "id": 5015,
+    "name": "【跳河】",
+    "transmitRoomId": 11046,
+    "preType": 5,
+    "preTypeNum": "4055,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3447,
+    "remark": "景龙门桥【跳河】暗河水道|汴梁"
+  },
+  "5016": {
+    "id": 5016,
+    "name": "【寻找密道】",
+    "transmitRoomId": 11059,
+    "preType": 5,
+    "preTypeNum": "4056,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3448,
+    "remark": "西榆林巷【寻找密道】地道|汴梁"
+  },
+  "5017": {
+    "id": 5017,
+    "name": "【泅水探索】",
+    "transmitRoomId": 20115,
+    "preType": 5,
+    "preTypeNum": "4057,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3449,
+    "remark": "檀溪水道【泅水探索】檀溪暗河|襄阳城外"
+  },
+  "5018": {
+    "id": 5018,
+    "name": "【钻洞】",
+    "transmitRoomId": 20125,
+    "preType": 5,
+    "preTypeNum": "4058,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3450,
+    "remark": "野径2【钻洞】地穴|襄阳城外"
+  },
+  "5019": {
+    "id": 5019,
+    "name": "【深入密林】",
+    "transmitRoomId": 20222,
+    "preType": 5,
+    "preTypeNum": "4059,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3451,
+    "remark": "邙山道2【深入密林】不归林|关洛群山"
+  },
+  "5020": {
+    "id": 5020,
+    "name": "【泅水探索】",
+    "transmitRoomId": 20241,
+    "preType": 5,
+    "preTypeNum": "4060,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3452,
+    "remark": "阶瀑潭【泅水探索】潭底石穴|关洛群山"
+  },
+  "5021": {
+    "id": 5021,
+    "name": "【深入雪谷】",
+    "transmitRoomId": 20326,
+    "preType": 5,
+    "preTypeNum": "4061,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3453,
+    "remark": "雪谷【深入雪谷】雪窠|天山山脉"
+  },
+  "5022": {
+    "id": 5022,
+    "name": "【深入谷地】",
+    "transmitRoomId": 20323,
+    "preType": 5,
+    "preTypeNum": "4062,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3454,
+    "remark": "玉水谷地【深入谷地】玉水洞天|天山山脉"
+  },
+  "5023": {
+    "id": 5023,
+    "name": "【深入草径】",
+    "transmitRoomId": 20402,
+    "preType": 5,
+    "preTypeNum": "4063,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3455,
+    "remark": "七盘井【深入草径】矿洞|关外"
+  },
+  "5024": {
+    "id": 5024,
+    "name": "【轻叩墙壁】",
+    "transmitRoomId": 20510,
+    "preType": 5,
+    "preTypeNum": "4064,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3456,
+    "remark": "黑白轩【轻叩墙壁】暗室|西湖梅庄"
+  },
+  "5025": {
+    "id": 5025,
+    "name": "【攀岩】",
+    "transmitRoomId": 20641,
+    "preType": 5,
+    "preTypeNum": "4065,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3457,
+    "remark": "百尺崖【攀岩】崖壁洞穴|华山"
+  },
+  "5026": {
+    "id": 5026,
+    "name": "【深入峡谷】",
+    "transmitRoomId": 20634,
+    "preType": 5,
+    "preTypeNum": "4066,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3458,
+    "remark": "百丈峡【深入峡谷】峡底空地|华山"
+  },
+  "5027": {
+    "id": 5027,
+    "name": "【泅水探索】",
+    "transmitRoomId": 20731,
+    "preType": 5,
+    "preTypeNum": "4067,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3459,
+    "remark": "二龙戏珠【泅水探索】毒龙险滩|武当山"
+  },
+  "5028": {
+    "id": 5028,
+    "name": "【四处走走】",
+    "transmitRoomId": 20724,
+    "preType": 5,
+    "preTypeNum": "4068,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3460,
+    "remark": "鬼谷子涧【四处走走】涧底茅屋|武当山"
+  },
+  "5029": {
+    "id": 5029,
+    "name": "【四处走走】",
+    "transmitRoomId": 20825,
+    "preType": 5,
+    "preTypeNum": "4069,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3461,
+    "remark": "麒麟谷【四处走走】麒麟洞|无量山"
+  },
+  "5030": {
+    "id": 5030,
+    "name": "【四处走走】",
+    "transmitRoomId": 20811,
+    "preType": 5,
+    "preTypeNum": "4070,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3462,
+    "remark": "青石峰【四处走走】山居|无量山"
+  },
+  "5031": {
+    "id": 5031,
+    "name": "【深入竹林】",
+    "transmitRoomId": 20906,
+    "preType": 5,
+    "preTypeNum": "4071,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3463,
+    "remark": "竹林2【深入竹林】隐龙窟|君山"
+  },
+  "5032": {
+    "id": 5032,
+    "name": "【敲打洞壁】",
+    "transmitRoomId": 20904,
+    "preType": 5,
+    "preTypeNum": "4072,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3464,
+    "remark": "猴子洞【敲打洞壁】藏果洞|君山"
+  },
+  "5033": {
+    "id": 5033,
+    "name": "【攀岩】",
+    "transmitRoomId": 21015,
+    "preType": 5,
+    "preTypeNum": "4073,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3465,
+    "remark": "悬松岩【攀岩】岩缝洞穴|黑木崖"
+  },
+  "5034": {
+    "id": 5034,
+    "name": "【深入密林】",
+    "transmitRoomId": 21022,
+    "preType": 5,
+    "preTypeNum": "4074,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3466,
+    "remark": "翠屏峰【深入密林】山居|黑木崖"
+  },
+  "5035": {
+    "id": 5035,
+    "name": "【跳下山坡】",
+    "transmitRoomId": 21103,
+    "preType": 5,
+    "preTypeNum": "4075,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3467,
+    "remark": "倒马坪【跳下山坡】堕马坡|太行山脉"
+  },
+  "5036": {
+    "id": 5036,
+    "name": "【泅水探索】",
+    "transmitRoomId": 21128,
+    "preType": 5,
+    "preTypeNum": "4076,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3468,
+    "remark": "清溪【泅水探索】清溪谷地|太行山脉"
+  },
+  "5037": {
+    "id": 5037,
+    "name": "【深入密林】",
+    "transmitRoomId": 21240,
+    "preType": 5,
+    "preTypeNum": "4077,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3469,
+    "remark": "林海2【深入密林】知返林|长白山脉"
+  },
+  "5038": {
+    "id": 5038,
+    "name": "【深入迷宫】",
+    "transmitRoomId": 21301,
+    "preType": 5,
+    "preTypeNum": "4078,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3470,
+    "remark": "高昌迷宫【深入迷宫】高昌迷宫2|西域"
+  },
+  "5039": {
+    "id": 5039,
+    "name": "【四处走走】",
+    "transmitRoomId": 21342,
+    "preType": 5,
+    "preTypeNum": "4079,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3471,
+    "remark": "边海子【四处走走】迷海子|西域"
+  },
+  "5040": {
+    "id": 5040,
+    "name": "【轻叩墙壁】",
+    "transmitRoomId": 21403,
+    "preType": 5,
+    "preTypeNum": "4080,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3472,
+    "remark": "重阳宫【轻叩墙壁】静室|终南山"
+  },
+  "5041": {
+    "id": 5041,
+    "name": "【深入草径】",
+    "transmitRoomId": 21426,
+    "preType": 5,
+    "preTypeNum": "4081,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3473,
+    "remark": "终南山道3【深入草径】火洞|终南山"
+  },
+  "5042": {
+    "id": 5042,
+    "name": "【钻洞】",
+    "transmitRoomId": 21545,
+    "preType": 5,
+    "preTypeNum": "4082,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3474,
+    "remark": "昆仑山道2【钻洞】土洞|昆仑山脉"
+  },
+  "5043": {
+    "id": 5043,
+    "name": "【钻洞】",
+    "transmitRoomId": 21516,
+    "preType": 5,
+    "preTypeNum": "4083,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3475,
+    "remark": "紫花针茅林【钻洞】岩缝|昆仑山脉"
+  },
+  "5044": {
+    "id": 5044,
+    "name": "【寻找密道】",
+    "transmitRoomId": 21613,
+    "preType": 5,
+    "preTypeNum": "4084,1,1",
+    "dialogue1": 608,
+    "dialogue2": 3476,
+    "remark": "北城墙2【寻找密道】地道|襄阳城"
+  },
+  "5045": {
+    "id": 5045,
+    "name": "【离开这里】",
+    "transmitRoomId": 10107,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "西大街【翻墙】平安巷|无锡【】"
+  },
+  "5046": {
+    "id": 5046,
+    "name": "【离开这里】",
+    "transmitRoomId": 10119,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "书斋【敲打墙壁】暗室|无锡"
+  },
+  "5047": {
+    "id": 5047,
+    "name": "【离开这里】",
+    "transmitRoomId": 10265,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "西南近郊【深入草径】鬼枫林|姑苏"
+  },
+  "5048": {
+    "id": 5048,
+    "name": "【离开这里】",
+    "transmitRoomId": 10274,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "幽谷【穿林】茅屋|姑苏"
+  },
+  "5049": {
+    "id": 5049,
+    "name": "【离开这里】",
+    "transmitRoomId": 10301,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "乱葬岗2【盗墓】将军冢|扬州"
+  },
+  "5050": {
+    "id": 5050,
+    "name": "【离开这里】",
+    "transmitRoomId": 10358,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "泉台径2【深入草径】迷踪林|扬州"
+  },
+  "5051": {
+    "id": 5051,
+    "name": "【离开这里】",
+    "transmitRoomId": 10432,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "甲板僻静处【敲打船板】小仓|夜航船"
+  },
+  "5052": {
+    "id": 5052,
+    "name": "【离开这里】",
+    "transmitRoomId": 10551,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "白沙海岸【扒开藤蔓】白沙洞|桃花岛"
+  },
+  "5053": {
+    "id": 5053,
+    "name": "【离开这里】",
+    "transmitRoomId": 10606,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "飞来峰【扒开藤蔓】佛光洞|临安"
+  },
+  "5054": {
+    "id": 5054,
+    "name": "【离开这里】",
+    "transmitRoomId": 10717,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "云涛观【跳上阁楼】小阁|大内"
+  },
+  "5055": {
+    "id": 5055,
+    "name": "【离开这里】",
+    "transmitRoomId": 10840,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "沉金峡【泅水探索】枕石洞|丽水龙泉"
+  },
+  "5056": {
+    "id": 5056,
+    "name": "【离开这里】",
+    "transmitRoomId": 10879,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "降仙渚【泅水探索】琳洲|丽水龙泉"
+  },
+  "5057": {
+    "id": 5057,
+    "name": "【离开这里】",
+    "transmitRoomId": 10971,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "西南径【深入草径】小西天|少林寺"
+  },
+  "5058": {
+    "id": 5058,
+    "name": "【离开这里】",
+    "transmitRoomId": 10975,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "竹林2【深入竹林】竹林深处|少林寺"
+  },
+  "5059": {
+    "id": 5059,
+    "name": "【离开这里】",
+    "transmitRoomId": 11039,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "景龙门桥【跳河】暗河水道|汴梁"
+  },
+  "5060": {
+    "id": 5060,
+    "name": "【离开这里】",
+    "transmitRoomId": 11060,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "西榆林巷【寻找密道】地道|汴梁"
+  },
+  "5061": {
+    "id": 5061,
+    "name": "【离开这里】",
+    "transmitRoomId": 20114,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "檀溪水道【泅水探索】檀溪暗河|襄阳城外"
+  },
+  "5062": {
+    "id": 5062,
+    "name": "【离开这里】",
+    "transmitRoomId": 20124,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "野径2【钻洞】地穴|襄阳城外"
+  },
+  "5063": {
+    "id": 5063,
+    "name": "【离开这里】",
+    "transmitRoomId": 20216,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "邙山道2【深入密林】不归林|关洛群山"
+  },
+  "5064": {
+    "id": 5064,
+    "name": "【离开这里】",
+    "transmitRoomId": 20242,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "阶瀑潭【泅水探索】潭底石穴|关洛群山"
+  },
+  "5065": {
+    "id": 5065,
+    "name": "【离开这里】",
+    "transmitRoomId": 20324,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "雪谷【深入雪谷】雪窠|天山山脉"
+  },
+  "5066": {
+    "id": 5066,
+    "name": "【离开这里】",
+    "transmitRoomId": 20319,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "玉水谷地【深入谷地】玉水洞天|天山山脉"
+  },
+  "5067": {
+    "id": 5067,
+    "name": "【离开这里】",
+    "transmitRoomId": 20408,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "七盘井【深入草径】矿洞|关外"
+  },
+  "5068": {
+    "id": 5068,
+    "name": "【离开这里】",
+    "transmitRoomId": 20509,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "黑白轩【轻叩墙壁】暗室|西湖梅庄"
+  },
+  "5069": {
+    "id": 5069,
+    "name": "【离开这里】",
+    "transmitRoomId": 20640,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "百尺崖【攀岩】崖壁洞穴|华山"
+  },
+  "5070": {
+    "id": 5070,
+    "name": "【离开这里】",
+    "transmitRoomId": 20633,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "百丈峡【深入峡谷】峡底空地|华山"
+  },
+  "5071": {
+    "id": 5071,
+    "name": "【离开这里】",
+    "transmitRoomId": 20730,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "二龙戏珠【泅水探索】毒龙险滩|武当山"
+  },
+  "5072": {
+    "id": 5072,
+    "name": "【离开这里】",
+    "transmitRoomId": 20723,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "鬼谷子涧【四处走走】涧底茅屋|武当山"
+  },
+  "5073": {
+    "id": 5073,
+    "name": "【离开这里】",
+    "transmitRoomId": 20824,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "麒麟谷【四处走走】麒麟洞|无量山"
+  },
+  "5074": {
+    "id": 5074,
+    "name": "【离开这里】",
+    "transmitRoomId": 20815,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "青石峰【四处走走】山居|无量山"
+  },
+  "5075": {
+    "id": 5075,
+    "name": "【离开这里】",
+    "transmitRoomId": 20910,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "竹林2【深入竹林】隐龙窟|君山"
+  },
+  "5076": {
+    "id": 5076,
+    "name": "【离开这里】",
+    "transmitRoomId": 20907,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "猴子洞【敲打洞壁】藏果洞|君山"
+  },
+  "5077": {
+    "id": 5077,
+    "name": "【离开这里】",
+    "transmitRoomId": 21020,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "悬松岩【攀岩】岩缝洞穴|黑木崖"
+  },
+  "5078": {
+    "id": 5078,
+    "name": "【离开这里】",
+    "transmitRoomId": 21019,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "翠屏峰【深入密林】山居|黑木崖"
+  },
+  "5079": {
+    "id": 5079,
+    "name": "【离开这里】",
+    "transmitRoomId": 21105,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "倒马坪【跳下山坡】堕马坡|太行山脉"
+  },
+  "5080": {
+    "id": 5080,
+    "name": "【离开这里】",
+    "transmitRoomId": 21127,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "清溪【泅水探索】清溪谷地|太行山脉"
+  },
+  "5081": {
+    "id": 5081,
+    "name": "【离开这里】",
+    "transmitRoomId": 21235,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "林海2【深入密林】知返林|长白山脉"
+  },
+  "5082": {
+    "id": 5082,
+    "name": "【离开这里】",
+    "transmitRoomId": 21302,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "高昌迷宫【深入迷宫】高昌迷宫2|西域"
+  },
+  "5083": {
+    "id": 5083,
+    "name": "【离开这里】",
+    "transmitRoomId": 21336,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "边海子【四处走走】迷海子|西域"
+  },
+  "5084": {
+    "id": 5084,
+    "name": "【离开这里】",
+    "transmitRoomId": 21406,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "重阳宫【轻叩墙壁】静室|终南山"
+  },
+  "5085": {
+    "id": 5085,
+    "name": "【离开这里】",
+    "transmitRoomId": 21425,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "终南山道3【深入草径】火洞|终南山"
+  },
+  "5086": {
+    "id": 5086,
+    "name": "【离开这里】",
+    "transmitRoomId": 21546,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "昆仑山道2【钻洞】土洞|昆仑山脉"
+  },
+  "5087": {
+    "id": 5087,
+    "name": "【离开这里】",
+    "transmitRoomId": 21508,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "紫花针茅林【钻洞】岩缝|昆仑山脉"
+  },
+  "5088": {
+    "id": 5088,
+    "name": "【离开这里】",
+    "transmitRoomId": 21606,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "北城墙2【寻找密道】地道|襄阳城"
+  },
+  "5089": {
+    "id": 5089,
+    "name": "武器重铸",
+    "transmitRoomId": 10106,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡1|铁匠铺|铸剑师干将 武器1"
+  },
+  "5090": {
+    "id": 5090,
+    "name": "基础炼丹",
+    "transmitRoomId": 10109,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡1|东大街|炼丹炉（NPC）"
+  },
+  "5091": {
+    "id": 5091,
+    "name": "藏宝购买",
+    "transmitRoomId": 10122,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡|城南门|藏宝图商人 低级宝图"
+  },
+  "5092": {
+    "id": 5092,
+    "name": "抓贼任务",
+    "transmitRoomId": 10127,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡|城南近郊|老捕快，模拟宝图任务"
+  },
+  "5093": {
+    "id": 5093,
+    "name": "读书识字",
+    "transmitRoomId": 10112,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡|书阁|书商，买书1"
+  },
+  "5094": {
+    "id": 5094,
+    "name": "文房四宝",
+    "transmitRoomId": 10119,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡|书斋|落魄书生，买笔"
+  },
+  "5095": {
+    "id": 5095,
+    "name": "古籍收藏",
+    "transmitRoomId": 10113,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "无锡|太湖书院|古籍收藏家，书1"
+  },
+  "5096": {
+    "id": 5096,
+    "name": "【离开这里】",
+    "transmitRoomId": 50901,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "少林|少林内廷|返回少林大厅用"
+  },
+  "5097": {
+    "id": 5097,
+    "name": "【离开这里】",
+    "transmitRoomId": 10958,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "少林|藏经阁|返回少林藏经阁(房间)用"
+  },
+  "5098": {
+    "id": 5098,
+    "name": "【深入经藏】",
+    "transmitRoomId": 31420,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 9457,
+    "dialogue2": 0,
+    "remark": "少林|藏经阁|进入藏经阁(地图)用"
+  },
+  "5099": {
+    "id": 5099,
+    "name": "【剑术精进】",
+    "transmitRoomId": 31602,
+    "preType": 4,
+    "preTypeNum": "215,1,500",
+    "dialogue1": 627,
+    "dialogue2": 636,
+    "remark": "雪谷深坳1|狄云1身上往深坳2传送|学习新技能"
+  },
+  "5100": {
+    "id": 5100,
+    "name": "【剑术精进】",
+    "transmitRoomId": 31603,
+    "preType": 5,
+    "preTypeNum": "900,1,1",
+    "dialogue1": 9426,
+    "dialogue2": 637,
+    "remark": "雪谷深坳2|狄云2身上往深坳3传送|学习新技能【216,1,500|628|637】"
+  },
+  "5101": {
+    "id": 5101,
+    "name": "【前往五戒门】",
+    "transmitRoomId": 31510,
+    "preType": 4,
+    "preTypeNum": "118,1,100",
+    "dialogue1": 629,
+    "dialogue2": 0,
+    "remark": "少林寺掌门|前往五戒门"
+  },
+  "5102": {
+    "id": 5102,
+    "name": "【前往空】",
+    "transmitRoomId": 31511,
+    "preType": 4,
+    "preTypeNum": "119,1,100",
+    "dialogue1": 630,
+    "dialogue2": 0,
+    "remark": "少林寺掌门|前往空门"
+  },
+  "5103": {
+    "id": 5103,
+    "name": "【前往净心门】",
+    "transmitRoomId": 31512,
+    "preType": 4,
+    "preTypeNum": "119,1,100",
+    "dialogue1": 630,
+    "dialogue2": 0,
+    "remark": "少林寺掌门|前往净心门"
+  },
+  "5104": {
+    "id": 5104,
+    "name": "【前往遗迹洞穴】",
+    "transmitRoomId": 60244,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "爬塔|前往遗迹洞穴 7层"
+  },
+  "5105": {
+    "id": 5105,
+    "name": "【前往木人巷】",
+    "transmitRoomId": 60173,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "爬塔|前往木人巷 9层"
+  },
+  "5106": {
+    "id": 5106,
+    "name": "【前往武神塔】",
+    "transmitRoomId": 50095,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "爬塔|前往武神塔 11层"
+  },
+  "5107": {
+    "id": 5107,
+    "name": "【继续深入】",
+    "transmitRoomId": 31601,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "天山-雪谷深坳-传送至雪谷深坳1狄云1"
+  },
+  "5108": {
+    "id": 5108,
+    "name": "【离开这里】",
+    "transmitRoomId": 20330,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "天山-雪谷深坳123-传出至雪谷深坳"
+  },
+  "5109": {
+    "id": 5109,
+    "name": "测试",
+    "transmitRoomId": 80102,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "副本测试"
+  },
+  "5110": {
+    "id": 5110,
+    "name": "测试",
+    "transmitRoomId": 80103,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "副本测试"
+  },
+  "5111": {
+    "id": 5111,
+    "name": "测试",
+    "transmitRoomId": 80105,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "副本测试"
+  },
+  "5112": {
+    "id": 5112,
+    "name": "黑木崖副本进入",
+    "transmitRoomId": 81121,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "黑木崖-去天尺五 NPC身上【封锁线2 10117 9650"
+  },
+  "598": {
+    "id": 598,
+    "name": "武当派小径",
+    "transmitRoomId": 20708,
+    "preType": 7,
+    "preTypeNum": "5_8_9",
+    "dialogue1": 9498,
+    "dialogue2": 0,
+    "remark": "武当山【猕猴谷-下观"
+  },
+  "599": {
+    "id": 599,
+    "name": "神教小径",
+    "transmitRoomId": 21002,
+    "preType": 7,
+    "preTypeNum": "14",
+    "dialogue1": 9497,
+    "dialogue2": 0,
+    "remark": "黑木崖【去天尺五-神教后山"
+  },
+  "5113": {
+    "id": 5113,
+    "name": "华山派小径",
+    "transmitRoomId": 20609,
+    "preType": 7,
+    "preTypeNum": "3",
+    "dialogue1": 9498,
+    "dialogue2": 0,
+    "remark": "华山【后山-山道"
+  },
+  "5114": {
+    "id": 5114,
+    "name": "血刀门小径",
+    "transmitRoomId": 21339,
+    "preType": 7,
+    "preTypeNum": "16",
+    "dialogue1": 9498,
+    "dialogue2": 0,
+    "remark": "西域【胡杨林2-血刀门"
+  },
+  "5115": {
+    "id": 5115,
+    "name": "星宿派小径",
+    "transmitRoomId": 21337,
+    "preType": 7,
+    "preTypeNum": "12",
+    "dialogue1": 9498,
+    "dialogue2": 0,
+    "remark": "西域【星宿海-星宿派"
+  },
+  "5116": {
+    "id": 5116,
+    "name": "全真教小径",
+    "transmitRoomId": 21406,
+    "preType": 7,
+    "preTypeNum": "4_6",
+    "dialogue1": 9498,
+    "dialogue2": 0,
+    "remark": "终南山【全真教后山-重阳宫"
+  },
+  "5117": {
+    "id": 5117,
+    "name": "惠风客栈",
+    "transmitRoomId": 10108,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "副本完成传出"
+  },
+  "5118": {
+    "id": 5118,
+    "name": "向前探索",
+    "transmitRoomId": 81141,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9659,
+    "remark": "黑木崖机关房间1真的"
+  },
+  "5119": {
+    "id": 5119,
+    "name": "向后探索",
+    "transmitRoomId": 81140,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9659,
+    "remark": "黑木崖机关房间1"
+  },
+  "5120": {
+    "id": 5120,
+    "name": "向左探索",
+    "transmitRoomId": 81140,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9657,
+    "remark": "黑木崖机关房间1"
+  },
+  "5121": {
+    "id": 5121,
+    "name": "向右探索",
+    "transmitRoomId": 81140,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9658,
+    "remark": "黑木崖机关房间1"
+  },
+  "5122": {
+    "id": 5122,
+    "name": "向前探索",
+    "transmitRoomId": 81142,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9659,
+    "remark": "黑木崖机关房间2真的"
+  },
+  "5123": {
+    "id": 5123,
+    "name": "向后探索",
+    "transmitRoomId": 81141,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9659,
+    "remark": "黑木崖机关房间2"
+  },
+  "5124": {
+    "id": 5124,
+    "name": "向左探索",
+    "transmitRoomId": 81141,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9658,
+    "remark": "黑木崖机关房间2"
+  },
+  "5125": {
+    "id": 5125,
+    "name": "向右探索",
+    "transmitRoomId": 81141,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9658,
+    "remark": "黑木崖机关房间2"
+  },
+  "5126": {
+    "id": 5126,
+    "name": "向前探索",
+    "transmitRoomId": 81123,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9659,
+    "remark": "黑木崖机关房间3真的"
+  },
+  "5127": {
+    "id": 5127,
+    "name": "向后探索",
+    "transmitRoomId": 81142,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9659,
+    "remark": "黑木崖机关房间3"
+  },
+  "5128": {
+    "id": 5128,
+    "name": "向左探索",
+    "transmitRoomId": 81142,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9657,
+    "remark": "黑木崖机关房间3"
+  },
+  "5129": {
+    "id": 5129,
+    "name": "向右探索",
+    "transmitRoomId": 81142,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9657,
+    "remark": "黑木崖机关房间3"
+  },
+  "5130": {
+    "id": 5130,
+    "name": "探索前进",
+    "transmitRoomId": 81140,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "黑木崖机关地道1进入迷宫"
+  },
+  "5131": {
+    "id": 5131,
+    "name": "探索返回",
+    "transmitRoomId": 81130,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "黑木崖机关地道3传回地道1"
+  },
+  "5132": {
+    "id": 5132,
+    "name": "绝情谷副本进入",
+    "transmitRoomId": 81236,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "关洛群山-一线瀑 NPC身上【封锁线2 10117 9650"
+  },
+  "5133": {
+    "id": 5133,
+    "name": "深入小径",
+    "transmitRoomId": 81238,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷情花小径1进入迷宫"
+  },
+  "5134": {
+    "id": 5134,
+    "name": "探索返回",
+    "transmitRoomId": 81219,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷情花小径3传回1"
+  },
+  "5135": {
+    "id": 5135,
+    "name": "向前探索",
+    "transmitRoomId": 81238,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-1"
+  },
+  "5136": {
+    "id": 5136,
+    "name": "向后探索",
+    "transmitRoomId": 81238,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-1"
+  },
+  "5137": {
+    "id": 5137,
+    "name": "向左探索",
+    "transmitRoomId": 81239,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-1真的"
+  },
+  "5138": {
+    "id": 5138,
+    "name": "向右探索",
+    "transmitRoomId": 81238,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-1"
+  },
+  "5139": {
+    "id": 5139,
+    "name": "向前探索",
+    "transmitRoomId": 81239,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-2"
+  },
+  "5140": {
+    "id": 5140,
+    "name": "向后探索",
+    "transmitRoomId": 81239,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-2"
+  },
+  "5141": {
+    "id": 5141,
+    "name": "向左探索",
+    "transmitRoomId": 81239,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-2"
+  },
+  "5142": {
+    "id": 5142,
+    "name": "向右探索",
+    "transmitRoomId": 81240,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-2真的"
+  },
+  "5143": {
+    "id": 5143,
+    "name": "向前探索",
+    "transmitRoomId": 81241,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-3真的"
+  },
+  "5144": {
+    "id": 5144,
+    "name": "向后探索",
+    "transmitRoomId": 81240,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-3"
+  },
+  "5145": {
+    "id": 5145,
+    "name": "向左探索",
+    "transmitRoomId": 81240,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-3"
+  },
+  "5146": {
+    "id": 5146,
+    "name": "向右探索",
+    "transmitRoomId": 81240,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-3"
+  },
+  "5147": {
+    "id": 5147,
+    "name": "向前探索",
+    "transmitRoomId": 81241,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-4"
+  },
+  "5148": {
+    "id": 5148,
+    "name": "向后探索",
+    "transmitRoomId": 81242,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-4真的"
+  },
+  "5149": {
+    "id": 5149,
+    "name": "向左探索",
+    "transmitRoomId": 81241,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-4"
+  },
+  "5150": {
+    "id": 5150,
+    "name": "向右探索",
+    "transmitRoomId": 81241,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-4"
+  },
+  "5151": {
+    "id": 5151,
+    "name": "向前探索",
+    "transmitRoomId": 81242,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-5"
+  },
+  "5152": {
+    "id": 5152,
+    "name": "向后探索",
+    "transmitRoomId": 81228,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9674,
+    "remark": "绝情谷情花小径2-5真的"
+  },
+  "5153": {
+    "id": 5153,
+    "name": "向左探索",
+    "transmitRoomId": 81242,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-5"
+  },
+  "5154": {
+    "id": 5154,
+    "name": "向右探索",
+    "transmitRoomId": 81242,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 9673,
+    "remark": "绝情谷情花小径2-5"
+  },
+  "5155": {
+    "id": 5155,
+    "name": "向东跳",
+    "transmitRoomId": 81243,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷岩石"
+  },
+  "5156": {
+    "id": 5156,
+    "name": "向西跳",
+    "transmitRoomId": 81244,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷岩石"
+  },
+  "5157": {
+    "id": 5157,
+    "name": "向南跳",
+    "transmitRoomId": 81254,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷岩石-洞口"
+  },
+  "5158": {
+    "id": 5158,
+    "name": "向北跳",
+    "transmitRoomId": 81245,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷岩石"
+  },
+  "5159": {
+    "id": 5159,
+    "name": "向东南跳",
+    "transmitRoomId": 81246,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷岩石"
+  },
+  "5160": {
+    "id": 5160,
+    "name": "向西北跳",
+    "transmitRoomId": 81247,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷岩石"
+  },
+  "5161": {
+    "id": 5161,
+    "name": "跳回岩石",
+    "transmitRoomId": 81205,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷鳄潭-岩石"
+  },
+  "5162": {
+    "id": 5162,
+    "name": "四下观察",
+    "transmitRoomId": 81205,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷丹房-岩石"
+  },
+  "5163": {
+    "id": 5163,
+    "name": "结索攀援",
+    "transmitRoomId": 81261,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷石窟-厉鬼峰"
+  },
+  "5164": {
+    "id": 5164,
+    "name": "潜近邻庄",
+    "transmitRoomId": 81281,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷峰回路转5-水仙小路"
+  },
+  "5165": {
+    "id": 5165,
+    "name": "翻窗而出",
+    "transmitRoomId": 81203,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷小室-长廊3"
+  },
+  "5166": {
+    "id": 5166,
+    "name": "贴墙溜出",
+    "transmitRoomId": 81210,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷小室-长廊1"
+  },
+  "5167": {
+    "id": 5167,
+    "name": "发现密道",
+    "transmitRoomId": 81206,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "绝情谷小室-剑室"
+  },
+  "5168": {
+    "id": 5168,
+    "name": "破窗而出",
+    "transmitRoomId": 81202,
+    "preType": 3,
+    "preTypeNum": "34,2,15000",
+    "dialogue1": 9694,
+    "dialogue2": 0,
+    "remark": "绝情谷石屋大厅-小室【当前血量低于15000可传"
+  },
+  "5169": {
+    "id": 5169,
+    "name": "无锡城南外去跨服大厅",
+    "transmitRoomId": 30402,
+    "preType": 1,
+    "preTypeNum": "10701",
+    "dialogue1": 9650,
+    "dialogue2": 0,
+    "remark": "跨服战场大厅【长安城北  去掉【程序自己做传送"
+  },
+  "5170": {
+    "id": 5170,
+    "name": "大厅进北门",
+    "transmitRoomId": 30301,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 1644,
+    "dialogue2": 0,
+    "remark": "长安城"
+  },
+  "5171": {
+    "id": 5171,
+    "name": "大厅进南",
+    "transmitRoomId": 30381,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 1644,
+    "dialogue2": 0,
+    "remark": "长安城"
+  },
+  "5172": {
+    "id": 5172,
+    "name": "大厅进东",
+    "transmitRoomId": 30345,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 1644,
+    "dialogue2": 0,
+    "remark": "长安城"
+  },
+  "5173": {
+    "id": 5173,
+    "name": "大厅进西",
+    "transmitRoomId": 30337,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 1644,
+    "dialogue2": 0,
+    "remark": "长安城"
+  },
+  "5174": {
+    "id": 5174,
+    "name": "长安城返回城北大厅",
+    "transmitRoomId": 30405,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "去往【长安城北-长安古道"
+  },
+  "5175": {
+    "id": 5175,
+    "name": "无锡忆梦副本进入",
+    "transmitRoomId": 81311,
+    "preType": 1,
+    "preTypeNum": "20217",
+    "dialogue1": 1687,
+    "dialogue2": 0,
+    "remark": "入口【无锡-乱葬岗 通关第二章开启"
+  },
+  "5176": {
+    "id": 5176,
+    "name": "真藏经阁 有扫地僧",
+    "transmitRoomId": 31420,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "少林|藏经阁|本门弟子 进入藏经阁(真.地图)用"
+  },
+  "5177": {
+    "id": 5177,
+    "name": "假藏经阁 无扫地僧",
+    "transmitRoomId": 31720,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "少林|藏经阁|本门弟子 进入藏经阁(假.地图)用"
+  },
+  "5178": {
+    "id": 5178,
+    "name": "真藏经阁 有扫地僧",
+    "transmitRoomId": 31820,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "少林|藏经阁|偷偷潜入 藏经阁(真.地图)用"
+  },
+  "5179": {
+    "id": 5179,
+    "name": "假藏经阁 无扫地僧",
+    "transmitRoomId": 31920,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "少林|藏经阁|偷偷潜入 藏经阁(假.地图)用"
+  },
+  "5180": {
+    "id": 5180,
+    "name": "提气纵跃 去接天桥",
+    "transmitRoomId": 81432,
+    "preType": 3,
+    "preTypeNum": "3,1,200",
+    "dialogue1": 614,
+    "dialogue2": 624,
+    "remark": "身法大于等于200"
+  },
+  "5181": {
+    "id": 5181,
+    "name": "提气纵跃 去对崖",
+    "transmitRoomId": 81431,
+    "preType": 3,
+    "preTypeNum": "3,1,200",
+    "dialogue1": 614,
+    "dialogue2": 624,
+    "remark": "身法大于等于200"
+  },
+  "5182": {
+    "id": 5182,
+    "name": "悄悄溜过 去后庭",
+    "transmitRoomId": 81404,
+    "preType": 3,
+    "preTypeNum": "11,2,-1",
+    "dialogue1": 533,
+    "dialogue2": 0,
+    "remark": "道德小于0"
+  },
+  "5183": {
+    "id": 5183,
+    "name": "悄悄溜过 去庭院2",
+    "transmitRoomId": 81410,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": 0
+  },
+  "5184": {
+    "id": 5184,
+    "name": "假山 去地道1",
+    "transmitRoomId": 81405,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 535,
+    "remark": 0
+  },
+  "5185": {
+    "id": 5185,
+    "name": "离开地道 去花园",
+    "transmitRoomId": 81403,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": 0
+  },
+  "5186": {
+    "id": 5186,
+    "name": "险路2 坑",
+    "transmitRoomId": 81427,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 1726,
+    "remark": 0
+  },
+  "5187": {
+    "id": 5187,
+    "name": "险路3 坑",
+    "transmitRoomId": 81424,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 1726,
+    "remark": 0
+  },
+  "5188": {
+    "id": 5188,
+    "name": "险路4 正",
+    "transmitRoomId": 81421,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": 0
+  },
+  "5189": {
+    "id": 5189,
+    "name": "险路7 坑",
+    "transmitRoomId": 81414,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 1726,
+    "remark": 0
+  },
+  "5190": {
+    "id": 5190,
+    "name": "险路8 坑",
+    "transmitRoomId": 81417,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 1726,
+    "remark": 0
+  },
+  "5191": {
+    "id": 5191,
+    "name": "险路9 正",
+    "transmitRoomId": 81420,
+    "preType": 0,
+    "preTypeNum": "0",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": 0
+  },
+  "5192": {
+    "id": 5192,
+    "name": "灵鹫宫之乱副本进入",
+    "transmitRoomId": 81433,
+    "preType": 1,
+    "preTypeNum": "20217",
+    "dialogue1": 0,
+    "dialogue2": 0,
+    "remark": "入口【天山山脉-缥缈峰 通关第二章开启"
+  }
+}

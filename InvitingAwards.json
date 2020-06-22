@@ -1,0 +1,27 @@
+{
+  "1": {
+    "id": 1,
+    "level": 10,
+    "levelGold": 50
+  },
+  "2": {
+    "id": 2,
+    "level": 50,
+    "levelGold": 100
+  },
+  "3": {
+    "id": 3,
+    "level": 100,
+    "levelGold": 300
+  },
+  "4": {
+    "id": 4,
+    "level": 200,
+    "levelGold": 500
+  },
+  "5": {
+    "id": 5,
+    "level": 300,
+    "levelGold": 1000
+  }
+}

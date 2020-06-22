@@ -1,0 +1,98 @@
+{
+  "1": {
+    "id": 1,
+    "skillType": 1,
+    "text": "测试1",
+    "timeMin": 1,
+    "timeMax": 2,
+    "difficultyParameter": 3
+  },
+  "2": {
+    "id": 2,
+    "skillType": 1,
+    "text": "测试2",
+    "timeMin": 3,
+    "timeMax": 4,
+    "difficultyParameter": 2
+  },
+  "3": {
+    "id": 3,
+    "skillType": 1,
+    "text": "测试3",
+    "timeMin": 5,
+    "timeMax": 6,
+    "difficultyParameter": 1
+  },
+  "4": {
+    "id": 4,
+    "skillType": 2,
+    "text": "测试1",
+    "timeMin": 1,
+    "timeMax": 2,
+    "difficultyParameter": 3
+  },
+  "5": {
+    "id": 5,
+    "skillType": 2,
+    "text": "测试2",
+    "timeMin": 3,
+    "timeMax": 4,
+    "difficultyParameter": 2
+  },
+  "6": {
+    "id": 6,
+    "skillType": 2,
+    "text": "测试3",
+    "timeMin": 5,
+    "timeMax": 6,
+    "difficultyParameter": 1
+  },
+  "7": {
+    "id": 7,
+    "skillType": 3,
+    "text": "测试1",
+    "timeMin": 1,
+    "timeMax": 2,
+    "difficultyParameter": 3
+  },
+  "8": {
+    "id": 8,
+    "skillType": 3,
+    "text": "测试2",
+    "timeMin": 3,
+    "timeMax": 4,
+    "difficultyParameter": 2
+  },
+  "9": {
+    "id": 9,
+    "skillType": 3,
+    "text": "测试3",
+    "timeMin": 5,
+    "timeMax": 6,
+    "difficultyParameter": 1
+  },
+  "10": {
+    "id": 10,
+    "skillType": 4,
+    "text": "测试1",
+    "timeMin": 1,
+    "timeMax": 2,
+    "difficultyParameter": 3
+  },
+  "11": {
+    "id": 11,
+    "skillType": 4,
+    "text": "测试2",
+    "timeMin": 3,
+    "timeMax": 4,
+    "difficultyParameter": 2
+  },
+  "12": {
+    "id": 12,
+    "skillType": 4,
+    "text": "测试3",
+    "timeMin": 5,
+    "timeMax": 6,
+    "difficultyParameter": 1
+  }
+}

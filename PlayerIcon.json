@@ -1,0 +1,842 @@
+{
+  "1": {
+    "id": 1,
+    "sex": 1,
+    "life": 1,
+    "school": 0,
+    "iconId": "mp1005",
+    "BigIconId": "big05",
+    "remark": "武学女",
+    "fullIconId": "nv3"
+  },
+  "2": {
+    "id": 2,
+    "sex": 0,
+    "life": 1,
+    "school": 0,
+    "iconId": "mp1002",
+    "BigIconId": "big02",
+    "remark": "武学男",
+    "fullIconId": "nan3"
+  },
+  "3": {
+    "id": 3,
+    "sex": 2,
+    "life": 1,
+    "school": 0,
+    "iconId": "mp4002",
+    "BigIconId": "big05",
+    "remark": "武学公公",
+    "fullIconId": "nv3"
+  },
+  "4": {
+    "id": 4,
+    "sex": 1,
+    "life": 2,
+    "school": 0,
+    "iconId": "mp1006",
+    "BigIconId": "big06",
+    "remark": "书生女",
+    "fullIconId": "nv2"
+  },
+  "5": {
+    "id": 5,
+    "sex": 0,
+    "life": 2,
+    "school": 0,
+    "iconId": "mp1003",
+    "BigIconId": "big03",
+    "remark": "书生男",
+    "fullIconId": "nan2"
+  },
+  "6": {
+    "id": 6,
+    "sex": 2,
+    "life": 2,
+    "school": 0,
+    "iconId": "mp4003",
+    "BigIconId": "big06",
+    "remark": "书生公公",
+    "fullIconId": "nv2"
+  },
+  "7": {
+    "id": 7,
+    "sex": 1,
+    "life": 3,
+    "school": 0,
+    "iconId": "mp1007",
+    "BigIconId": "big07",
+    "remark": "商人女",
+    "fullIconId": "nv1"
+  },
+  "8": {
+    "id": 8,
+    "sex": 0,
+    "life": 3,
+    "school": 0,
+    "iconId": "mp1001",
+    "BigIconId": "big01",
+    "remark": "商人男",
+    "fullIconId": "nan1"
+  },
+  "9": {
+    "id": 9,
+    "sex": 2,
+    "life": 3,
+    "school": 0,
+    "iconId": "mp4001",
+    "BigIconId": "big07",
+    "remark": "商人公公",
+    "fullIconId": "nv1"
+  },
+  "10": {
+    "id": 10,
+    "sex": 1,
+    "life": 4,
+    "school": 0,
+    "iconId": "mp1008",
+    "BigIconId": "big08",
+    "remark": "孤儿女",
+    "fullIconId": "nv4"
+  },
+  "11": {
+    "id": 11,
+    "sex": 0,
+    "life": 4,
+    "school": 0,
+    "iconId": "mp1004",
+    "BigIconId": "big04",
+    "remark": "孤儿男",
+    "fullIconId": "nan4"
+  },
+  "12": {
+    "id": 12,
+    "sex": 2,
+    "life": 4,
+    "school": 0,
+    "iconId": "mp4004",
+    "BigIconId": "big08",
+    "remark": "孤儿公公",
+    "fullIconId": "nv4"
+  },
+  "13": {
+    "id": 13,
+    "sex": 1,
+    "life": 1,
+    "school": 1,
+    "iconId": "mp0002",
+    "BigIconId": "0",
+    "remark": "衡山派女",
+    "fullIconId": "0"
+  },
+  "14": {
+    "id": 14,
+    "sex": 0,
+    "life": 1,
+    "school": 1,
+    "iconId": "mp0001",
+    "BigIconId": "0",
+    "remark": "衡山派男",
+    "fullIconId": "0"
+  },
+  "15": {
+    "id": 15,
+    "sex": 2,
+    "life": 1,
+    "school": 1,
+    "iconId": "mp3001",
+    "BigIconId": "0",
+    "remark": "衡山派公公",
+    "fullIconId": "0"
+  },
+  "16": {
+    "id": 16,
+    "sex": 1,
+    "life": 1,
+    "school": 2,
+    "iconId": "mp0004",
+    "BigIconId": "0",
+    "remark": "昆仑派女",
+    "fullIconId": "0"
+  },
+  "17": {
+    "id": 17,
+    "sex": 0,
+    "life": 1,
+    "school": 2,
+    "iconId": "mp0003",
+    "BigIconId": "0",
+    "remark": "昆仑派男",
+    "fullIconId": "0"
+  },
+  "18": {
+    "id": 18,
+    "sex": 2,
+    "life": 1,
+    "school": 2,
+    "iconId": "mp3003",
+    "BigIconId": "0",
+    "remark": "昆仑派公公",
+    "fullIconId": "0"
+  },
+  "19": {
+    "id": 19,
+    "sex": 1,
+    "life": 1,
+    "school": 3,
+    "iconId": "mp0006",
+    "BigIconId": "0",
+    "remark": "华山派女",
+    "fullIconId": "0"
+  },
+  "20": {
+    "id": 20,
+    "sex": 0,
+    "life": 1,
+    "school": 3,
+    "iconId": "mp0005",
+    "BigIconId": "0",
+    "remark": "华山派男",
+    "fullIconId": "0"
+  },
+  "21": {
+    "id": 21,
+    "sex": 2,
+    "life": 1,
+    "school": 3,
+    "iconId": "mp3005",
+    "BigIconId": "0",
+    "remark": "华山派公公",
+    "fullIconId": "0"
+  },
+  "22": {
+    "id": 22,
+    "sex": 1,
+    "life": 1,
+    "school": 4,
+    "iconId": "mp0007",
+    "BigIconId": "0",
+    "remark": "全真教女",
+    "fullIconId": "0"
+  },
+  "23": {
+    "id": 23,
+    "sex": 0,
+    "life": 1,
+    "school": 4,
+    "iconId": "mp0007",
+    "BigIconId": "0",
+    "remark": "全真教男",
+    "fullIconId": "0"
+  },
+  "24": {
+    "id": 24,
+    "sex": 2,
+    "life": 1,
+    "school": 4,
+    "iconId": "mp3007",
+    "BigIconId": "0",
+    "remark": "全真教公公",
+    "fullIconId": "0"
+  },
+  "25": {
+    "id": 25,
+    "sex": 1,
+    "life": 1,
+    "school": 5,
+    "iconId": "mp0010",
+    "BigIconId": "0",
+    "remark": "峨眉派女",
+    "fullIconId": "0"
+  },
+  "26": {
+    "id": 26,
+    "sex": 0,
+    "life": 1,
+    "school": 5,
+    "iconId": "mp0010",
+    "BigIconId": "0",
+    "remark": "峨眉派男",
+    "fullIconId": "0"
+  },
+  "27": {
+    "id": 27,
+    "sex": 2,
+    "life": 1,
+    "school": 5,
+    "iconId": "mp0010",
+    "BigIconId": "0",
+    "remark": "峨眉派公公",
+    "fullIconId": "0"
+  },
+  "28": {
+    "id": 28,
+    "sex": 1,
+    "life": 1,
+    "school": 6,
+    "iconId": "mp0012",
+    "BigIconId": "0",
+    "remark": "大理段氏女",
+    "fullIconId": "0"
+  },
+  "29": {
+    "id": 29,
+    "sex": 0,
+    "life": 1,
+    "school": 6,
+    "iconId": "mp0011",
+    "BigIconId": "0",
+    "remark": "大理段氏男",
+    "fullIconId": "0"
+  },
+  "30": {
+    "id": 30,
+    "sex": 2,
+    "life": 1,
+    "school": 6,
+    "iconId": "mp3011",
+    "BigIconId": "0",
+    "remark": "大理段氏公公",
+    "fullIconId": "0"
+  },
+  "31": {
+    "id": 31,
+    "sex": 1,
+    "life": 1,
+    "school": 7,
+    "iconId": "mp0014",
+    "BigIconId": "0",
+    "remark": "丐帮女",
+    "fullIconId": "0"
+  },
+  "32": {
+    "id": 32,
+    "sex": 0,
+    "life": 1,
+    "school": 7,
+    "iconId": "mp0013",
+    "BigIconId": "0",
+    "remark": "丐帮男",
+    "fullIconId": "0"
+  },
+  "33": {
+    "id": 33,
+    "sex": 2,
+    "life": 1,
+    "school": 7,
+    "iconId": "mp3013",
+    "BigIconId": "0",
+    "remark": "丐帮公公",
+    "fullIconId": "0"
+  },
+  "34": {
+    "id": 34,
+    "sex": 1,
+    "life": 1,
+    "school": 8,
+    "iconId": "mp0016",
+    "BigIconId": "0",
+    "remark": "武当派女",
+    "fullIconId": "0"
+  },
+  "35": {
+    "id": 35,
+    "sex": 0,
+    "life": 1,
+    "school": 8,
+    "iconId": "mp0015",
+    "BigIconId": "0",
+    "remark": "武当派男",
+    "fullIconId": "0"
+  },
+  "36": {
+    "id": 36,
+    "sex": 2,
+    "life": 1,
+    "school": 8,
+    "iconId": "mp3015",
+    "BigIconId": "0",
+    "remark": "武当派公公",
+    "fullIconId": "0"
+  },
+  "37": {
+    "id": 37,
+    "sex": 1,
+    "life": 1,
+    "school": 9,
+    "iconId": "mp0017",
+    "BigIconId": "0",
+    "remark": "少林派女",
+    "fullIconId": "0"
+  },
+  "38": {
+    "id": 38,
+    "sex": 0,
+    "life": 1,
+    "school": 9,
+    "iconId": "mp0017",
+    "BigIconId": "0",
+    "remark": "少林派男",
+    "fullIconId": "0"
+  },
+  "39": {
+    "id": 39,
+    "sex": 2,
+    "life": 1,
+    "school": 9,
+    "iconId": "mp3017",
+    "BigIconId": "0",
+    "remark": "少林派公公",
+    "fullIconId": "0"
+  },
+  "40": {
+    "id": 40,
+    "sex": 1,
+    "life": 1,
+    "school": 10,
+    "iconId": "mp0020",
+    "BigIconId": "0",
+    "remark": "绝情谷女",
+    "fullIconId": "0"
+  },
+  "41": {
+    "id": 41,
+    "sex": 0,
+    "life": 1,
+    "school": 10,
+    "iconId": "mp0019",
+    "BigIconId": "0",
+    "remark": "绝情谷男",
+    "fullIconId": "0"
+  },
+  "42": {
+    "id": 42,
+    "sex": 2,
+    "life": 1,
+    "school": 10,
+    "iconId": "mp3019",
+    "BigIconId": "0",
+    "remark": "绝情谷公公",
+    "fullIconId": "0"
+  },
+  "43": {
+    "id": 43,
+    "sex": 1,
+    "life": 1,
+    "school": 11,
+    "iconId": "mp0022",
+    "BigIconId": "0",
+    "remark": "五毒教女",
+    "fullIconId": "0"
+  },
+  "44": {
+    "id": 44,
+    "sex": 0,
+    "life": 1,
+    "school": 11,
+    "iconId": "mp0022",
+    "BigIconId": "0",
+    "remark": "五毒教男",
+    "fullIconId": "0"
+  },
+  "45": {
+    "id": 45,
+    "sex": 2,
+    "life": 1,
+    "school": 11,
+    "iconId": "mp0022",
+    "BigIconId": "0",
+    "remark": "五毒教公公",
+    "fullIconId": "0"
+  },
+  "46": {
+    "id": 46,
+    "sex": 1,
+    "life": 1,
+    "school": 12,
+    "iconId": "mp0024",
+    "BigIconId": "0",
+    "remark": "星宿派女",
+    "fullIconId": "0"
+  },
+  "47": {
+    "id": 47,
+    "sex": 0,
+    "life": 1,
+    "school": 12,
+    "iconId": "mp0023",
+    "BigIconId": "0",
+    "remark": "星宿派男",
+    "fullIconId": "0"
+  },
+  "48": {
+    "id": 48,
+    "sex": 2,
+    "life": 1,
+    "school": 12,
+    "iconId": "mp3023",
+    "BigIconId": "0",
+    "remark": "星宿派公公",
+    "fullIconId": "0"
+  },
+  "49": {
+    "id": 49,
+    "sex": 1,
+    "life": 1,
+    "school": 13,
+    "iconId": "mp0026",
+    "BigIconId": "0",
+    "remark": "白驼山女",
+    "fullIconId": "0"
+  },
+  "50": {
+    "id": 50,
+    "sex": 0,
+    "life": 1,
+    "school": 13,
+    "iconId": "mp0025",
+    "BigIconId": "0",
+    "remark": "白驼山男",
+    "fullIconId": "0"
+  },
+  "51": {
+    "id": 51,
+    "sex": 2,
+    "life": 1,
+    "school": 13,
+    "iconId": "mp3025",
+    "BigIconId": "0",
+    "remark": "白驼山公公",
+    "fullIconId": "0"
+  },
+  "52": {
+    "id": 52,
+    "sex": 1,
+    "life": 1,
+    "school": 14,
+    "iconId": "mp0028",
+    "BigIconId": "0",
+    "remark": "日月神教女",
+    "fullIconId": "0"
+  },
+  "53": {
+    "id": 53,
+    "sex": 0,
+    "life": 1,
+    "school": 14,
+    "iconId": "mp0027",
+    "BigIconId": "0",
+    "remark": "日月神教男",
+    "fullIconId": "0"
+  },
+  "54": {
+    "id": 54,
+    "sex": 2,
+    "life": 1,
+    "school": 14,
+    "iconId": "mp3027",
+    "BigIconId": "0",
+    "remark": "日月神教公公",
+    "fullIconId": "0"
+  },
+  "55": {
+    "id": 55,
+    "sex": 1,
+    "life": 1,
+    "school": 15,
+    "iconId": "mp0029",
+    "BigIconId": "0",
+    "remark": "密宗女",
+    "fullIconId": "0"
+  },
+  "56": {
+    "id": 56,
+    "sex": 0,
+    "life": 1,
+    "school": 15,
+    "iconId": "mp0029",
+    "BigIconId": "0",
+    "remark": "密宗男",
+    "fullIconId": "0"
+  },
+  "57": {
+    "id": 57,
+    "sex": 2,
+    "life": 1,
+    "school": 15,
+    "iconId": "mp3029",
+    "BigIconId": "0",
+    "remark": "密宗公公",
+    "fullIconId": "0"
+  },
+  "58": {
+    "id": 58,
+    "sex": 1,
+    "life": 1,
+    "school": 16,
+    "iconId": "mp0032",
+    "BigIconId": "0",
+    "remark": "血刀门女",
+    "fullIconId": "0"
+  },
+  "59": {
+    "id": 59,
+    "sex": 0,
+    "life": 1,
+    "school": 16,
+    "iconId": "mp0031",
+    "BigIconId": "0",
+    "remark": "血刀门男",
+    "fullIconId": "0"
+  },
+  "60": {
+    "id": 60,
+    "sex": 2,
+    "life": 1,
+    "school": 16,
+    "iconId": "mp3031",
+    "BigIconId": "0",
+    "remark": "血刀门公公",
+    "fullIconId": "0"
+  },
+  "61": {
+    "id": 61,
+    "sex": 1,
+    "life": 1,
+    "school": 17,
+    "iconId": "mp0034",
+    "BigIconId": "0",
+    "remark": "嵩山派女",
+    "fullIconId": "0"
+  },
+  "62": {
+    "id": 62,
+    "sex": 0,
+    "life": 1,
+    "school": 17,
+    "iconId": "mp0033",
+    "BigIconId": "0",
+    "remark": "嵩山派男",
+    "fullIconId": "0"
+  },
+  "63": {
+    "id": 63,
+    "sex": 2,
+    "life": 1,
+    "school": 17,
+    "iconId": "mp3033",
+    "BigIconId": "0",
+    "remark": "嵩山派公公",
+    "fullIconId": "0"
+  },
+  "64": {
+    "id": 64,
+    "sex": 1,
+    "life": 1,
+    "school": 18,
+    "iconId": "mp0036",
+    "BigIconId": "0",
+    "remark": "崆峒派女",
+    "fullIconId": "0"
+  },
+  "65": {
+    "id": 65,
+    "sex": 0,
+    "life": 1,
+    "school": 18,
+    "iconId": "mp0035",
+    "BigIconId": "0",
+    "remark": "崆峒派男",
+    "fullIconId": "0"
+  },
+  "66": {
+    "id": 66,
+    "sex": 2,
+    "life": 1,
+    "school": 18,
+    "iconId": "mp3035",
+    "BigIconId": "0",
+    "remark": "崆峒派公公",
+    "fullIconId": "0"
+  },
+  "67": {
+    "id": 67,
+    "sex": 1,
+    "life": 1,
+    "school": 19,
+    "iconId": "mp0038",
+    "BigIconId": "0",
+    "remark": "关外胡家女",
+    "fullIconId": "0"
+  },
+  "68": {
+    "id": 68,
+    "sex": 0,
+    "life": 1,
+    "school": 19,
+    "iconId": "mp0037",
+    "BigIconId": "0",
+    "remark": "关外胡家男",
+    "fullIconId": "0"
+  },
+  "69": {
+    "id": 69,
+    "sex": 2,
+    "life": 1,
+    "school": 19,
+    "iconId": "mp3037",
+    "BigIconId": "0",
+    "remark": "关外胡家公公",
+    "fullIconId": "0"
+  },
+  "70": {
+    "id": 70,
+    "sex": 1,
+    "life": 1,
+    "school": 20,
+    "iconId": "mp0040",
+    "BigIconId": "0",
+    "remark": "姑苏慕容女",
+    "fullIconId": "0"
+  },
+  "71": {
+    "id": 71,
+    "sex": 0,
+    "life": 1,
+    "school": 20,
+    "iconId": "mp0039",
+    "BigIconId": "0",
+    "remark": "姑苏慕容男",
+    "fullIconId": "0"
+  },
+  "72": {
+    "id": 72,
+    "sex": 2,
+    "life": 1,
+    "school": 20,
+    "iconId": "mp3039",
+    "BigIconId": "0",
+    "remark": "姑苏慕容公公",
+    "fullIconId": "0"
+  },
+  "73": {
+    "id": 73,
+    "sex": 1,
+    "life": 1,
+    "school": 21,
+    "iconId": "mp0042",
+    "BigIconId": "0",
+    "remark": "明教女",
+    "fullIconId": "0"
+  },
+  "74": {
+    "id": 74,
+    "sex": 0,
+    "life": 1,
+    "school": 21,
+    "iconId": "mp0041",
+    "BigIconId": "0",
+    "remark": "明教男",
+    "fullIconId": "0"
+  },
+  "75": {
+    "id": 75,
+    "sex": 2,
+    "life": 1,
+    "school": 21,
+    "iconId": "mp3041",
+    "BigIconId": "0",
+    "remark": "明教公公",
+    "fullIconId": "0"
+  },
+  "76": {
+    "id": 76,
+    "sex": 1,
+    "life": 1,
+    "school": 22,
+    "iconId": "mp0044",
+    "BigIconId": "0",
+    "remark": "古墓派女",
+    "fullIconId": "0"
+  },
+  "77": {
+    "id": 77,
+    "sex": 0,
+    "life": 1,
+    "school": 22,
+    "iconId": "mp0044",
+    "BigIconId": "0",
+    "remark": "古墓派男",
+    "fullIconId": "0"
+  },
+  "78": {
+    "id": 78,
+    "sex": 2,
+    "life": 1,
+    "school": 22,
+    "iconId": "mp0044",
+    "BigIconId": "0",
+    "remark": "古墓派公公",
+    "fullIconId": "0"
+  },
+  "79": {
+    "id": 79,
+    "sex": 1,
+    "life": 1,
+    "school": 23,
+    "iconId": "mp0046",
+    "BigIconId": "0",
+    "remark": "桃花岛女",
+    "fullIconId": "0"
+  },
+  "80": {
+    "id": 80,
+    "sex": 0,
+    "life": 1,
+    "school": 23,
+    "iconId": "mp0045",
+    "BigIconId": "0",
+    "remark": "桃花岛男",
+    "fullIconId": "0"
+  },
+  "81": {
+    "id": 81,
+    "sex": 2,
+    "life": 1,
+    "school": 23,
+    "iconId": "mp3045",
+    "BigIconId": "0",
+    "remark": "桃花岛公公",
+    "fullIconId": "0"
+  },
+  "82": {
+    "id": 82,
+    "sex": 1,
+    "life": 1,
+    "school": 24,
+    "iconId": "mp0048",
+    "BigIconId": "0",
+    "remark": "逍遥派女",
+    "fullIconId": "0"
+  },
+  "83": {
+    "id": 83,
+    "sex": 0,
+    "life": 1,
+    "school": 24,
+    "iconId": "mp0047",
+    "BigIconId": "0",
+    "remark": "逍遥派男",
+    "fullIconId": "0"
+  },
+  "84": {
+    "id": 84,
+    "sex": 2,
+    "life": 1,
+    "school": 24,
+    "iconId": "mp3047",
+    "BigIconId": "0",
+    "remark": "逍遥派公公",
+    "fullIconId": "0"
+  }
+}

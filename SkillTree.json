@@ -1,0 +1,18 @@
+{
+  "2": {
+    "id": 2,
+    "remark": "测试用",
+    "totalSkillID": 1,
+    "row": 1,
+    "column": 2,
+    "path": 3
+  },
+  "3": {
+    "id": 3,
+    "remark": "测试用",
+    "totalSkillID": 1,
+    "row": 2,
+    "column": 2,
+    "path": 0
+  }
+}

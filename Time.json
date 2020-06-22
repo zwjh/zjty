@@ -1,0 +1,338 @@
+{
+  "1": {
+    "ID": 1,
+    "time": 0,
+    "worldMessage": "<font color=0x6dbcf9>夜已经深了……</font>",
+    "remark": 0,
+    "remark2": "三更"
+  },
+  "2": {
+    "ID": 2,
+    "time": 30,
+    "worldMessage": "<font color=0x8bdefe>夜色纯黑，让人透不过气来。远处偶尔一道闪电，接着一声声闷雷传到了地上。</font>",
+    "remark": 10,
+    "remark2": "三更"
+  },
+  "3": {
+    "ID": 3,
+    "time": 60,
+    "worldMessage": "<font color=0x6dbcf9>丑时。鸡鸣。</font>",
+    "remark": 20,
+    "remark2": "三更"
+  },
+  "4": {
+    "ID": 4,
+    "time": 120,
+    "worldMessage": "<font color=0x8bdefe>山吐四更寒月。</font>",
+    "remark": 30,
+    "remark2": "三更"
+  },
+  "5": {
+    "ID": 5,
+    "time": 180,
+    "worldMessage": "<font color=0x6dbcf9>寅时。平旦。</font>",
+    "remark": 40,
+    "remark2": "三更"
+  },
+  "6": {
+    "ID": 6,
+    "time": 200,
+    "worldMessage": "<font color=0x8bdefe>梦破五更心欲折。角声吹落梅花月。</font>",
+    "remark": 50,
+    "remark2": "三更"
+  },
+  "7": {
+    "ID": 7,
+    "time": 240,
+    "worldMessage": "<font color=0x6dbcf9>新的一天开始了，各种活动都可以重新出发~</font>",
+    "remark": 60,
+    "remark2": 1
+  },
+  "8": {
+    "ID": 8,
+    "time": 280,
+    "worldMessage": "<font color=0x8bdefe>月华收练，晨霜耿耿。云山摛锦，朝露漙漙。</font>",
+    "remark": 70,
+    "remark2": "四更"
+  },
+  "9": {
+    "ID": 9,
+    "time": 300,
+    "worldMessage": "<font color=0x6dbcf9>卯时。日出。</font>",
+    "remark": 80,
+    "remark2": "四更"
+  },
+  "10": {
+    "ID": 10,
+    "time": 320,
+    "worldMessage": "<font color=0x8bdefe>天渐渐破晓，淡青色的天空镶嵌着几颗残星，大地朦朦胧胧的，如同笼罩着银灰色的轻纱……</font>",
+    "remark": 90,
+    "remark2": "四更"
+  },
+  "11": {
+    "ID": 11,
+    "time": 340,
+    "worldMessage": "<font color=0x8bdefe>旭日似披着烈烈酒气上升，将无限醉意朝辽阔天空酣畅地播散开……</font>",
+    "remark": 100,
+    "remark2": "四更"
+  },
+  "12": {
+    "ID": 12,
+    "time": 360,
+    "worldMessage": "<font color=0x8bdefe>清露晨流，被冷香消，不许愁人不起。</font>",
+    "remark": 110,
+    "remark2": "四更"
+  },
+  "13": {
+    "ID": 13,
+    "time": 380,
+    "worldMessage": "<font color=0x8bdefe>飞鸟晨鸣。</font>",
+    "remark": 120,
+    "remark2": 2
+  },
+  "14": {
+    "ID": 14,
+    "time": 420,
+    "worldMessage": "<font color=0x6dbcf9>辰时。食时。</font>",
+    "remark": 130,
+    "remark2": "四更"
+  },
+  "15": {
+    "ID": 15,
+    "time": 540,
+    "worldMessage": "<font color=0x6dbcf9>巳时。隅中。</font>",
+    "remark": 140,
+    "remark2": "四更"
+  },
+  "16": {
+    "ID": 16,
+    "time": 660,
+    "worldMessage": "<font color=0x6dbcf9>午时。日中。</font>",
+    "remark": 150,
+    "remark2": "四更"
+  },
+  "17": {
+    "ID": 17,
+    "time": 680,
+    "worldMessage": "<font color=0x8bdefe>隔花双蝶散，日午燕争飞。</font>",
+    "remark": 160,
+    "remark2": "四更"
+  },
+  "18": {
+    "ID": 18,
+    "time": 700,
+    "worldMessage": "<font color=0x8bdefe>午睡渐多浓似酒，韶华已入东君手。 </font>",
+    "remark": 170,
+    "remark2": "四更"
+  },
+  "19": {
+    "ID": 19,
+    "time": 720,
+    "worldMessage": "<font color=0x8bdefe>正午，太阳离得好近。</font>",
+    "remark": 180,
+    "remark2": 3
+  },
+  "20": {
+    "ID": 20,
+    "time": 740,
+    "worldMessage": "<font color=0x8bdefe>午窗一枕庄周梦。</font>",
+    "remark": 190,
+    "remark2": "五更"
+  },
+  "21": {
+    "ID": 21,
+    "time": 760,
+    "worldMessage": "<font color=0x8bdefe>黄衫飞白马，日日青楼下。醉眼不逢人，午香吹暗尘。</font>",
+    "remark": 200,
+    "remark2": "五更"
+  },
+  "22": {
+    "ID": 22,
+    "time": 780,
+    "worldMessage": "<font color=0x6dbcf9>未时。日昳。</font>",
+    "remark": 210,
+    "remark2": "五更"
+  },
+  "23": {
+    "ID": 23,
+    "time": 800,
+    "worldMessage": "<font color=0x8bdefe>日高人渴漫思茶。</font>",
+    "remark": 220,
+    "remark2": "五更"
+  },
+  "24": {
+    "ID": 24,
+    "time": 820,
+    "worldMessage": "<font color=0x8bdefe>尊前心事人谁问，午窗残梦子规啼。</font>",
+    "remark": 230,
+    "remark2": "五更"
+  },
+  "25": {
+    "ID": 25,
+    "time": 840,
+    "worldMessage": "<font color=0x8bdefe>未时过半，正是一天当中最暖热的时候。</font>",
+    "remark": 240,
+    "remark2": 4
+  },
+  "26": {
+    "ID": 26,
+    "time": 860,
+    "worldMessage": "<font color=0x8bdefe>午睡醒来慵一饷，隔叶莺声，似学秦娥唱。</font>",
+    "remark": 250,
+    "remark2": "五更"
+  },
+  "27": {
+    "ID": 27,
+    "time": 880,
+    "worldMessage": "<font color=0x8bdefe>江山几识余心乐？云淡风轻过午天~~~</font>",
+    "remark": 260,
+    "remark2": "五更"
+  },
+  "28": {
+    "ID": 28,
+    "time": 900,
+    "worldMessage": "<font color=0x6dbcf9>申时。晡时。</font>",
+    "remark": 270,
+    "remark2": "五更"
+  },
+  "29": {
+    "ID": 29,
+    "time": 980,
+    "worldMessage": "<font color=0x8bdefe>花扑鞭梢，风吹衫袖，都城渐远，芳树隐斜阳。</font>",
+    "remark": 280,
+    "remark2": "五更"
+  },
+  "30": {
+    "ID": 30,
+    "time": 1000,
+    "worldMessage": "<font color=0x8bdefe>太阳收拢着淡淡的光。</font>",
+    "remark": 290,
+    "remark2": "五更"
+  },
+  "31": {
+    "ID": 31,
+    "time": 1020,
+    "worldMessage": "<font color=0x6dbcf9>酉时。日入。</font>",
+    "remark": 300,
+    "remark2": 5
+  },
+  "32": {
+    "ID": 32,
+    "time": 1040,
+    "worldMessage": "<font color=0x8bdefe>叶下斜阳照水。</font>",
+    "remark": 310,
+    "remark2": 0
+  },
+  "33": {
+    "ID": 33,
+    "time": 1060,
+    "worldMessage": "<font color=0x8bdefe>山映斜阳天接水，芳草无情，更在斜阳外。</font>",
+    "remark": 320,
+    "remark2": 0
+  },
+  "34": {
+    "ID": 34,
+    "time": 1080,
+    "worldMessage": "<font color=0x8bdefe>斜阳外，寒鸦万点，流水绕孤村。</font>",
+    "remark": 330,
+    "remark2": 0
+  },
+  "35": {
+    "ID": 35,
+    "time": 1100,
+    "worldMessage": "<font color=0x8bdefe>日薄西山，气息奄奄。</font>",
+    "remark": 340,
+    "remark2": 0
+  },
+  "36": {
+    "ID": 36,
+    "time": 1120,
+    "worldMessage": "<font color=0x8bdefe>夕阳西下，是谁家的断肠人仍在天涯呢……</font>",
+    "remark": 350,
+    "remark2": 0
+  },
+  "37": {
+    "ID": 37,
+    "time": 1140,
+    "worldMessage": "<font color=0x6dbcf9>戌时。黄昏。</font>",
+    "remark": 360,
+    "remark2": 6
+  },
+  "38": {
+    "ID": 38,
+    "time": 1160,
+    "worldMessage": "<font color=0x8bdefe>一杯且贾明朝事，送了斜阳月又生。</font>",
+    "remark": 370,
+    "remark2": 0
+  },
+  "39": {
+    "ID": 39,
+    "time": 1180,
+    "worldMessage": "<font color=0x8bdefe>天色暗得厉害，路人行色匆匆，当是归心似箭。</font>",
+    "remark": 380,
+    "remark2": 0
+  },
+  "40": {
+    "ID": 40,
+    "time": 1240,
+    "worldMessage": "<font color=0x8bdefe>月皎惊乌栖不定。</font>",
+    "remark": 390,
+    "remark2": 0
+  },
+  "41": {
+    "ID": 41,
+    "time": 1260,
+    "worldMessage": "<font color=0x6dbcf9>亥时。人定。</font>",
+    "remark": 400,
+    "remark2": 0
+  },
+  "42": {
+    "ID": 42,
+    "time": 1280,
+    "worldMessage": "<font color=0x8bdefe>云破月来花弄影。</font>",
+    "remark": 410,
+    "remark2": 0
+  },
+  "43": {
+    "ID": 43,
+    "time": 1300,
+    "worldMessage": "<font color=0x8bdefe>踏影人归素月斜。</font>",
+    "remark": 420,
+    "remark2": 7
+  },
+  "44": {
+    "ID": 44,
+    "time": 1320,
+    "worldMessage": "<font color=0x8bdefe>二更月落天深黑。</font>",
+    "remark": 430,
+    "remark2": 0
+  },
+  "45": {
+    "ID": 45,
+    "time": 1340,
+    "worldMessage": "<font color=0x8bdefe>天淡银河垂地。</font>",
+    "remark": 440,
+    "remark2": 0
+  },
+  "46": {
+    "ID": 46,
+    "time": 1380,
+    "worldMessage": "<font color=0x8bdefe>子规叫断三更月。听声声、枕上劝人归，归难得。</font>",
+    "remark": 450,
+    "remark2": 0
+  },
+  "47": {
+    "ID": 47,
+    "time": 1400,
+    "worldMessage": "<font color=0x8bdefe>天阶夜色凉如水。</font>",
+    "remark": 460,
+    "remark2": 0
+  },
+  "48": {
+    "ID": 48,
+    "time": 1420,
+    "worldMessage": "<font color=0x8bdefe>午夜凉生风不住。河汉无声，时见疏星度。</font>",
+    "remark": 470,
+    "remark2": 0
+  }
+}

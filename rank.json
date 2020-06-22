@@ -1,0 +1,530 @@
+{
+  "1": {
+    "ID": 1,
+    "type": 301,
+    "name": "成就",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 31
+  },
+  "2": {
+    "ID": 2,
+    "type": 301,
+    "name": "成就",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 32
+  },
+  "3": {
+    "ID": 3,
+    "type": 301,
+    "name": "成就",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 33
+  },
+  "4": {
+    "ID": 4,
+    "type": 0,
+    "name": "论剑",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 0
+  },
+  "5": {
+    "ID": 5,
+    "type": 0,
+    "name": "论剑",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 0
+  },
+  "6": {
+    "ID": 6,
+    "type": 0,
+    "name": "论剑",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 0
+  },
+  "7": {
+    "ID": 7,
+    "type": 101,
+    "name": "等级",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 34
+  },
+  "8": {
+    "ID": 8,
+    "type": 101,
+    "name": "等级",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 35
+  },
+  "9": {
+    "ID": 9,
+    "type": 101,
+    "name": "等级",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 36
+  },
+  "10": {
+    "ID": 10,
+    "type": 0,
+    "name": "升级最快",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 0
+  },
+  "11": {
+    "ID": 11,
+    "type": 0,
+    "name": "升级最快",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 0
+  },
+  "12": {
+    "ID": 12,
+    "type": 0,
+    "name": "升级最快",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 0
+  },
+  "13": {
+    "ID": 13,
+    "type": 701,
+    "name": "绝学数量",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 37
+  },
+  "14": {
+    "ID": 14,
+    "type": 701,
+    "name": "绝学数量",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 38
+  },
+  "15": {
+    "ID": 15,
+    "type": 701,
+    "name": "绝学数量",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 39
+  },
+  "16": {
+    "ID": 16,
+    "type": 801,
+    "name": "杂学等级",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 40
+  },
+  "17": {
+    "ID": 17,
+    "type": 801,
+    "name": "杂学等级",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 41
+  },
+  "18": {
+    "ID": 18,
+    "type": 801,
+    "name": "杂学等级",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 42
+  },
+  "19": {
+    "ID": 19,
+    "type": 0,
+    "name": "装备评分",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 0
+  },
+  "20": {
+    "ID": 20,
+    "type": 0,
+    "name": "装备评分",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 0
+  },
+  "21": {
+    "ID": 21,
+    "type": 0,
+    "name": "装备评分",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 0
+  },
+  "22": {
+    "ID": 22,
+    "type": 0,
+    "name": "武功评分",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 0
+  },
+  "23": {
+    "ID": 23,
+    "type": 0,
+    "name": "武功评分",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 0
+  },
+  "24": {
+    "ID": 24,
+    "type": 0,
+    "name": "武功评分",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 0
+  },
+  "25": {
+    "ID": 25,
+    "type": 501,
+    "name": "气血上限",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 43
+  },
+  "26": {
+    "ID": 26,
+    "type": 501,
+    "name": "气血上限",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 44
+  },
+  "27": {
+    "ID": 27,
+    "type": 501,
+    "name": "气血上限",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 45
+  },
+  "28": {
+    "ID": 28,
+    "type": 201,
+    "name": "内力",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 46
+  },
+  "29": {
+    "ID": 29,
+    "type": 201,
+    "name": "内力",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 47
+  },
+  "30": {
+    "ID": 30,
+    "type": 201,
+    "name": "内力",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 48
+  },
+  "31": {
+    "ID": 31,
+    "type": 601,
+    "name": "功力",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 49
+  },
+  "32": {
+    "ID": 32,
+    "type": 601,
+    "name": "功力",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 50
+  },
+  "33": {
+    "ID": 33,
+    "type": 601,
+    "name": "功力",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 51
+  },
+  "34": {
+    "ID": 34,
+    "type": 401,
+    "name": "攻击",
+    "rank1": 5,
+    "rank2": 3,
+    "reward": 52
+  },
+  "35": {
+    "ID": 35,
+    "type": 401,
+    "name": "攻击",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 53
+  },
+  "36": {
+    "ID": 36,
+    "type": 401,
+    "name": "攻击",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 54
+  },
+  "37": {
+    "ID": 37,
+    "type": 1001,
+    "name": "臂力",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 55
+  },
+  "38": {
+    "ID": 38,
+    "type": 1001,
+    "name": "臂力",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 56
+  },
+  "39": {
+    "ID": 39,
+    "type": 1001,
+    "name": "臂力",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 57
+  },
+  "40": {
+    "ID": 40,
+    "type": 1002,
+    "name": "根骨",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 58
+  },
+  "41": {
+    "ID": 41,
+    "type": 1002,
+    "name": "根骨",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 59
+  },
+  "42": {
+    "ID": 42,
+    "type": 1002,
+    "name": "根骨",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 60
+  },
+  "43": {
+    "ID": 43,
+    "type": 1003,
+    "name": "身法",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 61
+  },
+  "44": {
+    "ID": 44,
+    "type": 1003,
+    "name": "身法",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 62
+  },
+  "45": {
+    "ID": 45,
+    "type": 1003,
+    "name": "身法",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 63
+  },
+  "46": {
+    "ID": 46,
+    "type": 1004,
+    "name": "福缘",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 64
+  },
+  "47": {
+    "ID": 47,
+    "type": 1004,
+    "name": "福缘",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 65
+  },
+  "48": {
+    "ID": 48,
+    "type": 1004,
+    "name": "福缘",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 66
+  },
+  "49": {
+    "ID": 49,
+    "type": 1005,
+    "name": "悟性",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 67
+  },
+  "50": {
+    "ID": 50,
+    "type": 1005,
+    "name": "悟性",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 68
+  },
+  "51": {
+    "ID": 51,
+    "type": 1005,
+    "name": "悟性",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 69
+  },
+  "52": {
+    "ID": 52,
+    "type": 1006,
+    "name": "灵性",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 70
+  },
+  "53": {
+    "ID": 53,
+    "type": 1006,
+    "name": "灵性",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 71
+  },
+  "54": {
+    "ID": 54,
+    "type": 1006,
+    "name": "灵性",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 72
+  },
+  "55": {
+    "ID": 55,
+    "type": 1007,
+    "name": "容貌",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 73
+  },
+  "56": {
+    "ID": 56,
+    "type": 1007,
+    "name": "容貌",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 74
+  },
+  "57": {
+    "ID": 57,
+    "type": 1007,
+    "name": "容貌",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 75
+  },
+  "58": {
+    "ID": 58,
+    "type": 1008,
+    "name": "治疗",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 76
+  },
+  "59": {
+    "ID": 59,
+    "type": 1008,
+    "name": "治疗",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 77
+  },
+  "60": {
+    "ID": 60,
+    "type": 1008,
+    "name": "治疗",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 78
+  },
+  "61": {
+    "ID": 61,
+    "type": 1009,
+    "name": "技巧",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 79
+  },
+  "62": {
+    "ID": 62,
+    "type": 1009,
+    "name": "技巧",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 80
+  },
+  "63": {
+    "ID": 63,
+    "type": 1009,
+    "name": "技巧",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 81
+  },
+  "64": {
+    "ID": 64,
+    "type": 1010,
+    "name": "抵抗",
+    "rank1": 3,
+    "rank2": 3,
+    "reward": 82
+  },
+  "65": {
+    "ID": 65,
+    "type": 1010,
+    "name": "抵抗",
+    "rank1": 2,
+    "rank2": 2,
+    "reward": 83
+  },
+  "66": {
+    "ID": 66,
+    "type": 1010,
+    "name": "抵抗",
+    "rank1": 1,
+    "rank2": 1,
+    "reward": 84
+  }
+}
