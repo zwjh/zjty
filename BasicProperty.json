@@ -682,5 +682,17 @@
     "color": "0x269d53",
     "order": 0,
     "title": 0
+  },
+  "58": {
+    "ID": 58,
+    "name": "PVP减伤",
+    "basicValue1": 0,
+    "basicValue2": 0,
+    "basicValue3": 0,
+    "basicValue4": 0,
+    "limit": 10000,
+    "color": "0x269d53",
+    "order": 0,
+    "title": 0
   }
 }

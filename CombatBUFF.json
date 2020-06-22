@@ -17,7 +17,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 1400,
-    "Influence": 0
+    "Influence": 50
   },
   "2": {
     "id": 2,
@@ -37,7 +37,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 2222,
-    "Influence": 0
+    "Influence": 50
   },
   "3": {
     "id": 3,
@@ -57,7 +57,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 3300,
-    "Influence": 0
+    "Influence": 50
   },
   "4": {
     "id": 4,
@@ -197,7 +197,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "11": {
     "id": 11,
@@ -217,7 +217,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "12": {
     "id": 12,
@@ -237,7 +237,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "13": {
     "id": 13,
@@ -257,7 +257,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "14": {
     "id": 14,
@@ -277,7 +277,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "15": {
     "id": 15,
@@ -297,7 +297,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "16": {
     "id": 16,
@@ -317,7 +317,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "17": {
     "id": 17,
@@ -337,7 +337,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "18": {
     "id": 18,
@@ -357,7 +357,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "19": {
     "id": 19,
@@ -377,7 +377,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "20": {
     "id": 20,
@@ -457,7 +457,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 30,
-    "Influence": 0
+    "Influence": 50
   },
   "24": {
     "id": 24,
@@ -477,7 +477,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 36,
-    "Influence": 0
+    "Influence": 50
   },
   "25": {
     "id": 25,
@@ -497,7 +497,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 42,
-    "Influence": 0
+    "Influence": 50
   },
   "26": {
     "id": 26,
@@ -517,7 +517,7 @@
     "target": 1,
     "buffClass": 11,
     "order": 76.5,
-    "Influence": 0
+    "Influence": 50
   },
   "27": {
     "id": 27,
@@ -537,7 +537,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 63,
-    "Influence": 0
+    "Influence": 50
   },
   "28": {
     "id": 28,
@@ -557,7 +557,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 91,
-    "Influence": 0
+    "Influence": 50
   },
   "29": {
     "id": 29,
@@ -577,7 +577,7 @@
     "target": 1,
     "buffClass": 14,
     "order": 105.00000000000001,
-    "Influence": 0
+    "Influence": 50
   },
   "30": {
     "id": 30,
@@ -597,7 +597,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 77,
-    "Influence": 0
+    "Influence": 50
   },
   "31": {
     "id": 31,
@@ -617,7 +617,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 105.00000000000001,
-    "Influence": 0
+    "Influence": 50
   },
   "32": {
     "id": 32,
@@ -637,7 +637,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 91,
-    "Influence": 0
+    "Influence": 50
   },
   "33": {
     "id": 33,
@@ -657,7 +657,7 @@
     "target": 1,
     "buffClass": 15,
     "order": 110,
-    "Influence": 0
+    "Influence": 50
   },
   "34": {
     "id": 34,
@@ -677,7 +677,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 78,
-    "Influence": 0
+    "Influence": 50
   },
   "35": {
     "id": 35,
@@ -697,7 +697,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 90.000000000000014,
-    "Influence": 0
+    "Influence": 50
   },
   "36": {
     "id": 36,
@@ -717,7 +717,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 63,
-    "Influence": 0
+    "Influence": 50
   },
   "37": {
     "id": 37,
@@ -737,7 +737,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 77,
-    "Influence": 0
+    "Influence": 50
   },
   "38": {
     "id": 38,
@@ -757,7 +757,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 91,
-    "Influence": 0
+    "Influence": 50
   },
   "39": {
     "id": 39,
@@ -1397,7 +1397,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "71": {
     "id": 71,
@@ -1417,7 +1417,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4200,
-    "Influence": 0
+    "Influence": 50
   },
   "72": {
     "id": 72,
@@ -1457,7 +1457,7 @@
     "target": 0,
     "buffClass": 5,
     "order": 210,
-    "Influence": 0
+    "Influence": 50
   },
   "74": {
     "id": 74,
@@ -1477,7 +1477,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "75": {
     "id": 75,
@@ -1497,7 +1497,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 210,
-    "Influence": 0
+    "Influence": 50
   },
   "76": {
     "id": 76,
@@ -1517,7 +1517,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "77": {
     "id": 77,
@@ -1537,7 +1537,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 28120,
-    "Influence": 0
+    "Influence": 50
   },
   "78": {
     "id": 78,
@@ -1577,7 +1577,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4500,
-    "Influence": 0
+    "Influence": 50
   },
   "80": {
     "id": 80,
@@ -1637,7 +1637,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "83": {
     "id": 83,
@@ -1677,7 +1677,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "85": {
     "id": 85,
@@ -1717,7 +1717,7 @@
     "target": 0,
     "buffClass": 7,
     "order": 279.99999999999994,
-    "Influence": 0
+    "Influence": 50
   },
   "87": {
     "id": 87,
@@ -1737,7 +1737,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "88": {
     "id": 88,
@@ -1757,7 +1757,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 279.99999999999994,
-    "Influence": 0
+    "Influence": 50
   },
   "89": {
     "id": 89,
@@ -1777,7 +1777,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "90": {
     "id": 90,
@@ -1797,7 +1797,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "91": {
     "id": 91,
@@ -1817,7 +1817,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 630,
-    "Influence": 0
+    "Influence": 50
   },
   "92": {
     "id": 92,
@@ -1837,7 +1837,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 279.99999999999994,
-    "Influence": 0
+    "Influence": 50
   },
   "93": {
     "id": 93,
@@ -1857,7 +1857,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 2600,
-    "Influence": 0
+    "Influence": 50
   },
   "94": {
     "id": 94,
@@ -1877,7 +1877,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 6750,
-    "Influence": 0
+    "Influence": 50
   },
   "95": {
     "id": 95,
@@ -1897,7 +1897,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 3600,
-    "Influence": 0
+    "Influence": 50
   },
   "96": {
     "id": 96,
@@ -1917,7 +1917,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "97": {
     "id": 97,
@@ -1937,7 +1937,7 @@
     "target": 0,
     "buffClass": 7,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "98": {
     "id": 98,
@@ -1957,7 +1957,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4500,
-    "Influence": 0
+    "Influence": 50
   },
   "99": {
     "id": 99,
@@ -1977,7 +1977,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5000,
-    "Influence": 0
+    "Influence": 50
   },
   "100": {
     "id": 100,
@@ -1997,7 +1997,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5500,
-    "Influence": 0
+    "Influence": 50
   },
   "101": {
     "id": 101,
@@ -2017,7 +2017,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 10000,
-    "Influence": 0
+    "Influence": 50
   },
   "102": {
     "id": 102,
@@ -2037,7 +2037,7 @@
     "target": 0,
     "buffClass": 7,
     "order": 350,
-    "Influence": 0
+    "Influence": 50
   },
   "103": {
     "id": 103,
@@ -2057,7 +2057,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 1350,
-    "Influence": 0
+    "Influence": 50
   },
   "104": {
     "id": 104,
@@ -2077,7 +2077,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 7050,
-    "Influence": 0
+    "Influence": 50
   },
   "105": {
     "id": 105,
@@ -2097,7 +2097,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 240,
-    "Influence": 0
+    "Influence": 50
   },
   "106": {
     "id": 106,
@@ -2117,7 +2117,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 200,
-    "Influence": 0
+    "Influence": 50
   },
   "107": {
     "id": 107,
@@ -2137,7 +2137,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "108": {
     "id": 108,
@@ -2157,7 +2157,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 200,
-    "Influence": 0
+    "Influence": 50
   },
   "109": {
     "id": 109,
@@ -2177,7 +2177,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 540,
-    "Influence": 0
+    "Influence": 50
   },
   "110": {
     "id": 110,
@@ -2197,7 +2197,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 200,
-    "Influence": 0
+    "Influence": 50
   },
   "111": {
     "id": 111,
@@ -2217,7 +2217,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "112": {
     "id": 112,
@@ -2237,7 +2237,7 @@
     "target": 0,
     "buffClass": 14,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "113": {
     "id": 113,
@@ -2257,7 +2257,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "114": {
     "id": 114,
@@ -2277,7 +2277,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5250,
-    "Influence": 0
+    "Influence": 50
   },
   "115": {
     "id": 115,
@@ -2297,7 +2297,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "116": {
     "id": 116,
@@ -2317,7 +2317,7 @@
     "target": 0,
     "buffClass": 11,
     "order": 255,
-    "Influence": 0
+    "Influence": 50
   },
   "117": {
     "id": 117,
@@ -2357,7 +2357,7 @@
     "target": 0,
     "buffClass": 14,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "119": {
     "id": 119,
@@ -2377,7 +2377,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "120": {
     "id": 120,
@@ -2397,7 +2397,7 @@
     "target": 0,
     "buffClass": 14,
     "order": 630,
-    "Influence": 0
+    "Influence": 50
   },
   "121": {
     "id": 121,
@@ -2417,7 +2417,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "122": {
     "id": 122,
@@ -2437,7 +2437,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4900,
-    "Influence": 0
+    "Influence": 50
   },
   "123": {
     "id": 123,
@@ -2457,7 +2457,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "124": {
     "id": 124,
@@ -2477,7 +2477,7 @@
     "target": 0,
     "buffClass": 11,
     "order": 170,
-    "Influence": 0
+    "Influence": 50
   },
   "125": {
     "id": 125,
@@ -2497,7 +2497,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "126": {
     "id": 126,
@@ -2517,7 +2517,7 @@
     "target": 0,
     "buffClass": 11,
     "order": 425,
-    "Influence": 0
+    "Influence": 50
   },
   "127": {
     "id": 127,
@@ -2537,7 +2537,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "128": {
     "id": 128,
@@ -2557,7 +2557,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 210,
-    "Influence": 0
+    "Influence": 50
   },
   "129": {
     "id": 129,
@@ -2577,7 +2577,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 18,
-    "Influence": 0
+    "Influence": 50
   },
   "130": {
     "id": 130,
@@ -2597,7 +2597,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5400,
-    "Influence": 0
+    "Influence": 50
   },
   "131": {
     "id": 131,
@@ -2617,7 +2617,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 24,
-    "Influence": 0
+    "Influence": 50
   },
   "132": {
     "id": 132,
@@ -2637,7 +2637,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 60,
-    "Influence": 0
+    "Influence": 50
   },
   "133": {
     "id": 133,
@@ -2657,7 +2657,7 @@
     "target": 0,
     "buffClass": 5,
     "order": 279.99999999999994,
-    "Influence": 0
+    "Influence": 50
   },
   "134": {
     "id": 134,
@@ -2677,7 +2677,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5000,
-    "Influence": 0
+    "Influence": 50
   },
   "135": {
     "id": 135,
@@ -2697,7 +2697,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "136": {
     "id": 136,
@@ -2737,7 +2737,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "138": {
     "id": 138,
@@ -2757,7 +2757,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "139": {
     "id": 139,
@@ -2777,7 +2777,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "140": {
     "id": 140,
@@ -2797,7 +2797,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "141": {
     "id": 141,
@@ -2857,7 +2857,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5850,
-    "Influence": 0
+    "Influence": 50
   },
   "144": {
     "id": 144,
@@ -2877,7 +2877,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 800,
-    "Influence": 0
+    "Influence": 50
   },
   "145": {
     "id": 145,
@@ -2897,7 +2897,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 36000,
-    "Influence": 0
+    "Influence": 50
   },
   "146": {
     "id": 146,
@@ -2917,7 +2917,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "147": {
     "id": 147,
@@ -2937,7 +2937,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 3000,
-    "Influence": 0
+    "Influence": 50
   },
   "148": {
     "id": 148,
@@ -2957,7 +2957,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "149": {
     "id": 149,
@@ -2977,7 +2977,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 630,
-    "Influence": 0
+    "Influence": 50
   },
   "150": {
     "id": 150,
@@ -3017,7 +3017,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 2100,
-    "Influence": 0
+    "Influence": 50
   },
   "152": {
     "id": 152,
@@ -3117,7 +3117,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 20000,
-    "Influence": 0
+    "Influence": 50
   },
   "157": {
     "id": 157,
@@ -3157,7 +3157,7 @@
     "target": 0,
     "buffClass": 7,
     "order": 630,
-    "Influence": 0
+    "Influence": 50
   },
   "159": {
     "id": 159,
@@ -3177,7 +3177,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "160": {
     "id": 160,
@@ -3197,7 +3197,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5300,
-    "Influence": 0
+    "Influence": 50
   },
   "161": {
     "id": 161,
@@ -3217,7 +3217,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "162": {
     "id": 162,
@@ -3237,7 +3237,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "163": {
     "id": 163,
@@ -3257,7 +3257,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 630,
-    "Influence": 0
+    "Influence": 50
   },
   "164": {
     "id": 164,
@@ -3277,7 +3277,7 @@
     "target": 0,
     "buffClass": 7,
     "order": 279.99999999999994,
-    "Influence": 0
+    "Influence": 50
   },
   "165": {
     "id": 165,
@@ -3337,7 +3337,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "168": {
     "id": 168,
@@ -3377,7 +3377,7 @@
     "target": 0,
     "buffClass": 17,
     "order": 18,
-    "Influence": 0
+    "Influence": 50
   },
   "170": {
     "id": 170,
@@ -3397,7 +3397,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 750,
-    "Influence": 0
+    "Influence": 50
   },
   "171": {
     "id": 171,
@@ -3417,7 +3417,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 120,
-    "Influence": 0
+    "Influence": 50
   },
   "172": {
     "id": 172,
@@ -3437,7 +3437,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "173": {
     "id": 173,
@@ -3477,7 +3477,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 1000,
-    "Influence": 0
+    "Influence": 50
   },
   "175": {
     "id": 175,
@@ -3517,7 +3517,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4500,
-    "Influence": 0
+    "Influence": 50
   },
   "177": {
     "id": 177,
@@ -3557,7 +3557,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "179": {
     "id": 179,
@@ -3577,7 +3577,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 8000,
-    "Influence": 0
+    "Influence": 50
   },
   "180": {
     "id": 180,
@@ -3597,7 +3597,7 @@
     "target": 1,
     "buffClass": 15,
     "order": 300,
-    "Influence": 0
+    "Influence": 50
   },
   "181": {
     "id": 181,
@@ -3617,7 +3617,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "182": {
     "id": 182,
@@ -3637,7 +3637,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 200,
-    "Influence": 0
+    "Influence": 50
   },
   "183": {
     "id": 183,
@@ -3657,7 +3657,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 5000,
-    "Influence": 0
+    "Influence": 50
   },
   "184": {
     "id": 184,
@@ -3677,7 +3677,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4400,
-    "Influence": 0
+    "Influence": 50
   },
   "185": {
     "id": 185,
@@ -3697,7 +3697,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 210,
-    "Influence": 0
+    "Influence": 50
   },
   "186": {
     "id": 186,
@@ -3717,7 +3717,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "187": {
     "id": 187,
@@ -3737,7 +3737,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "188": {
     "id": 188,
@@ -3777,7 +3777,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 500,
-    "Influence": 0
+    "Influence": 50
   },
   "190": {
     "id": 190,
@@ -3817,7 +3817,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 500,
-    "Influence": 0
+    "Influence": 50
   },
   "192": {
     "id": 192,
@@ -3857,7 +3857,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 500,
-    "Influence": 0
+    "Influence": 50
   },
   "194": {
     "id": 194,
@@ -3897,7 +3897,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 500,
-    "Influence": 0
+    "Influence": 50
   },
   "196": {
     "id": 196,
@@ -3937,7 +3937,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 500,
-    "Influence": 0
+    "Influence": 50
   },
   "198": {
     "id": 198,
@@ -3977,7 +3977,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 500,
-    "Influence": 0
+    "Influence": 50
   },
   "200": {
     "id": 200,
@@ -4017,7 +4017,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 360,
-    "Influence": 0
+    "Influence": 50
   },
   "202": {
     "id": 202,
@@ -4037,7 +4037,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 360,
-    "Influence": 0
+    "Influence": 50
   },
   "203": {
     "id": 203,
@@ -4057,7 +4057,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 360,
-    "Influence": 0
+    "Influence": 50
   },
   "204": {
     "id": 204,
@@ -4077,7 +4077,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 360,
-    "Influence": 0
+    "Influence": 50
   },
   "205": {
     "id": 205,
@@ -4097,7 +4097,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 480,
-    "Influence": 0
+    "Influence": 50
   },
   "206": {
     "id": 206,
@@ -4137,7 +4137,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 3000,
-    "Influence": 0
+    "Influence": 50
   },
   "208": {
     "id": 208,
@@ -4157,7 +4157,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 540,
-    "Influence": 0
+    "Influence": 50
   },
   "209": {
     "id": 209,
@@ -4177,7 +4177,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 200,
-    "Influence": 0
+    "Influence": 50
   },
   "210": {
     "id": 210,
@@ -4197,7 +4197,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 33750,
-    "Influence": 0
+    "Influence": 50
   },
   "211": {
     "id": 211,
@@ -4217,7 +4217,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "212": {
     "id": 212,
@@ -4237,7 +4237,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "213": {
     "id": 213,
@@ -4297,7 +4297,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 24,
-    "Influence": 0
+    "Influence": 50
   },
   "216": {
     "id": 216,
@@ -4357,7 +4357,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 210,
-    "Influence": 0
+    "Influence": 50
   },
   "219": {
     "id": 219,
@@ -4377,7 +4377,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "220": {
     "id": 220,
@@ -4417,7 +4417,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 37500,
-    "Influence": 0
+    "Influence": 50
   },
   "222": {
     "id": 222,
@@ -4437,7 +4437,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "223": {
     "id": 223,
@@ -4457,7 +4457,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "224": {
     "id": 224,
@@ -4477,7 +4477,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 350,
-    "Influence": 0
+    "Influence": 50
   },
   "225": {
     "id": 225,
@@ -4497,7 +4497,7 @@
     "target": 1,
     "buffClass": 15,
     "order": 400,
-    "Influence": 0
+    "Influence": 50
   },
   "226": {
     "id": 226,
@@ -4537,7 +4537,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "228": {
     "id": 228,
@@ -4557,7 +4557,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "229": {
     "id": 229,
@@ -4577,7 +4577,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "230": {
     "id": 230,
@@ -4617,7 +4617,7 @@
     "target": 0,
     "buffClass": 5,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "232": {
     "id": 232,
@@ -4637,7 +4637,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 3600,
-    "Influence": 0
+    "Influence": 50
   },
   "233": {
     "id": 233,
@@ -4657,7 +4657,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 240,
-    "Influence": 0
+    "Influence": 50
   },
   "234": {
     "id": 234,
@@ -4677,7 +4677,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 400,
-    "Influence": 0
+    "Influence": 50
   },
   "235": {
     "id": 235,
@@ -4697,7 +4697,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "236": {
     "id": 236,
@@ -4717,7 +4717,7 @@
     "target": 0,
     "buffClass": 11,
     "order": 765,
-    "Influence": 0
+    "Influence": 50
   },
   "237": {
     "id": 237,
@@ -4737,7 +4737,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 33750,
-    "Influence": 0
+    "Influence": 50
   },
   "238": {
     "id": 238,
@@ -4777,7 +4777,7 @@
     "target": 1,
     "buffClass": 17,
     "order": 18,
-    "Influence": 0
+    "Influence": 50
   },
   "240": {
     "id": 240,
@@ -4797,7 +4797,7 @@
     "target": 1,
     "buffClass": 11,
     "order": 425,
-    "Influence": 0
+    "Influence": 50
   },
   "241": {
     "id": 241,
@@ -4817,7 +4817,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 279.99999999999994,
-    "Influence": 0
+    "Influence": 50
   },
   "242": {
     "id": 242,
@@ -4837,7 +4837,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "243": {
     "id": 243,
@@ -4877,7 +4877,7 @@
     "target": 0,
     "buffClass": 15,
     "order": 400,
-    "Influence": 0
+    "Influence": 50
   },
   "245": {
     "id": 245,
@@ -4897,7 +4897,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "246": {
     "id": 246,
@@ -4917,7 +4917,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 12000,
-    "Influence": 0
+    "Influence": 50
   },
   "247": {
     "id": 247,
@@ -4937,7 +4937,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "248": {
     "id": 248,
@@ -4977,7 +4977,7 @@
     "target": 0,
     "buffClass": 11,
     "order": 255,
-    "Influence": 0
+    "Influence": 50
   },
   "250": {
     "id": 250,
@@ -4997,7 +4997,7 @@
     "target": 1,
     "buffClass": 11,
     "order": 170,
-    "Influence": 0
+    "Influence": 50
   },
   "251": {
     "id": 251,
@@ -5017,7 +5017,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 10000,
-    "Influence": 0
+    "Influence": 50
   },
   "252": {
     "id": 252,
@@ -5037,7 +5037,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "253": {
     "id": 253,
@@ -5057,7 +5057,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 630,
-    "Influence": 0
+    "Influence": 50
   },
   "254": {
     "id": 254,
@@ -5077,7 +5077,7 @@
     "target": 1,
     "buffClass": 7,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "255": {
     "id": 255,
@@ -5097,7 +5097,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "256": {
     "id": 256,
@@ -5117,7 +5117,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "257": {
     "id": 257,
@@ -5137,7 +5137,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 1300,
-    "Influence": 0
+    "Influence": 50
   },
   "258": {
     "id": 258,
@@ -5157,7 +5157,7 @@
     "target": 1,
     "buffClass": 5,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "259": {
     "id": 259,
@@ -5177,7 +5177,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 4300,
-    "Influence": 0
+    "Influence": 50
   },
   "260": {
     "id": 260,
@@ -5197,7 +5197,7 @@
     "target": 1,
     "buffClass": 15,
     "order": 200,
-    "Influence": 0
+    "Influence": 50
   },
   "261": {
     "id": 261,
@@ -5217,7 +5217,7 @@
     "target": 1,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "262": {
     "id": 262,
@@ -5237,7 +5237,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 12600,
-    "Influence": 0
+    "Influence": 50
   },
   "263": {
     "id": 263,
@@ -5257,7 +5257,7 @@
     "target": 1,
     "buffClass": 11,
     "order": 170,
-    "Influence": 0
+    "Influence": 50
   },
   "264": {
     "id": 264,
@@ -5277,7 +5277,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 30000,
-    "Influence": 0
+    "Influence": 50
   },
   "265": {
     "id": 265,
@@ -5297,7 +5297,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "266": {
     "id": 266,
@@ -5317,7 +5317,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "267": {
     "id": 267,
@@ -5337,7 +5337,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "268": {
     "id": 268,
@@ -5357,7 +5357,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "269": {
     "id": 269,
@@ -5377,7 +5377,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "270": {
     "id": 270,
@@ -5397,7 +5397,7 @@
     "target": 0,
     "buffClass": 9,
     "order": 139.99999999999997,
-    "Influence": 0
+    "Influence": 50
   },
   "271": {
     "id": 271,
@@ -5477,7 +5477,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "275": {
     "id": 275,
@@ -5497,7 +5497,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 22200,
-    "Influence": 0
+    "Influence": 50
   },
   "276": {
     "id": 276,
@@ -5537,7 +5537,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 23000,
-    "Influence": 0
+    "Influence": 50
   },
   "278": {
     "id": 278,
@@ -5557,7 +5557,7 @@
     "target": 1,
     "buffClass": 32,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "279": {
     "id": 279,
@@ -5577,7 +5577,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 16200,
-    "Influence": 0
+    "Influence": 50
   },
   "280": {
     "id": 280,
@@ -5717,7 +5717,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "287": {
     "id": 287,
@@ -5817,7 +5817,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "292": {
     "id": 292,
@@ -5857,7 +5857,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "294": {
     "id": 294,
@@ -5877,7 +5877,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "295": {
     "id": 295,
@@ -5897,7 +5897,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "296": {
     "id": 296,
@@ -5917,7 +5917,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "297": {
     "id": 297,
@@ -5957,7 +5957,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "299": {
     "id": 299,
@@ -5977,7 +5977,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "300": {
     "id": 300,
@@ -5997,7 +5997,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "301": {
     "id": 301,
@@ -6017,7 +6017,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "302": {
     "id": 302,
@@ -6037,7 +6037,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "303": {
     "id": 303,
@@ -6117,7 +6117,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "307": {
     "id": 307,
@@ -6137,7 +6137,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "308": {
     "id": 308,
@@ -6157,7 +6157,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "309": {
     "id": 309,
@@ -6177,7 +6177,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "310": {
     "id": 310,
@@ -6197,7 +6197,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "311": {
     "id": 311,
@@ -6237,7 +6237,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "313": {
     "id": 313,
@@ -6257,7 +6257,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "314": {
     "id": 314,
@@ -6297,7 +6297,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "316": {
     "id": 316,
@@ -6317,7 +6317,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "317": {
     "id": 317,
@@ -6337,7 +6337,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "318": {
     "id": 318,
@@ -6357,7 +6357,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "319": {
     "id": 319,
@@ -6377,7 +6377,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "320": {
     "id": 320,
@@ -6397,7 +6397,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "321": {
     "id": 321,
@@ -6417,7 +6417,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "322": {
     "id": 322,
@@ -6437,7 +6437,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "323": {
     "id": 323,
@@ -6457,7 +6457,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "324": {
     "id": 324,
@@ -6477,7 +6477,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "325": {
     "id": 325,
@@ -6497,7 +6497,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "326": {
     "id": 326,
@@ -6537,7 +6537,7 @@
     "target": 0,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "328": {
     "id": 328,
@@ -6557,7 +6557,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "329": {
     "id": 329,
@@ -6597,7 +6597,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "331": {
     "id": 331,
@@ -6617,7 +6617,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "332": {
     "id": 332,
@@ -6657,7 +6657,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "334": {
     "id": 334,
@@ -6717,7 +6717,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "337": {
     "id": 337,
@@ -6897,7 +6897,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "346": {
     "id": 346,
@@ -6917,7 +6917,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "347": {
     "id": 347,
@@ -6937,7 +6937,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "348": {
     "id": 348,
@@ -6957,7 +6957,7 @@
     "target": 0,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "349": {
     "id": 349,
@@ -6977,7 +6977,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "350": {
     "id": 350,
@@ -7037,7 +7037,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "353": {
     "id": 353,
@@ -7057,7 +7057,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "354": {
     "id": 354,
@@ -7077,7 +7077,7 @@
     "target": 0,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "355": {
     "id": 355,
@@ -7097,7 +7097,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "356": {
     "id": 356,
@@ -7117,7 +7117,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "357": {
     "id": 357,
@@ -7137,7 +7137,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "358": {
     "id": 358,
@@ -7157,7 +7157,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "359": {
     "id": 359,
@@ -7177,7 +7177,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "360": {
     "id": 360,
@@ -7217,7 +7217,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "362": {
     "id": 362,
@@ -7237,7 +7237,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "363": {
     "id": 363,
@@ -7257,7 +7257,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "364": {
     "id": 364,
@@ -7277,7 +7277,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "365": {
     "id": 365,
@@ -7297,7 +7297,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "366": {
     "id": 366,
@@ -7317,7 +7317,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "367": {
     "id": 367,
@@ -7337,7 +7337,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "368": {
     "id": 368,
@@ -7357,7 +7357,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "369": {
     "id": 369,
@@ -7377,7 +7377,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "370": {
     "id": 370,
@@ -7397,7 +7397,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "371": {
     "id": 371,
@@ -7417,7 +7417,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "372": {
     "id": 372,
@@ -7437,7 +7437,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "373": {
     "id": 373,
@@ -7457,7 +7457,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "374": {
     "id": 374,
@@ -7477,7 +7477,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "375": {
     "id": 375,
@@ -7497,7 +7497,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "376": {
     "id": 376,
@@ -7517,7 +7517,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "377": {
     "id": 377,
@@ -7537,7 +7537,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "378": {
     "id": 378,
@@ -7557,7 +7557,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "379": {
     "id": 379,
@@ -7577,7 +7577,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "380": {
     "id": 380,
@@ -7597,7 +7597,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "381": {
     "id": 381,
@@ -7617,7 +7617,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "382": {
     "id": 382,
@@ -7637,7 +7637,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "383": {
     "id": 383,
@@ -7657,7 +7657,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "384": {
     "id": 384,
@@ -7677,7 +7677,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "385": {
     "id": 385,
@@ -7697,7 +7697,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "386": {
     "id": 386,
@@ -7717,7 +7717,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "387": {
     "id": 387,
@@ -7797,7 +7797,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "391": {
     "id": 391,
@@ -7817,7 +7817,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "392": {
     "id": 392,
@@ -7837,7 +7837,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "393": {
     "id": 393,
@@ -7917,7 +7917,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "397": {
     "id": 397,
@@ -7937,7 +7937,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "398": {
     "id": 398,
@@ -7957,7 +7957,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "399": {
     "id": 399,
@@ -7977,7 +7977,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "400": {
     "id": 400,
@@ -7997,7 +7997,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "401": {
     "id": 401,
@@ -8017,7 +8017,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "402": {
     "id": 402,
@@ -8037,7 +8037,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "403": {
     "id": 403,
@@ -8057,7 +8057,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "404": {
     "id": 404,
@@ -8077,7 +8077,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "405": {
     "id": 405,
@@ -8097,7 +8097,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "406": {
     "id": 406,
@@ -8117,7 +8117,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "407": {
     "id": 407,
@@ -8137,7 +8137,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "408": {
     "id": 408,
@@ -8157,7 +8157,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "409": {
     "id": 409,
@@ -8177,7 +8177,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "410": {
     "id": 410,
@@ -8197,7 +8197,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "411": {
     "id": 411,
@@ -8217,7 +8217,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "412": {
     "id": 412,
@@ -8257,7 +8257,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "414": {
     "id": 414,
@@ -8317,7 +8317,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "417": {
     "id": 417,
@@ -8337,7 +8337,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "418": {
     "id": 418,
@@ -8377,7 +8377,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "420": {
     "id": 420,
@@ -8497,7 +8497,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "426": {
     "id": 426,
@@ -8517,7 +8517,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "427": {
     "id": 427,
@@ -8537,7 +8537,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "428": {
     "id": 428,
@@ -8557,7 +8557,7 @@
     "target": 1,
     "buffClass": 31,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "429": {
     "id": 429,
@@ -8577,7 +8577,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 11000,
-    "Influence": 0
+    "Influence": 50
   },
   "430": {
     "id": 430,
@@ -8597,7 +8597,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 11000,
-    "Influence": 0
+    "Influence": 50
   },
   "431": {
     "id": 431,
@@ -8617,7 +8617,7 @@
     "target": 1,
     "buffClass": 21,
     "order": 11000,
-    "Influence": 0
+    "Influence": 50
   },
   "432": {
     "id": 432,
@@ -8637,7 +8637,7 @@
     "target": 0,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "433": {
     "id": 433,
@@ -8657,7 +8657,7 @@
     "target": 0,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "434": {
     "id": 434,
@@ -8677,7 +8677,7 @@
     "target": 0,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "435": {
     "id": 435,
@@ -8737,7 +8737,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "438": {
     "id": 438,
@@ -8777,7 +8777,7 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "440": {
     "id": 440,
@@ -8797,7 +8797,7 @@
     "target": 1,
     "buffClass": 33,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "441": {
     "id": 441,
@@ -8877,7 +8877,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 78,
-    "Influence": 0
+    "Influence": 50
   },
   "445": {
     "id": 445,
@@ -8917,7 +8917,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 78,
-    "Influence": 0
+    "Influence": 50
   },
   "447": {
     "id": 447,
@@ -8937,7 +8937,7 @@
     "target": 1,
     "buffClass": 1,
     "order": 78,
-    "Influence": 0
+    "Influence": 50
   },
   "448": {
     "id": 448,
@@ -8977,7 +8977,7 @@
     "target": 0,
     "buffClass": 1,
     "order": 78,
-    "Influence": 0
+    "Influence": 50
   },
   "450": {
     "id": 450,
@@ -8985,18 +8985,18 @@
     "buffType": 1,
     "buffPropertyId": 14,
     "valueType": 2,
-    "value": 0.05,
+    "value": 0.12,
     "timeType": 1,
     "time": 0,
-    "totalTime": 10,
-    "removeDialogue": "11147",
+    "totalTime": 9,
+    "removeDialogue": "0",
     "limitDialogue": "0",
     "triggerDialogue": "11146",
     "isDebuff": 0,
     "performance": "0",
     "target": 0,
     "buffClass": 99,
-    "order": 50,
+    "order": 120,
     "Influence": 0
   },
   "451": {
@@ -9017,7 +9017,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "452": {
     "id": 452,
@@ -9025,10 +9025,10 @@
     "buffType": 1,
     "buffPropertyId": 49,
     "valueType": 1,
-    "value": 500,
+    "value": 1200,
     "timeType": 1,
     "time": 0,
-    "totalTime": 10,
+    "totalTime": 9,
     "removeDialogue": "11147",
     "limitDialogue": "0",
     "triggerDialogue": "11146",
@@ -9036,7 +9036,7 @@
     "performance": "0",
     "target": 0,
     "buffClass": 99,
-    "order": 500000,
+    "order": 0,
     "Influence": 0
   },
   "453": {
@@ -9045,7 +9045,7 @@
     "buffType": 1,
     "buffPropertyId": 14,
     "valueType": 2,
-    "value": -0.05,
+    "value": -0.15,
     "timeType": 1,
     "time": 0,
     "totalTime": 9,
@@ -9057,7 +9057,7 @@
     "target": 1,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "454": {
     "id": 454,
@@ -9065,7 +9065,7 @@
     "buffType": 1,
     "buffPropertyId": 54,
     "valueType": 1,
-    "value": 500,
+    "value": 1000,
     "timeType": 1,
     "time": 0,
     "totalTime": 9,
@@ -9077,7 +9077,7 @@
     "target": 0,
     "buffClass": 0,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   },
   "455": {
     "id": 455,
@@ -9088,7 +9088,7 @@
     "value": 0,
     "timeType": 1,
     "time": 0,
-    "totalTime": 7,
+    "totalTime": 5,
     "removeDialogue": "1105",
     "limitDialogue": "160",
     "triggerDialogue": "1095",
@@ -9097,6 +9097,6 @@
     "target": 1,
     "buffClass": 99,
     "order": 0,
-    "Influence": 0
+    "Influence": 50
   }
 }

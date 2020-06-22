@@ -1,0 +1,51 @@
+{
+  "1": {
+    "ID": 1,
+    "item_lv": 64,
+    "need_item_id": 12127,
+    "need_number": 18,
+    "rubbish": "1"
+  },
+  "2": {
+    "ID": 2,
+    "item_lv": 70,
+    "need_item_id": 12127,
+    "need_number": 50,
+    "rubbish": "1"
+  },
+  "3": {
+    "ID": 3,
+    "item_lv": 76,
+    "need_item_id": 12127,
+    "need_number": 88,
+    "rubbish": "1"
+  },
+  "4": {
+    "ID": 4,
+    "item_lv": 82,
+    "need_item_id": 12127,
+    "need_number": 144,
+    "rubbish": "1"
+  },
+  "5": {
+    "ID": 5,
+    "item_lv": 86,
+    "need_item_id": 12127,
+    "need_number": 144,
+    "rubbish": "1"
+  },
+  "6": {
+    "ID": 6,
+    "item_lv": 88,
+    "need_item_id": 12127,
+    "need_number": 360,
+    "rubbish": "1"
+  },
+  "7": {
+    "ID": 7,
+    "item_lv": 98,
+    "need_item_id": 12127,
+    "need_number": 1080,
+    "rubbish": "1"
+  }
+}

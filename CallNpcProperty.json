@@ -1,0 +1,1829 @@
+{
+  "1": {
+    "id": 1,
+    "callID": 1,
+    "levelmin": 1,
+    "levelmax": 10,
+    "name": "毒  蛇·1等",
+    "attrId": 11840,
+    "iconId": "an002015"
+  },
+  "2": {
+    "id": 2,
+    "callID": 1,
+    "levelmin": 11,
+    "levelmax": 20,
+    "name": "毒  蛇·2等",
+    "attrId": 11841,
+    "iconId": "an002015"
+  },
+  "3": {
+    "id": 3,
+    "callID": 1,
+    "levelmin": 21,
+    "levelmax": 30,
+    "name": "毒  蛇·3等",
+    "attrId": 11842,
+    "iconId": "an002015"
+  },
+  "4": {
+    "id": 4,
+    "callID": 1,
+    "levelmin": 31,
+    "levelmax": 40,
+    "name": "毒  蛇·4等",
+    "attrId": 11843,
+    "iconId": "an002015"
+  },
+  "5": {
+    "id": 5,
+    "callID": 1,
+    "levelmin": 41,
+    "levelmax": 50,
+    "name": "毒  蛇·5等",
+    "attrId": 11844,
+    "iconId": "an002015"
+  },
+  "6": {
+    "id": 6,
+    "callID": 1,
+    "levelmin": 51,
+    "levelmax": 60,
+    "name": "毒  蛇·6等",
+    "attrId": 11845,
+    "iconId": "an002015"
+  },
+  "7": {
+    "id": 7,
+    "callID": 1,
+    "levelmin": 61,
+    "levelmax": 70,
+    "name": "毒  蛇·7等",
+    "attrId": 11846,
+    "iconId": "an002015"
+  },
+  "8": {
+    "id": 8,
+    "callID": 1,
+    "levelmin": 71,
+    "levelmax": 80,
+    "name": "毒  蛇·8等",
+    "attrId": 11847,
+    "iconId": "an002015"
+  },
+  "9": {
+    "id": 9,
+    "callID": 1,
+    "levelmin": 81,
+    "levelmax": 90,
+    "name": "毒  蛇·9等",
+    "attrId": 11848,
+    "iconId": "an002015"
+  },
+  "10": {
+    "id": 10,
+    "callID": 1,
+    "levelmin": 91,
+    "levelmax": 100,
+    "name": "毒  蛇·10等",
+    "attrId": 11849,
+    "iconId": "an002015"
+  },
+  "11": {
+    "id": 11,
+    "callID": 1,
+    "levelmin": 101,
+    "levelmax": 110,
+    "name": "毒  蛇·11等",
+    "attrId": 11850,
+    "iconId": "an002015"
+  },
+  "12": {
+    "id": 12,
+    "callID": 1,
+    "levelmin": 111,
+    "levelmax": 120,
+    "name": "毒  蛇·12等",
+    "attrId": 11851,
+    "iconId": "an002015"
+  },
+  "13": {
+    "id": 13,
+    "callID": 1,
+    "levelmin": 121,
+    "levelmax": 130,
+    "name": "毒  蛇·13等",
+    "attrId": 11852,
+    "iconId": "an002015"
+  },
+  "14": {
+    "id": 14,
+    "callID": 1,
+    "levelmin": 131,
+    "levelmax": 140,
+    "name": "毒  蛇·14等",
+    "attrId": 11853,
+    "iconId": "an002015"
+  },
+  "15": {
+    "id": 15,
+    "callID": 1,
+    "levelmin": 141,
+    "levelmax": 150,
+    "name": "毒  蛇·15等",
+    "attrId": 11854,
+    "iconId": "an002015"
+  },
+  "16": {
+    "id": 16,
+    "callID": 1,
+    "levelmin": 151,
+    "levelmax": 160,
+    "name": "毒  蛇·16等",
+    "attrId": 11855,
+    "iconId": "an002015"
+  },
+  "17": {
+    "id": 17,
+    "callID": 1,
+    "levelmin": 161,
+    "levelmax": 170,
+    "name": "毒  蛇·17等",
+    "attrId": 11856,
+    "iconId": "an002015"
+  },
+  "18": {
+    "id": 18,
+    "callID": 1,
+    "levelmin": 171,
+    "levelmax": 180,
+    "name": "毒  蛇·18等",
+    "attrId": 11857,
+    "iconId": "an002015"
+  },
+  "19": {
+    "id": 19,
+    "callID": 1,
+    "levelmin": 181,
+    "levelmax": 190,
+    "name": "毒  蛇·19等",
+    "attrId": 11858,
+    "iconId": "an002015"
+  },
+  "20": {
+    "id": 20,
+    "callID": 1,
+    "levelmin": 191,
+    "levelmax": 200,
+    "name": "毒  蛇·20等",
+    "attrId": 11859,
+    "iconId": "an002015"
+  },
+  "21": {
+    "id": 21,
+    "callID": 1,
+    "levelmin": 201,
+    "levelmax": 210,
+    "name": "毒  蝎·1等",
+    "attrId": 11860,
+    "iconId": "an002037"
+  },
+  "22": {
+    "id": 22,
+    "callID": 1,
+    "levelmin": 211,
+    "levelmax": 220,
+    "name": "毒  蝎·2等",
+    "attrId": 11861,
+    "iconId": "an002037"
+  },
+  "23": {
+    "id": 23,
+    "callID": 1,
+    "levelmin": 221,
+    "levelmax": 230,
+    "name": "毒  蝎·3等",
+    "attrId": 11862,
+    "iconId": "an002037"
+  },
+  "24": {
+    "id": 24,
+    "callID": 1,
+    "levelmin": 231,
+    "levelmax": 240,
+    "name": "毒  蝎·4等",
+    "attrId": 11863,
+    "iconId": "an002037"
+  },
+  "25": {
+    "id": 25,
+    "callID": 1,
+    "levelmin": 241,
+    "levelmax": 250,
+    "name": "毒  蝎·5等",
+    "attrId": 11864,
+    "iconId": "an002037"
+  },
+  "26": {
+    "id": 26,
+    "callID": 1,
+    "levelmin": 251,
+    "levelmax": 260,
+    "name": "毒  蝎·6等",
+    "attrId": 11865,
+    "iconId": "an002037"
+  },
+  "27": {
+    "id": 27,
+    "callID": 1,
+    "levelmin": 261,
+    "levelmax": 270,
+    "name": "毒  蝎·7等",
+    "attrId": 11866,
+    "iconId": "an002037"
+  },
+  "28": {
+    "id": 28,
+    "callID": 1,
+    "levelmin": 271,
+    "levelmax": 280,
+    "name": "毒  蝎·8等",
+    "attrId": 11867,
+    "iconId": "an002037"
+  },
+  "29": {
+    "id": 29,
+    "callID": 1,
+    "levelmin": 281,
+    "levelmax": 290,
+    "name": "毒  蝎·9等",
+    "attrId": 11868,
+    "iconId": "an002037"
+  },
+  "30": {
+    "id": 30,
+    "callID": 1,
+    "levelmin": 291,
+    "levelmax": 300,
+    "name": "毒  蝎·10等",
+    "attrId": 11869,
+    "iconId": "an002037"
+  },
+  "31": {
+    "id": 31,
+    "callID": 1,
+    "levelmin": 301,
+    "levelmax": 310,
+    "name": "毒  蝎·11等",
+    "attrId": 11870,
+    "iconId": "an002037"
+  },
+  "32": {
+    "id": 32,
+    "callID": 1,
+    "levelmin": 311,
+    "levelmax": 320,
+    "name": "毒  蝎·12等",
+    "attrId": 11871,
+    "iconId": "an002037"
+  },
+  "33": {
+    "id": 33,
+    "callID": 1,
+    "levelmin": 321,
+    "levelmax": 330,
+    "name": "毒  蝎·13等",
+    "attrId": 11872,
+    "iconId": "an002037"
+  },
+  "34": {
+    "id": 34,
+    "callID": 1,
+    "levelmin": 331,
+    "levelmax": 340,
+    "name": "毒  蝎·14等",
+    "attrId": 11873,
+    "iconId": "an002037"
+  },
+  "35": {
+    "id": 35,
+    "callID": 1,
+    "levelmin": 341,
+    "levelmax": 350,
+    "name": "毒  蝎·15等",
+    "attrId": 11874,
+    "iconId": "an002037"
+  },
+  "36": {
+    "id": 36,
+    "callID": 1,
+    "levelmin": 351,
+    "levelmax": 360,
+    "name": "毒  蝎·16等",
+    "attrId": 11875,
+    "iconId": "an002037"
+  },
+  "37": {
+    "id": 37,
+    "callID": 1,
+    "levelmin": 361,
+    "levelmax": 370,
+    "name": "毒  蝎·17等",
+    "attrId": 11876,
+    "iconId": "an002037"
+  },
+  "38": {
+    "id": 38,
+    "callID": 1,
+    "levelmin": 371,
+    "levelmax": 380,
+    "name": "毒  蝎·18等",
+    "attrId": 11877,
+    "iconId": "an002037"
+  },
+  "39": {
+    "id": 39,
+    "callID": 1,
+    "levelmin": 381,
+    "levelmax": 390,
+    "name": "毒  蝎·19等",
+    "attrId": 11878,
+    "iconId": "an002037"
+  },
+  "40": {
+    "id": 40,
+    "callID": 1,
+    "levelmin": 391,
+    "levelmax": 400,
+    "name": "毒  蝎·20等",
+    "attrId": 11879,
+    "iconId": "an002037"
+  },
+  "41": {
+    "id": 41,
+    "callID": 1,
+    "levelmin": 401,
+    "levelmax": 410,
+    "name": "蝙  蝠·1等",
+    "attrId": 11880,
+    "iconId": "an002005"
+  },
+  "42": {
+    "id": 42,
+    "callID": 1,
+    "levelmin": 411,
+    "levelmax": 420,
+    "name": "蝙  蝠·2等",
+    "attrId": 11881,
+    "iconId": "an002005"
+  },
+  "43": {
+    "id": 43,
+    "callID": 1,
+    "levelmin": 421,
+    "levelmax": 430,
+    "name": "蝙  蝠·3等",
+    "attrId": 11882,
+    "iconId": "an002005"
+  },
+  "44": {
+    "id": 44,
+    "callID": 1,
+    "levelmin": 431,
+    "levelmax": 440,
+    "name": "蝙  蝠·4等",
+    "attrId": 11883,
+    "iconId": "an002005"
+  },
+  "45": {
+    "id": 45,
+    "callID": 1,
+    "levelmin": 441,
+    "levelmax": 450,
+    "name": "蝙  蝠·5等",
+    "attrId": 11884,
+    "iconId": "an002005"
+  },
+  "46": {
+    "id": 46,
+    "callID": 1,
+    "levelmin": 451,
+    "levelmax": 460,
+    "name": "蝙  蝠·6等",
+    "attrId": 11885,
+    "iconId": "an002005"
+  },
+  "47": {
+    "id": 47,
+    "callID": 1,
+    "levelmin": 461,
+    "levelmax": 470,
+    "name": "蝙  蝠·7等",
+    "attrId": 11886,
+    "iconId": "an002005"
+  },
+  "48": {
+    "id": 48,
+    "callID": 1,
+    "levelmin": 471,
+    "levelmax": 480,
+    "name": "蝙  蝠·8等",
+    "attrId": 11887,
+    "iconId": "an002005"
+  },
+  "49": {
+    "id": 49,
+    "callID": 1,
+    "levelmin": 481,
+    "levelmax": 490,
+    "name": "蝙  蝠·9等",
+    "attrId": 11888,
+    "iconId": "an002005"
+  },
+  "50": {
+    "id": 50,
+    "callID": 1,
+    "levelmin": 491,
+    "levelmax": 500,
+    "name": "蝙  蝠·10等",
+    "attrId": 11889,
+    "iconId": "an002005"
+  },
+  "51": {
+    "id": 51,
+    "callID": 1,
+    "levelmin": 501,
+    "levelmax": 510,
+    "name": "蝙  蝠·11等",
+    "attrId": 11890,
+    "iconId": "an002005"
+  },
+  "52": {
+    "id": 52,
+    "callID": 1,
+    "levelmin": 511,
+    "levelmax": 520,
+    "name": "蝙  蝠·12等",
+    "attrId": 11891,
+    "iconId": "an002005"
+  },
+  "53": {
+    "id": 53,
+    "callID": 1,
+    "levelmin": 521,
+    "levelmax": 530,
+    "name": "蝙  蝠·13等",
+    "attrId": 11892,
+    "iconId": "an002005"
+  },
+  "54": {
+    "id": 54,
+    "callID": 1,
+    "levelmin": 531,
+    "levelmax": 540,
+    "name": "蝙  蝠·14等",
+    "attrId": 11893,
+    "iconId": "an002005"
+  },
+  "55": {
+    "id": 55,
+    "callID": 1,
+    "levelmin": 541,
+    "levelmax": 550,
+    "name": "蝙  蝠·15等",
+    "attrId": 11894,
+    "iconId": "an002005"
+  },
+  "56": {
+    "id": 56,
+    "callID": 1,
+    "levelmin": 551,
+    "levelmax": 560,
+    "name": "蝙  蝠·16等",
+    "attrId": 11895,
+    "iconId": "an002005"
+  },
+  "57": {
+    "id": 57,
+    "callID": 1,
+    "levelmin": 561,
+    "levelmax": 570,
+    "name": "蝙  蝠·17等",
+    "attrId": 11896,
+    "iconId": "an002005"
+  },
+  "58": {
+    "id": 58,
+    "callID": 1,
+    "levelmin": 571,
+    "levelmax": 580,
+    "name": "蝙  蝠·18等",
+    "attrId": 11897,
+    "iconId": "an002005"
+  },
+  "59": {
+    "id": 59,
+    "callID": 1,
+    "levelmin": 581,
+    "levelmax": 590,
+    "name": "蝙  蝠·19等",
+    "attrId": 11898,
+    "iconId": "an002005"
+  },
+  "60": {
+    "id": 60,
+    "callID": 1,
+    "levelmin": 591,
+    "levelmax": 600,
+    "name": "蝙  蝠·20等",
+    "attrId": 11899,
+    "iconId": "an002005"
+  },
+  "61": {
+    "id": 61,
+    "callID": 1,
+    "levelmin": 601,
+    "levelmax": 610,
+    "name": "蜈  蚣·1等",
+    "attrId": 11900,
+    "iconId": "an002035"
+  },
+  "62": {
+    "id": 62,
+    "callID": 1,
+    "levelmin": 611,
+    "levelmax": 620,
+    "name": "蜈  蚣·2等",
+    "attrId": 11901,
+    "iconId": "an002035"
+  },
+  "63": {
+    "id": 63,
+    "callID": 1,
+    "levelmin": 621,
+    "levelmax": 630,
+    "name": "蜈  蚣·3等",
+    "attrId": 11902,
+    "iconId": "an002035"
+  },
+  "64": {
+    "id": 64,
+    "callID": 1,
+    "levelmin": 631,
+    "levelmax": 640,
+    "name": "蜈  蚣·4等",
+    "attrId": 11903,
+    "iconId": "an002035"
+  },
+  "65": {
+    "id": 65,
+    "callID": 1,
+    "levelmin": 641,
+    "levelmax": 650,
+    "name": "蜈  蚣·5等",
+    "attrId": 11904,
+    "iconId": "an002035"
+  },
+  "66": {
+    "id": 66,
+    "callID": 1,
+    "levelmin": 651,
+    "levelmax": 660,
+    "name": "蜈  蚣·6等",
+    "attrId": 11905,
+    "iconId": "an002035"
+  },
+  "67": {
+    "id": 67,
+    "callID": 1,
+    "levelmin": 661,
+    "levelmax": 670,
+    "name": "蜈  蚣·7等",
+    "attrId": 11906,
+    "iconId": "an002035"
+  },
+  "68": {
+    "id": 68,
+    "callID": 1,
+    "levelmin": 671,
+    "levelmax": 680,
+    "name": "蜈  蚣·8等",
+    "attrId": 11907,
+    "iconId": "an002035"
+  },
+  "69": {
+    "id": 69,
+    "callID": 1,
+    "levelmin": 681,
+    "levelmax": 690,
+    "name": "蜈  蚣·9等",
+    "attrId": 11908,
+    "iconId": "an002035"
+  },
+  "70": {
+    "id": 70,
+    "callID": 1,
+    "levelmin": 691,
+    "levelmax": 700,
+    "name": "蜈  蚣·10等",
+    "attrId": 11909,
+    "iconId": "an002035"
+  },
+  "71": {
+    "id": 71,
+    "callID": 1,
+    "levelmin": 701,
+    "levelmax": 710,
+    "name": "蜈  蚣·11等",
+    "attrId": 11910,
+    "iconId": "an002035"
+  },
+  "72": {
+    "id": 72,
+    "callID": 1,
+    "levelmin": 711,
+    "levelmax": 720,
+    "name": "蜈  蚣·12等",
+    "attrId": 11911,
+    "iconId": "an002035"
+  },
+  "73": {
+    "id": 73,
+    "callID": 1,
+    "levelmin": 721,
+    "levelmax": 730,
+    "name": "蜈  蚣·13等",
+    "attrId": 11912,
+    "iconId": "an002035"
+  },
+  "74": {
+    "id": 74,
+    "callID": 1,
+    "levelmin": 731,
+    "levelmax": 740,
+    "name": "蜈  蚣·14等",
+    "attrId": 11913,
+    "iconId": "an002035"
+  },
+  "75": {
+    "id": 75,
+    "callID": 1,
+    "levelmin": 741,
+    "levelmax": 750,
+    "name": "蜈  蚣·15等",
+    "attrId": 11914,
+    "iconId": "an002035"
+  },
+  "76": {
+    "id": 76,
+    "callID": 1,
+    "levelmin": 751,
+    "levelmax": 760,
+    "name": "蜈  蚣·16等",
+    "attrId": 11915,
+    "iconId": "an002035"
+  },
+  "77": {
+    "id": 77,
+    "callID": 1,
+    "levelmin": 761,
+    "levelmax": 770,
+    "name": "蜈  蚣·17等",
+    "attrId": 11916,
+    "iconId": "an002035"
+  },
+  "78": {
+    "id": 78,
+    "callID": 1,
+    "levelmin": 771,
+    "levelmax": 780,
+    "name": "蜈  蚣·18等",
+    "attrId": 11917,
+    "iconId": "an002035"
+  },
+  "79": {
+    "id": 79,
+    "callID": 1,
+    "levelmin": 781,
+    "levelmax": 790,
+    "name": "蜈  蚣·19等",
+    "attrId": 11918,
+    "iconId": "an002035"
+  },
+  "80": {
+    "id": 80,
+    "callID": 1,
+    "levelmin": 791,
+    "levelmax": 800,
+    "name": "蜈  蚣·20等",
+    "attrId": 11919,
+    "iconId": "an002035"
+  },
+  "81": {
+    "id": 81,
+    "callID": 1,
+    "levelmin": 801,
+    "levelmax": 810,
+    "name": "毒  蛙·1等",
+    "attrId": 11920,
+    "iconId": "an002008"
+  },
+  "82": {
+    "id": 82,
+    "callID": 1,
+    "levelmin": 811,
+    "levelmax": 820,
+    "name": "毒  蛙·2等",
+    "attrId": 11921,
+    "iconId": "an002008"
+  },
+  "83": {
+    "id": 83,
+    "callID": 1,
+    "levelmin": 821,
+    "levelmax": 830,
+    "name": "毒  蛙·3等",
+    "attrId": 11922,
+    "iconId": "an002008"
+  },
+  "84": {
+    "id": 84,
+    "callID": 1,
+    "levelmin": 831,
+    "levelmax": 840,
+    "name": "毒  蛙·4等",
+    "attrId": 11923,
+    "iconId": "an002008"
+  },
+  "85": {
+    "id": 85,
+    "callID": 1,
+    "levelmin": 841,
+    "levelmax": 850,
+    "name": "毒  蛙·5等",
+    "attrId": 11924,
+    "iconId": "an002008"
+  },
+  "86": {
+    "id": 86,
+    "callID": 1,
+    "levelmin": 851,
+    "levelmax": 860,
+    "name": "毒  蛙·6等",
+    "attrId": 11925,
+    "iconId": "an002008"
+  },
+  "87": {
+    "id": 87,
+    "callID": 1,
+    "levelmin": 861,
+    "levelmax": 870,
+    "name": "毒  蛙·7等",
+    "attrId": 11926,
+    "iconId": "an002008"
+  },
+  "88": {
+    "id": 88,
+    "callID": 1,
+    "levelmin": 871,
+    "levelmax": 880,
+    "name": "毒  蛙·8等",
+    "attrId": 11927,
+    "iconId": "an002008"
+  },
+  "89": {
+    "id": 89,
+    "callID": 1,
+    "levelmin": 881,
+    "levelmax": 890,
+    "name": "毒  蛙·9等",
+    "attrId": 11928,
+    "iconId": "an002008"
+  },
+  "90": {
+    "id": 90,
+    "callID": 1,
+    "levelmin": 891,
+    "levelmax": 900,
+    "name": "毒  蛙·10等",
+    "attrId": 11929,
+    "iconId": "an002008"
+  },
+  "91": {
+    "id": 91,
+    "callID": 1,
+    "levelmin": 901,
+    "levelmax": 910,
+    "name": "毒  蛙·11等",
+    "attrId": 11930,
+    "iconId": "an002008"
+  },
+  "92": {
+    "id": 92,
+    "callID": 1,
+    "levelmin": 911,
+    "levelmax": 920,
+    "name": "毒  蛙·12等",
+    "attrId": 11931,
+    "iconId": "an002008"
+  },
+  "93": {
+    "id": 93,
+    "callID": 1,
+    "levelmin": 921,
+    "levelmax": 930,
+    "name": "毒  蛙·13等",
+    "attrId": 11932,
+    "iconId": "an002008"
+  },
+  "94": {
+    "id": 94,
+    "callID": 1,
+    "levelmin": 931,
+    "levelmax": 940,
+    "name": "毒  蛙·14等",
+    "attrId": 11933,
+    "iconId": "an002008"
+  },
+  "95": {
+    "id": 95,
+    "callID": 1,
+    "levelmin": 941,
+    "levelmax": 950,
+    "name": "毒  蛙·15等",
+    "attrId": 11934,
+    "iconId": "an002008"
+  },
+  "96": {
+    "id": 96,
+    "callID": 1,
+    "levelmin": 951,
+    "levelmax": 960,
+    "name": "毒  蛙·16等",
+    "attrId": 11935,
+    "iconId": "an002008"
+  },
+  "97": {
+    "id": 97,
+    "callID": 1,
+    "levelmin": 961,
+    "levelmax": 970,
+    "name": "毒  蛙·17等",
+    "attrId": 11936,
+    "iconId": "an002008"
+  },
+  "98": {
+    "id": 98,
+    "callID": 1,
+    "levelmin": 971,
+    "levelmax": 980,
+    "name": "毒  蛙·18等",
+    "attrId": 11937,
+    "iconId": "an002008"
+  },
+  "99": {
+    "id": 99,
+    "callID": 1,
+    "levelmin": 981,
+    "levelmax": 990,
+    "name": "毒  蛙·19等",
+    "attrId": 11938,
+    "iconId": "an002008"
+  },
+  "100": {
+    "id": 100,
+    "callID": 1,
+    "levelmin": 991,
+    "levelmax": 1000,
+    "name": "毒  蛙·20等",
+    "attrId": 11939,
+    "iconId": "an002008"
+  },
+  "1000": {
+    "id": 1000,
+    "callID": 2,
+    "levelmin": 1,
+    "levelmax": 1000,
+    "name": "秦久深",
+    "attrId": 11943,
+    "iconId": "mp0007"
+  },
+  "1001": {
+    "id": 1001,
+    "callID": 3,
+    "levelmin": 1,
+    "levelmax": 1000,
+    "name": "方禁城",
+    "attrId": 11949,
+    "iconId": "mp0031"
+  },
+  "1002": {
+    "id": 1002,
+    "callID": 4,
+    "levelmin": 1,
+    "levelmax": 1000,
+    "name": "王魉呼",
+    "attrId": 11954,
+    "iconId": "mp0006"
+  },
+  "101": {
+    "id": 101,
+    "callID": 5,
+    "levelmin": 1,
+    "levelmax": 10,
+    "name": "蛇  王·1等",
+    "attrId": 12075,
+    "iconId": "an002015"
+  },
+  "102": {
+    "id": 102,
+    "callID": 5,
+    "levelmin": 11,
+    "levelmax": 20,
+    "name": "蛇  王·2等",
+    "attrId": 12078,
+    "iconId": "an002015"
+  },
+  "103": {
+    "id": 103,
+    "callID": 5,
+    "levelmin": 21,
+    "levelmax": 30,
+    "name": "蛇  王·3等",
+    "attrId": 12081,
+    "iconId": "an002015"
+  },
+  "104": {
+    "id": 104,
+    "callID": 5,
+    "levelmin": 31,
+    "levelmax": 40,
+    "name": "蛇  王·4等",
+    "attrId": 12084,
+    "iconId": "an002015"
+  },
+  "105": {
+    "id": 105,
+    "callID": 5,
+    "levelmin": 41,
+    "levelmax": 50,
+    "name": "蛇  王·5等",
+    "attrId": 12087,
+    "iconId": "an002015"
+  },
+  "106": {
+    "id": 106,
+    "callID": 5,
+    "levelmin": 51,
+    "levelmax": 60,
+    "name": "蛇  王·6等",
+    "attrId": 12090,
+    "iconId": "an002015"
+  },
+  "107": {
+    "id": 107,
+    "callID": 5,
+    "levelmin": 61,
+    "levelmax": 70,
+    "name": "蛇  王·7等",
+    "attrId": 12093,
+    "iconId": "an002015"
+  },
+  "108": {
+    "id": 108,
+    "callID": 5,
+    "levelmin": 71,
+    "levelmax": 80,
+    "name": "蛇  王·8等",
+    "attrId": 12096,
+    "iconId": "an002015"
+  },
+  "109": {
+    "id": 109,
+    "callID": 5,
+    "levelmin": 81,
+    "levelmax": 90,
+    "name": "蛇  王·9等",
+    "attrId": 12099,
+    "iconId": "an002015"
+  },
+  "110": {
+    "id": 110,
+    "callID": 5,
+    "levelmin": 91,
+    "levelmax": 100,
+    "name": "蛇  王·10等",
+    "attrId": 12102,
+    "iconId": "an002015"
+  },
+  "111": {
+    "id": 111,
+    "callID": 5,
+    "levelmin": 101,
+    "levelmax": 110,
+    "name": "蛇  王·11等",
+    "attrId": 12105,
+    "iconId": "an002015"
+  },
+  "112": {
+    "id": 112,
+    "callID": 5,
+    "levelmin": 111,
+    "levelmax": 120,
+    "name": "蛇  王·12等",
+    "attrId": 12108,
+    "iconId": "an002015"
+  },
+  "113": {
+    "id": 113,
+    "callID": 5,
+    "levelmin": 121,
+    "levelmax": 130,
+    "name": "蛇  王·13等",
+    "attrId": 12111,
+    "iconId": "an002015"
+  },
+  "114": {
+    "id": 114,
+    "callID": 5,
+    "levelmin": 131,
+    "levelmax": 140,
+    "name": "蛇  王·14等",
+    "attrId": 12114,
+    "iconId": "an002015"
+  },
+  "115": {
+    "id": 115,
+    "callID": 5,
+    "levelmin": 141,
+    "levelmax": 150,
+    "name": "蛇  王·15等",
+    "attrId": 12117,
+    "iconId": "an002015"
+  },
+  "116": {
+    "id": 116,
+    "callID": 5,
+    "levelmin": 151,
+    "levelmax": 160,
+    "name": "蛇  王·16等",
+    "attrId": 12120,
+    "iconId": "an002015"
+  },
+  "117": {
+    "id": 117,
+    "callID": 5,
+    "levelmin": 161,
+    "levelmax": 170,
+    "name": "蛇  王·17等",
+    "attrId": 12123,
+    "iconId": "an002015"
+  },
+  "118": {
+    "id": 118,
+    "callID": 5,
+    "levelmin": 171,
+    "levelmax": 180,
+    "name": "蛇  王·18等",
+    "attrId": 12126,
+    "iconId": "an002015"
+  },
+  "119": {
+    "id": 119,
+    "callID": 5,
+    "levelmin": 181,
+    "levelmax": 190,
+    "name": "蛇  王·19等",
+    "attrId": 12129,
+    "iconId": "an002015"
+  },
+  "120": {
+    "id": 120,
+    "callID": 5,
+    "levelmin": 191,
+    "levelmax": 200,
+    "name": "蛇  王·20等",
+    "attrId": 12132,
+    "iconId": "an002015"
+  },
+  "121": {
+    "id": 121,
+    "callID": 5,
+    "levelmin": 201,
+    "levelmax": 210,
+    "name": "毒蝎王·1等",
+    "attrId": 12135,
+    "iconId": "an002037"
+  },
+  "122": {
+    "id": 122,
+    "callID": 5,
+    "levelmin": 211,
+    "levelmax": 220,
+    "name": "毒蝎王·2等",
+    "attrId": 12138,
+    "iconId": "an002037"
+  },
+  "123": {
+    "id": 123,
+    "callID": 5,
+    "levelmin": 221,
+    "levelmax": 230,
+    "name": "毒蝎王·3等",
+    "attrId": 12141,
+    "iconId": "an002037"
+  },
+  "124": {
+    "id": 124,
+    "callID": 5,
+    "levelmin": 231,
+    "levelmax": 240,
+    "name": "毒蝎王·4等",
+    "attrId": 12144,
+    "iconId": "an002037"
+  },
+  "125": {
+    "id": 125,
+    "callID": 5,
+    "levelmin": 241,
+    "levelmax": 250,
+    "name": "毒蝎王·5等",
+    "attrId": 12147,
+    "iconId": "an002037"
+  },
+  "126": {
+    "id": 126,
+    "callID": 5,
+    "levelmin": 251,
+    "levelmax": 260,
+    "name": "毒蝎王·6等",
+    "attrId": 12150,
+    "iconId": "an002037"
+  },
+  "127": {
+    "id": 127,
+    "callID": 5,
+    "levelmin": 261,
+    "levelmax": 270,
+    "name": "毒蝎王·7等",
+    "attrId": 12153,
+    "iconId": "an002037"
+  },
+  "128": {
+    "id": 128,
+    "callID": 5,
+    "levelmin": 271,
+    "levelmax": 280,
+    "name": "毒蝎王·8等",
+    "attrId": 12156,
+    "iconId": "an002037"
+  },
+  "129": {
+    "id": 129,
+    "callID": 5,
+    "levelmin": 281,
+    "levelmax": 290,
+    "name": "毒蝎王·9等",
+    "attrId": 12159,
+    "iconId": "an002037"
+  },
+  "130": {
+    "id": 130,
+    "callID": 5,
+    "levelmin": 291,
+    "levelmax": 300,
+    "name": "毒蝎王·10等",
+    "attrId": 12162,
+    "iconId": "an002037"
+  },
+  "131": {
+    "id": 131,
+    "callID": 5,
+    "levelmin": 301,
+    "levelmax": 310,
+    "name": "毒蝎王·11等",
+    "attrId": 12165,
+    "iconId": "an002037"
+  },
+  "132": {
+    "id": 132,
+    "callID": 5,
+    "levelmin": 311,
+    "levelmax": 320,
+    "name": "毒蝎王·12等",
+    "attrId": 12168,
+    "iconId": "an002037"
+  },
+  "133": {
+    "id": 133,
+    "callID": 5,
+    "levelmin": 321,
+    "levelmax": 330,
+    "name": "毒蝎王·13等",
+    "attrId": 12171,
+    "iconId": "an002037"
+  },
+  "134": {
+    "id": 134,
+    "callID": 5,
+    "levelmin": 331,
+    "levelmax": 340,
+    "name": "毒蝎王·14等",
+    "attrId": 12174,
+    "iconId": "an002037"
+  },
+  "135": {
+    "id": 135,
+    "callID": 5,
+    "levelmin": 341,
+    "levelmax": 350,
+    "name": "毒蝎王·15等",
+    "attrId": 12177,
+    "iconId": "an002037"
+  },
+  "136": {
+    "id": 136,
+    "callID": 5,
+    "levelmin": 351,
+    "levelmax": 360,
+    "name": "毒蝎王·16等",
+    "attrId": 12180,
+    "iconId": "an002037"
+  },
+  "137": {
+    "id": 137,
+    "callID": 5,
+    "levelmin": 361,
+    "levelmax": 370,
+    "name": "毒蝎王·17等",
+    "attrId": 12183,
+    "iconId": "an002037"
+  },
+  "138": {
+    "id": 138,
+    "callID": 5,
+    "levelmin": 371,
+    "levelmax": 380,
+    "name": "毒蝎王·18等",
+    "attrId": 12186,
+    "iconId": "an002037"
+  },
+  "139": {
+    "id": 139,
+    "callID": 5,
+    "levelmin": 381,
+    "levelmax": 390,
+    "name": "毒蝎王·19等",
+    "attrId": 12189,
+    "iconId": "an002037"
+  },
+  "140": {
+    "id": 140,
+    "callID": 5,
+    "levelmin": 391,
+    "levelmax": 400,
+    "name": "毒蝎王·20等",
+    "attrId": 12192,
+    "iconId": "an002037"
+  },
+  "141": {
+    "id": 141,
+    "callID": 5,
+    "levelmin": 401,
+    "levelmax": 410,
+    "name": "蝙蝠王·1等",
+    "attrId": 12195,
+    "iconId": "an002005"
+  },
+  "142": {
+    "id": 142,
+    "callID": 5,
+    "levelmin": 411,
+    "levelmax": 420,
+    "name": "蝙蝠王·2等",
+    "attrId": 12198,
+    "iconId": "an002005"
+  },
+  "143": {
+    "id": 143,
+    "callID": 5,
+    "levelmin": 421,
+    "levelmax": 430,
+    "name": "蝙蝠王·3等",
+    "attrId": 12201,
+    "iconId": "an002005"
+  },
+  "144": {
+    "id": 144,
+    "callID": 5,
+    "levelmin": 431,
+    "levelmax": 440,
+    "name": "蝙蝠王·4等",
+    "attrId": 12204,
+    "iconId": "an002005"
+  },
+  "145": {
+    "id": 145,
+    "callID": 5,
+    "levelmin": 441,
+    "levelmax": 450,
+    "name": "蝙蝠王·5等",
+    "attrId": 12207,
+    "iconId": "an002005"
+  },
+  "146": {
+    "id": 146,
+    "callID": 5,
+    "levelmin": 451,
+    "levelmax": 460,
+    "name": "蝙蝠王·6等",
+    "attrId": 12210,
+    "iconId": "an002005"
+  },
+  "147": {
+    "id": 147,
+    "callID": 5,
+    "levelmin": 461,
+    "levelmax": 470,
+    "name": "蝙蝠王·7等",
+    "attrId": 12213,
+    "iconId": "an002005"
+  },
+  "148": {
+    "id": 148,
+    "callID": 5,
+    "levelmin": 471,
+    "levelmax": 480,
+    "name": "蝙蝠王·8等",
+    "attrId": 12216,
+    "iconId": "an002005"
+  },
+  "149": {
+    "id": 149,
+    "callID": 5,
+    "levelmin": 481,
+    "levelmax": 490,
+    "name": "蝙蝠王·9等",
+    "attrId": 12219,
+    "iconId": "an002005"
+  },
+  "150": {
+    "id": 150,
+    "callID": 5,
+    "levelmin": 491,
+    "levelmax": 500,
+    "name": "蝙蝠王·10等",
+    "attrId": 12222,
+    "iconId": "an002005"
+  },
+  "151": {
+    "id": 151,
+    "callID": 5,
+    "levelmin": 501,
+    "levelmax": 510,
+    "name": "蝙蝠王·11等",
+    "attrId": 12225,
+    "iconId": "an002005"
+  },
+  "152": {
+    "id": 152,
+    "callID": 5,
+    "levelmin": 511,
+    "levelmax": 520,
+    "name": "蝙蝠王·12等",
+    "attrId": 12228,
+    "iconId": "an002005"
+  },
+  "153": {
+    "id": 153,
+    "callID": 5,
+    "levelmin": 521,
+    "levelmax": 530,
+    "name": "蝙蝠王·13等",
+    "attrId": 12231,
+    "iconId": "an002005"
+  },
+  "154": {
+    "id": 154,
+    "callID": 5,
+    "levelmin": 531,
+    "levelmax": 540,
+    "name": "蝙蝠王·14等",
+    "attrId": 12234,
+    "iconId": "an002005"
+  },
+  "155": {
+    "id": 155,
+    "callID": 5,
+    "levelmin": 541,
+    "levelmax": 550,
+    "name": "蝙蝠王·15等",
+    "attrId": 12237,
+    "iconId": "an002005"
+  },
+  "156": {
+    "id": 156,
+    "callID": 5,
+    "levelmin": 551,
+    "levelmax": 560,
+    "name": "蝙蝠王·16等",
+    "attrId": 12240,
+    "iconId": "an002005"
+  },
+  "157": {
+    "id": 157,
+    "callID": 5,
+    "levelmin": 561,
+    "levelmax": 570,
+    "name": "蝙蝠王·17等",
+    "attrId": 12243,
+    "iconId": "an002005"
+  },
+  "158": {
+    "id": 158,
+    "callID": 5,
+    "levelmin": 571,
+    "levelmax": 580,
+    "name": "蝙蝠王·18等",
+    "attrId": 12246,
+    "iconId": "an002005"
+  },
+  "159": {
+    "id": 159,
+    "callID": 5,
+    "levelmin": 581,
+    "levelmax": 590,
+    "name": "蝙蝠王·19等",
+    "attrId": 12249,
+    "iconId": "an002005"
+  },
+  "160": {
+    "id": 160,
+    "callID": 5,
+    "levelmin": 591,
+    "levelmax": 600,
+    "name": "蝙蝠王·20等",
+    "attrId": 12252,
+    "iconId": "an002005"
+  },
+  "161": {
+    "id": 161,
+    "callID": 5,
+    "levelmin": 601,
+    "levelmax": 610,
+    "name": "蜈蚣王·1等",
+    "attrId": 12255,
+    "iconId": "an002035"
+  },
+  "162": {
+    "id": 162,
+    "callID": 5,
+    "levelmin": 611,
+    "levelmax": 620,
+    "name": "蜈蚣王·1等",
+    "attrId": 12258,
+    "iconId": "an002035"
+  },
+  "163": {
+    "id": 163,
+    "callID": 5,
+    "levelmin": 621,
+    "levelmax": 630,
+    "name": "蜈蚣王·1等",
+    "attrId": 12261,
+    "iconId": "an002035"
+  },
+  "164": {
+    "id": 164,
+    "callID": 5,
+    "levelmin": 631,
+    "levelmax": 640,
+    "name": "蜈蚣王·1等",
+    "attrId": 12264,
+    "iconId": "an002035"
+  },
+  "165": {
+    "id": 165,
+    "callID": 5,
+    "levelmin": 641,
+    "levelmax": 650,
+    "name": "蜈蚣王·1等",
+    "attrId": 12267,
+    "iconId": "an002035"
+  },
+  "166": {
+    "id": 166,
+    "callID": 5,
+    "levelmin": 651,
+    "levelmax": 660,
+    "name": "蜈蚣王·1等",
+    "attrId": 12270,
+    "iconId": "an002035"
+  },
+  "167": {
+    "id": 167,
+    "callID": 5,
+    "levelmin": 661,
+    "levelmax": 670,
+    "name": "蜈蚣王·1等",
+    "attrId": 12273,
+    "iconId": "an002035"
+  },
+  "168": {
+    "id": 168,
+    "callID": 5,
+    "levelmin": 671,
+    "levelmax": 680,
+    "name": "蜈蚣王·1等",
+    "attrId": 12276,
+    "iconId": "an002035"
+  },
+  "169": {
+    "id": 169,
+    "callID": 5,
+    "levelmin": 681,
+    "levelmax": 690,
+    "name": "蜈蚣王·1等",
+    "attrId": 12279,
+    "iconId": "an002035"
+  },
+  "170": {
+    "id": 170,
+    "callID": 5,
+    "levelmin": 691,
+    "levelmax": 700,
+    "name": "蜈蚣王·1等",
+    "attrId": 12282,
+    "iconId": "an002035"
+  },
+  "171": {
+    "id": 171,
+    "callID": 5,
+    "levelmin": 701,
+    "levelmax": 710,
+    "name": "蜈蚣王·1等",
+    "attrId": 12285,
+    "iconId": "an002035"
+  },
+  "172": {
+    "id": 172,
+    "callID": 5,
+    "levelmin": 711,
+    "levelmax": 720,
+    "name": "蜈蚣王·1等",
+    "attrId": 12288,
+    "iconId": "an002035"
+  },
+  "173": {
+    "id": 173,
+    "callID": 5,
+    "levelmin": 721,
+    "levelmax": 730,
+    "name": "蜈蚣王·1等",
+    "attrId": 12291,
+    "iconId": "an002035"
+  },
+  "174": {
+    "id": 174,
+    "callID": 5,
+    "levelmin": 731,
+    "levelmax": 740,
+    "name": "蜈蚣王·1等",
+    "attrId": 12294,
+    "iconId": "an002035"
+  },
+  "175": {
+    "id": 175,
+    "callID": 5,
+    "levelmin": 741,
+    "levelmax": 750,
+    "name": "蜈蚣王·1等",
+    "attrId": 12297,
+    "iconId": "an002035"
+  },
+  "176": {
+    "id": 176,
+    "callID": 5,
+    "levelmin": 751,
+    "levelmax": 760,
+    "name": "蜈蚣王·1等",
+    "attrId": 12300,
+    "iconId": "an002035"
+  },
+  "177": {
+    "id": 177,
+    "callID": 5,
+    "levelmin": 761,
+    "levelmax": 770,
+    "name": "蜈蚣王·1等",
+    "attrId": 12303,
+    "iconId": "an002035"
+  },
+  "178": {
+    "id": 178,
+    "callID": 5,
+    "levelmin": 771,
+    "levelmax": 780,
+    "name": "蜈蚣王·1等",
+    "attrId": 12306,
+    "iconId": "an002035"
+  },
+  "179": {
+    "id": 179,
+    "callID": 5,
+    "levelmin": 781,
+    "levelmax": 790,
+    "name": "蜈蚣王·1等",
+    "attrId": 12309,
+    "iconId": "an002035"
+  },
+  "180": {
+    "id": 180,
+    "callID": 5,
+    "levelmin": 791,
+    "levelmax": 800,
+    "name": "蜈蚣王·1等",
+    "attrId": 12312,
+    "iconId": "an002035"
+  },
+  "181": {
+    "id": 181,
+    "callID": 5,
+    "levelmin": 801,
+    "levelmax": 810,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12315,
+    "iconId": "an002008"
+  },
+  "182": {
+    "id": 182,
+    "callID": 5,
+    "levelmin": 811,
+    "levelmax": 820,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12318,
+    "iconId": "an002008"
+  },
+  "183": {
+    "id": 183,
+    "callID": 5,
+    "levelmin": 821,
+    "levelmax": 830,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12321,
+    "iconId": "an002008"
+  },
+  "184": {
+    "id": 184,
+    "callID": 5,
+    "levelmin": 831,
+    "levelmax": 840,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12324,
+    "iconId": "an002008"
+  },
+  "185": {
+    "id": 185,
+    "callID": 5,
+    "levelmin": 841,
+    "levelmax": 850,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12327,
+    "iconId": "an002008"
+  },
+  "186": {
+    "id": 186,
+    "callID": 5,
+    "levelmin": 851,
+    "levelmax": 860,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12330,
+    "iconId": "an002008"
+  },
+  "187": {
+    "id": 187,
+    "callID": 5,
+    "levelmin": 861,
+    "levelmax": 870,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12333,
+    "iconId": "an002008"
+  },
+  "188": {
+    "id": 188,
+    "callID": 5,
+    "levelmin": 871,
+    "levelmax": 880,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12336,
+    "iconId": "an002008"
+  },
+  "189": {
+    "id": 189,
+    "callID": 5,
+    "levelmin": 881,
+    "levelmax": 890,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12339,
+    "iconId": "an002008"
+  },
+  "190": {
+    "id": 190,
+    "callID": 5,
+    "levelmin": 891,
+    "levelmax": 900,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12342,
+    "iconId": "an002008"
+  },
+  "191": {
+    "id": 191,
+    "callID": 5,
+    "levelmin": 901,
+    "levelmax": 910,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12345,
+    "iconId": "an002008"
+  },
+  "192": {
+    "id": 192,
+    "callID": 5,
+    "levelmin": 911,
+    "levelmax": 920,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12348,
+    "iconId": "an002008"
+  },
+  "193": {
+    "id": 193,
+    "callID": 5,
+    "levelmin": 921,
+    "levelmax": 930,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12351,
+    "iconId": "an002008"
+  },
+  "194": {
+    "id": 194,
+    "callID": 5,
+    "levelmin": 931,
+    "levelmax": 940,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12354,
+    "iconId": "an002008"
+  },
+  "195": {
+    "id": 195,
+    "callID": 5,
+    "levelmin": 941,
+    "levelmax": 950,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12357,
+    "iconId": "an002008"
+  },
+  "196": {
+    "id": 196,
+    "callID": 5,
+    "levelmin": 951,
+    "levelmax": 960,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12360,
+    "iconId": "an002008"
+  },
+  "197": {
+    "id": 197,
+    "callID": 5,
+    "levelmin": 961,
+    "levelmax": 970,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12363,
+    "iconId": "an002008"
+  },
+  "198": {
+    "id": 198,
+    "callID": 5,
+    "levelmin": 971,
+    "levelmax": 980,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12366,
+    "iconId": "an002008"
+  },
+  "199": {
+    "id": 199,
+    "callID": 5,
+    "levelmin": 981,
+    "levelmax": 990,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12369,
+    "iconId": "an002008"
+  },
+  "200": {
+    "id": 200,
+    "callID": 5,
+    "levelmin": 991,
+    "levelmax": 1000,
+    "name": "赤睛朱蛤·1等",
+    "attrId": 12372,
+    "iconId": "an002008"
+  }
+}
